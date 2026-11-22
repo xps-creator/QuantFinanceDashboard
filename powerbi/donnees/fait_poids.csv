@@ -1,0 +1,3281 @@
+date,ticker,poids,strategie
+2020-01-31,AAPL,0.125,Équipondéré
+2020-01-31,MSFT,0.125,Équipondéré
+2020-01-31,NVDA,0.125,Équipondéré
+2020-01-31,GOOG,0.125,Équipondéré
+2020-01-31,META,0.125,Équipondéré
+2020-01-31,SAP,0.125,Équipondéré
+2020-01-31,TSM,0.125,Équipondéré
+2020-01-31,NFLX,0.125,Équipondéré
+2020-02-29,AAPL,0.125,Équipondéré
+2020-02-29,MSFT,0.125,Équipondéré
+2020-02-29,NVDA,0.125,Équipondéré
+2020-02-29,GOOG,0.125,Équipondéré
+2020-02-29,META,0.125,Équipondéré
+2020-02-29,SAP,0.125,Équipondéré
+2020-02-29,TSM,0.125,Équipondéré
+2020-02-29,NFLX,0.125,Équipondéré
+2020-03-31,AAPL,0.125,Équipondéré
+2020-03-31,MSFT,0.125,Équipondéré
+2020-03-31,NVDA,0.125,Équipondéré
+2020-03-31,GOOG,0.125,Équipondéré
+2020-03-31,META,0.125,Équipondéré
+2020-03-31,SAP,0.125,Équipondéré
+2020-03-31,TSM,0.125,Équipondéré
+2020-03-31,NFLX,0.125,Équipondéré
+2020-04-30,AAPL,0.125,Équipondéré
+2020-04-30,MSFT,0.125,Équipondéré
+2020-04-30,NVDA,0.125,Équipondéré
+2020-04-30,GOOG,0.125,Équipondéré
+2020-04-30,META,0.125,Équipondéré
+2020-04-30,SAP,0.125,Équipondéré
+2020-04-30,TSM,0.125,Équipondéré
+2020-04-30,NFLX,0.125,Équipondéré
+2020-05-31,AAPL,0.125,Équipondéré
+2020-05-31,MSFT,0.125,Équipondéré
+2020-05-31,NVDA,0.125,Équipondéré
+2020-05-31,GOOG,0.125,Équipondéré
+2020-05-31,META,0.125,Équipondéré
+2020-05-31,SAP,0.125,Équipondéré
+2020-05-31,TSM,0.125,Équipondéré
+2020-05-31,NFLX,0.125,Équipondéré
+2020-06-30,AAPL,0.125,Équipondéré
+2020-06-30,MSFT,0.125,Équipondéré
+2020-06-30,NVDA,0.125,Équipondéré
+2020-06-30,GOOG,0.125,Équipondéré
+2020-06-30,META,0.125,Équipondéré
+2020-06-30,SAP,0.125,Équipondéré
+2020-06-30,TSM,0.125,Équipondéré
+2020-06-30,NFLX,0.125,Équipondéré
+2020-07-31,AAPL,0.125,Équipondéré
+2020-07-31,MSFT,0.125,Équipondéré
+2020-07-31,NVDA,0.125,Équipondéré
+2020-07-31,GOOG,0.125,Équipondéré
+2020-07-31,META,0.125,Équipondéré
+2020-07-31,SAP,0.125,Équipondéré
+2020-07-31,TSM,0.125,Équipondéré
+2020-07-31,NFLX,0.125,Équipondéré
+2020-08-31,AAPL,0.125,Équipondéré
+2020-08-31,MSFT,0.125,Équipondéré
+2020-08-31,NVDA,0.125,Équipondéré
+2020-08-31,GOOG,0.125,Équipondéré
+2020-08-31,META,0.125,Équipondéré
+2020-08-31,SAP,0.125,Équipondéré
+2020-08-31,TSM,0.125,Équipondéré
+2020-08-31,NFLX,0.125,Équipondéré
+2020-09-30,AAPL,0.125,Équipondéré
+2020-09-30,MSFT,0.125,Équipondéré
+2020-09-30,NVDA,0.125,Équipondéré
+2020-09-30,GOOG,0.125,Équipondéré
+2020-09-30,META,0.125,Équipondéré
+2020-09-30,SAP,0.125,Équipondéré
+2020-09-30,TSM,0.125,Équipondéré
+2020-09-30,NFLX,0.125,Équipondéré
+2020-10-31,AAPL,0.125,Équipondéré
+2020-10-31,MSFT,0.125,Équipondéré
+2020-10-31,NVDA,0.125,Équipondéré
+2020-10-31,GOOG,0.125,Équipondéré
+2020-10-31,META,0.125,Équipondéré
+2020-10-31,SAP,0.125,Équipondéré
+2020-10-31,TSM,0.125,Équipondéré
+2020-10-31,NFLX,0.125,Équipondéré
+2020-11-30,AAPL,0.125,Équipondéré
+2020-11-30,MSFT,0.125,Équipondéré
+2020-11-30,NVDA,0.125,Équipondéré
+2020-11-30,GOOG,0.125,Équipondéré
+2020-11-30,META,0.125,Équipondéré
+2020-11-30,SAP,0.125,Équipondéré
+2020-11-30,TSM,0.125,Équipondéré
+2020-11-30,NFLX,0.125,Équipondéré
+2020-12-31,AAPL,0.125,Équipondéré
+2020-12-31,MSFT,0.125,Équipondéré
+2020-12-31,NVDA,0.125,Équipondéré
+2020-12-31,GOOG,0.125,Équipondéré
+2020-12-31,META,0.125,Équipondéré
+2020-12-31,SAP,0.125,Équipondéré
+2020-12-31,TSM,0.125,Équipondéré
+2020-12-31,NFLX,0.125,Équipondéré
+2021-01-31,AAPL,0.125,Équipondéré
+2021-01-31,MSFT,0.125,Équipondéré
+2021-01-31,NVDA,0.125,Équipondéré
+2021-01-31,GOOG,0.125,Équipondéré
+2021-01-31,META,0.125,Équipondéré
+2021-01-31,SAP,0.125,Équipondéré
+2021-01-31,TSM,0.125,Équipondéré
+2021-01-31,NFLX,0.125,Équipondéré
+2021-02-28,AAPL,0.125,Équipondéré
+2021-02-28,MSFT,0.125,Équipondéré
+2021-02-28,NVDA,0.125,Équipondéré
+2021-02-28,GOOG,0.125,Équipondéré
+2021-02-28,META,0.125,Équipondéré
+2021-02-28,SAP,0.125,Équipondéré
+2021-02-28,TSM,0.125,Équipondéré
+2021-02-28,NFLX,0.125,Équipondéré
+2021-03-31,AAPL,0.125,Équipondéré
+2021-03-31,MSFT,0.125,Équipondéré
+2021-03-31,NVDA,0.125,Équipondéré
+2021-03-31,GOOG,0.125,Équipondéré
+2021-03-31,META,0.125,Équipondéré
+2021-03-31,SAP,0.125,Équipondéré
+2021-03-31,TSM,0.125,Équipondéré
+2021-03-31,NFLX,0.125,Équipondéré
+2021-04-30,AAPL,0.125,Équipondéré
+2021-04-30,MSFT,0.125,Équipondéré
+2021-04-30,NVDA,0.125,Équipondéré
+2021-04-30,GOOG,0.125,Équipondéré
+2021-04-30,META,0.125,Équipondéré
+2021-04-30,SAP,0.125,Équipondéré
+2021-04-30,TSM,0.125,Équipondéré
+2021-04-30,NFLX,0.125,Équipondéré
+2021-05-31,AAPL,0.125,Équipondéré
+2021-05-31,MSFT,0.125,Équipondéré
+2021-05-31,NVDA,0.125,Équipondéré
+2021-05-31,GOOG,0.125,Équipondéré
+2021-05-31,META,0.125,Équipondéré
+2021-05-31,SAP,0.125,Équipondéré
+2021-05-31,TSM,0.125,Équipondéré
+2021-05-31,NFLX,0.125,Équipondéré
+2021-06-30,AAPL,0.125,Équipondéré
+2021-06-30,MSFT,0.125,Équipondéré
+2021-06-30,NVDA,0.125,Équipondéré
+2021-06-30,GOOG,0.125,Équipondéré
+2021-06-30,META,0.125,Équipondéré
+2021-06-30,SAP,0.125,Équipondéré
+2021-06-30,TSM,0.125,Équipondéré
+2021-06-30,NFLX,0.125,Équipondéré
+2021-07-31,AAPL,0.125,Équipondéré
+2021-07-31,MSFT,0.125,Équipondéré
+2021-07-31,NVDA,0.125,Équipondéré
+2021-07-31,GOOG,0.125,Équipondéré
+2021-07-31,META,0.125,Équipondéré
+2021-07-31,SAP,0.125,Équipondéré
+2021-07-31,TSM,0.125,Équipondéré
+2021-07-31,NFLX,0.125,Équipondéré
+2021-08-31,AAPL,0.125,Équipondéré
+2021-08-31,MSFT,0.125,Équipondéré
+2021-08-31,NVDA,0.125,Équipondéré
+2021-08-31,GOOG,0.125,Équipondéré
+2021-08-31,META,0.125,Équipondéré
+2021-08-31,SAP,0.125,Équipondéré
+2021-08-31,TSM,0.125,Équipondéré
+2021-08-31,NFLX,0.125,Équipondéré
+2021-09-30,AAPL,0.125,Équipondéré
+2021-09-30,MSFT,0.125,Équipondéré
+2021-09-30,NVDA,0.125,Équipondéré
+2021-09-30,GOOG,0.125,Équipondéré
+2021-09-30,META,0.125,Équipondéré
+2021-09-30,SAP,0.125,Équipondéré
+2021-09-30,TSM,0.125,Équipondéré
+2021-09-30,NFLX,0.125,Équipondéré
+2021-10-31,AAPL,0.125,Équipondéré
+2021-10-31,MSFT,0.125,Équipondéré
+2021-10-31,NVDA,0.125,Équipondéré
+2021-10-31,GOOG,0.125,Équipondéré
+2021-10-31,META,0.125,Équipondéré
+2021-10-31,SAP,0.125,Équipondéré
+2021-10-31,TSM,0.125,Équipondéré
+2021-10-31,NFLX,0.125,Équipondéré
+2021-11-30,AAPL,0.125,Équipondéré
+2021-11-30,MSFT,0.125,Équipondéré
+2021-11-30,NVDA,0.125,Équipondéré
+2021-11-30,GOOG,0.125,Équipondéré
+2021-11-30,META,0.125,Équipondéré
+2021-11-30,SAP,0.125,Équipondéré
+2021-11-30,TSM,0.125,Équipondéré
+2021-11-30,NFLX,0.125,Équipondéré
+2021-12-31,AAPL,0.125,Équipondéré
+2021-12-31,MSFT,0.125,Équipondéré
+2021-12-31,NVDA,0.125,Équipondéré
+2021-12-31,GOOG,0.125,Équipondéré
+2021-12-31,META,0.125,Équipondéré
+2021-12-31,SAP,0.125,Équipondéré
+2021-12-31,TSM,0.125,Équipondéré
+2021-12-31,NFLX,0.125,Équipondéré
+2022-01-31,AAPL,0.125,Équipondéré
+2022-01-31,MSFT,0.125,Équipondéré
+2022-01-31,NVDA,0.125,Équipondéré
+2022-01-31,GOOG,0.125,Équipondéré
+2022-01-31,META,0.125,Équipondéré
+2022-01-31,SAP,0.125,Équipondéré
+2022-01-31,TSM,0.125,Équipondéré
+2022-01-31,NFLX,0.125,Équipondéré
+2022-02-28,AAPL,0.125,Équipondéré
+2022-02-28,MSFT,0.125,Équipondéré
+2022-02-28,NVDA,0.125,Équipondéré
+2022-02-28,GOOG,0.125,Équipondéré
+2022-02-28,META,0.125,Équipondéré
+2022-02-28,SAP,0.125,Équipondéré
+2022-02-28,TSM,0.125,Équipondéré
+2022-02-28,NFLX,0.125,Équipondéré
+2022-03-31,AAPL,0.125,Équipondéré
+2022-03-31,MSFT,0.125,Équipondéré
+2022-03-31,NVDA,0.125,Équipondéré
+2022-03-31,GOOG,0.125,Équipondéré
+2022-03-31,META,0.125,Équipondéré
+2022-03-31,SAP,0.125,Équipondéré
+2022-03-31,TSM,0.125,Équipondéré
+2022-03-31,NFLX,0.125,Équipondéré
+2022-04-30,AAPL,0.125,Équipondéré
+2022-04-30,MSFT,0.125,Équipondéré
+2022-04-30,NVDA,0.125,Équipondéré
+2022-04-30,GOOG,0.125,Équipondéré
+2022-04-30,META,0.125,Équipondéré
+2022-04-30,SAP,0.125,Équipondéré
+2022-04-30,TSM,0.125,Équipondéré
+2022-04-30,NFLX,0.125,Équipondéré
+2022-05-31,AAPL,0.125,Équipondéré
+2022-05-31,MSFT,0.125,Équipondéré
+2022-05-31,NVDA,0.125,Équipondéré
+2022-05-31,GOOG,0.125,Équipondéré
+2022-05-31,META,0.125,Équipondéré
+2022-05-31,SAP,0.125,Équipondéré
+2022-05-31,TSM,0.125,Équipondéré
+2022-05-31,NFLX,0.125,Équipondéré
+2022-06-30,AAPL,0.125,Équipondéré
+2022-06-30,MSFT,0.125,Équipondéré
+2022-06-30,NVDA,0.125,Équipondéré
+2022-06-30,GOOG,0.125,Équipondéré
+2022-06-30,META,0.125,Équipondéré
+2022-06-30,SAP,0.125,Équipondéré
+2022-06-30,TSM,0.125,Équipondéré
+2022-06-30,NFLX,0.125,Équipondéré
+2022-07-31,AAPL,0.125,Équipondéré
+2022-07-31,MSFT,0.125,Équipondéré
+2022-07-31,NVDA,0.125,Équipondéré
+2022-07-31,GOOG,0.125,Équipondéré
+2022-07-31,META,0.125,Équipondéré
+2022-07-31,SAP,0.125,Équipondéré
+2022-07-31,TSM,0.125,Équipondéré
+2022-07-31,NFLX,0.125,Équipondéré
+2022-08-31,AAPL,0.125,Équipondéré
+2022-08-31,MSFT,0.125,Équipondéré
+2022-08-31,NVDA,0.125,Équipondéré
+2022-08-31,GOOG,0.125,Équipondéré
+2022-08-31,META,0.125,Équipondéré
+2022-08-31,SAP,0.125,Équipondéré
+2022-08-31,TSM,0.125,Équipondéré
+2022-08-31,NFLX,0.125,Équipondéré
+2022-09-30,AAPL,0.125,Équipondéré
+2022-09-30,MSFT,0.125,Équipondéré
+2022-09-30,NVDA,0.125,Équipondéré
+2022-09-30,GOOG,0.125,Équipondéré
+2022-09-30,META,0.125,Équipondéré
+2022-09-30,SAP,0.125,Équipondéré
+2022-09-30,TSM,0.125,Équipondéré
+2022-09-30,NFLX,0.125,Équipondéré
+2022-10-31,AAPL,0.125,Équipondéré
+2022-10-31,MSFT,0.125,Équipondéré
+2022-10-31,NVDA,0.125,Équipondéré
+2022-10-31,GOOG,0.125,Équipondéré
+2022-10-31,META,0.125,Équipondéré
+2022-10-31,SAP,0.125,Équipondéré
+2022-10-31,TSM,0.125,Équipondéré
+2022-10-31,NFLX,0.125,Équipondéré
+2022-11-30,AAPL,0.125,Équipondéré
+2022-11-30,MSFT,0.125,Équipondéré
+2022-11-30,NVDA,0.125,Équipondéré
+2022-11-30,GOOG,0.125,Équipondéré
+2022-11-30,META,0.125,Équipondéré
+2022-11-30,SAP,0.125,Équipondéré
+2022-11-30,TSM,0.125,Équipondéré
+2022-11-30,NFLX,0.125,Équipondéré
+2022-12-31,AAPL,0.125,Équipondéré
+2022-12-31,MSFT,0.125,Équipondéré
+2022-12-31,NVDA,0.125,Équipondéré
+2022-12-31,GOOG,0.125,Équipondéré
+2022-12-31,META,0.125,Équipondéré
+2022-12-31,SAP,0.125,Équipondéré
+2022-12-31,TSM,0.125,Équipondéré
+2022-12-31,NFLX,0.125,Équipondéré
+2023-01-31,AAPL,0.125,Équipondéré
+2023-01-31,MSFT,0.125,Équipondéré
+2023-01-31,NVDA,0.125,Équipondéré
+2023-01-31,GOOG,0.125,Équipondéré
+2023-01-31,META,0.125,Équipondéré
+2023-01-31,SAP,0.125,Équipondéré
+2023-01-31,TSM,0.125,Équipondéré
+2023-01-31,NFLX,0.125,Équipondéré
+2023-02-28,AAPL,0.125,Équipondéré
+2023-02-28,MSFT,0.125,Équipondéré
+2023-02-28,NVDA,0.125,Équipondéré
+2023-02-28,GOOG,0.125,Équipondéré
+2023-02-28,META,0.125,Équipondéré
+2023-02-28,SAP,0.125,Équipondéré
+2023-02-28,TSM,0.125,Équipondéré
+2023-02-28,NFLX,0.125,Équipondéré
+2023-03-31,AAPL,0.125,Équipondéré
+2023-03-31,MSFT,0.125,Équipondéré
+2023-03-31,NVDA,0.125,Équipondéré
+2023-03-31,GOOG,0.125,Équipondéré
+2023-03-31,META,0.125,Équipondéré
+2023-03-31,SAP,0.125,Équipondéré
+2023-03-31,TSM,0.125,Équipondéré
+2023-03-31,NFLX,0.125,Équipondéré
+2023-04-30,AAPL,0.125,Équipondéré
+2023-04-30,MSFT,0.125,Équipondéré
+2023-04-30,NVDA,0.125,Équipondéré
+2023-04-30,GOOG,0.125,Équipondéré
+2023-04-30,META,0.125,Équipondéré
+2023-04-30,SAP,0.125,Équipondéré
+2023-04-30,TSM,0.125,Équipondéré
+2023-04-30,NFLX,0.125,Équipondéré
+2023-05-31,AAPL,0.125,Équipondéré
+2023-05-31,MSFT,0.125,Équipondéré
+2023-05-31,NVDA,0.125,Équipondéré
+2023-05-31,GOOG,0.125,Équipondéré
+2023-05-31,META,0.125,Équipondéré
+2023-05-31,SAP,0.125,Équipondéré
+2023-05-31,TSM,0.125,Équipondéré
+2023-05-31,NFLX,0.125,Équipondéré
+2023-06-30,AAPL,0.125,Équipondéré
+2023-06-30,MSFT,0.125,Équipondéré
+2023-06-30,NVDA,0.125,Équipondéré
+2023-06-30,GOOG,0.125,Équipondéré
+2023-06-30,META,0.125,Équipondéré
+2023-06-30,SAP,0.125,Équipondéré
+2023-06-30,TSM,0.125,Équipondéré
+2023-06-30,NFLX,0.125,Équipondéré
+2023-07-31,AAPL,0.125,Équipondéré
+2023-07-31,MSFT,0.125,Équipondéré
+2023-07-31,NVDA,0.125,Équipondéré
+2023-07-31,GOOG,0.125,Équipondéré
+2023-07-31,META,0.125,Équipondéré
+2023-07-31,SAP,0.125,Équipondéré
+2023-07-31,TSM,0.125,Équipondéré
+2023-07-31,NFLX,0.125,Équipondéré
+2023-08-31,AAPL,0.125,Équipondéré
+2023-08-31,MSFT,0.125,Équipondéré
+2023-08-31,NVDA,0.125,Équipondéré
+2023-08-31,GOOG,0.125,Équipondéré
+2023-08-31,META,0.125,Équipondéré
+2023-08-31,SAP,0.125,Équipondéré
+2023-08-31,TSM,0.125,Équipondéré
+2023-08-31,NFLX,0.125,Équipondéré
+2023-09-30,AAPL,0.125,Équipondéré
+2023-09-30,MSFT,0.125,Équipondéré
+2023-09-30,NVDA,0.125,Équipondéré
+2023-09-30,GOOG,0.125,Équipondéré
+2023-09-30,META,0.125,Équipondéré
+2023-09-30,SAP,0.125,Équipondéré
+2023-09-30,TSM,0.125,Équipondéré
+2023-09-30,NFLX,0.125,Équipondéré
+2023-10-31,AAPL,0.125,Équipondéré
+2023-10-31,MSFT,0.125,Équipondéré
+2023-10-31,NVDA,0.125,Équipondéré
+2023-10-31,GOOG,0.125,Équipondéré
+2023-10-31,META,0.125,Équipondéré
+2023-10-31,SAP,0.125,Équipondéré
+2023-10-31,TSM,0.125,Équipondéré
+2023-10-31,NFLX,0.125,Équipondéré
+2023-11-30,AAPL,0.125,Équipondéré
+2023-11-30,MSFT,0.125,Équipondéré
+2023-11-30,NVDA,0.125,Équipondéré
+2023-11-30,GOOG,0.125,Équipondéré
+2023-11-30,META,0.125,Équipondéré
+2023-11-30,SAP,0.125,Équipondéré
+2023-11-30,TSM,0.125,Équipondéré
+2023-11-30,NFLX,0.125,Équipondéré
+2023-12-31,AAPL,0.125,Équipondéré
+2023-12-31,MSFT,0.125,Équipondéré
+2023-12-31,NVDA,0.125,Équipondéré
+2023-12-31,GOOG,0.125,Équipondéré
+2023-12-31,META,0.125,Équipondéré
+2023-12-31,SAP,0.125,Équipondéré
+2023-12-31,TSM,0.125,Équipondéré
+2023-12-31,NFLX,0.125,Équipondéré
+2024-01-31,AAPL,0.125,Équipondéré
+2024-01-31,MSFT,0.125,Équipondéré
+2024-01-31,NVDA,0.125,Équipondéré
+2024-01-31,GOOG,0.125,Équipondéré
+2024-01-31,META,0.125,Équipondéré
+2024-01-31,SAP,0.125,Équipondéré
+2024-01-31,TSM,0.125,Équipondéré
+2024-01-31,NFLX,0.125,Équipondéré
+2024-02-29,AAPL,0.125,Équipondéré
+2024-02-29,MSFT,0.125,Équipondéré
+2024-02-29,NVDA,0.125,Équipondéré
+2024-02-29,GOOG,0.125,Équipondéré
+2024-02-29,META,0.125,Équipondéré
+2024-02-29,SAP,0.125,Équipondéré
+2024-02-29,TSM,0.125,Équipondéré
+2024-02-29,NFLX,0.125,Équipondéré
+2024-03-31,AAPL,0.125,Équipondéré
+2024-03-31,MSFT,0.125,Équipondéré
+2024-03-31,NVDA,0.125,Équipondéré
+2024-03-31,GOOG,0.125,Équipondéré
+2024-03-31,META,0.125,Équipondéré
+2024-03-31,SAP,0.125,Équipondéré
+2024-03-31,TSM,0.125,Équipondéré
+2024-03-31,NFLX,0.125,Équipondéré
+2024-04-30,AAPL,0.125,Équipondéré
+2024-04-30,MSFT,0.125,Équipondéré
+2024-04-30,NVDA,0.125,Équipondéré
+2024-04-30,GOOG,0.125,Équipondéré
+2024-04-30,META,0.125,Équipondéré
+2024-04-30,SAP,0.125,Équipondéré
+2024-04-30,TSM,0.125,Équipondéré
+2024-04-30,NFLX,0.125,Équipondéré
+2024-05-31,AAPL,0.125,Équipondéré
+2024-05-31,MSFT,0.125,Équipondéré
+2024-05-31,NVDA,0.125,Équipondéré
+2024-05-31,GOOG,0.125,Équipondéré
+2024-05-31,META,0.125,Équipondéré
+2024-05-31,SAP,0.125,Équipondéré
+2024-05-31,TSM,0.125,Équipondéré
+2024-05-31,NFLX,0.125,Équipondéré
+2024-06-30,AAPL,0.125,Équipondéré
+2024-06-30,MSFT,0.125,Équipondéré
+2024-06-30,NVDA,0.125,Équipondéré
+2024-06-30,GOOG,0.125,Équipondéré
+2024-06-30,META,0.125,Équipondéré
+2024-06-30,SAP,0.125,Équipondéré
+2024-06-30,TSM,0.125,Équipondéré
+2024-06-30,NFLX,0.125,Équipondéré
+2024-07-31,AAPL,0.125,Équipondéré
+2024-07-31,MSFT,0.125,Équipondéré
+2024-07-31,NVDA,0.125,Équipondéré
+2024-07-31,GOOG,0.125,Équipondéré
+2024-07-31,META,0.125,Équipondéré
+2024-07-31,SAP,0.125,Équipondéré
+2024-07-31,TSM,0.125,Équipondéré
+2024-07-31,NFLX,0.125,Équipondéré
+2024-08-31,AAPL,0.125,Équipondéré
+2024-08-31,MSFT,0.125,Équipondéré
+2024-08-31,NVDA,0.125,Équipondéré
+2024-08-31,GOOG,0.125,Équipondéré
+2024-08-31,META,0.125,Équipondéré
+2024-08-31,SAP,0.125,Équipondéré
+2024-08-31,TSM,0.125,Équipondéré
+2024-08-31,NFLX,0.125,Équipondéré
+2024-09-30,AAPL,0.125,Équipondéré
+2024-09-30,MSFT,0.125,Équipondéré
+2024-09-30,NVDA,0.125,Équipondéré
+2024-09-30,GOOG,0.125,Équipondéré
+2024-09-30,META,0.125,Équipondéré
+2024-09-30,SAP,0.125,Équipondéré
+2024-09-30,TSM,0.125,Équipondéré
+2024-09-30,NFLX,0.125,Équipondéré
+2024-10-31,AAPL,0.125,Équipondéré
+2024-10-31,MSFT,0.125,Équipondéré
+2024-10-31,NVDA,0.125,Équipondéré
+2024-10-31,GOOG,0.125,Équipondéré
+2024-10-31,META,0.125,Équipondéré
+2024-10-31,SAP,0.125,Équipondéré
+2024-10-31,TSM,0.125,Équipondéré
+2024-10-31,NFLX,0.125,Équipondéré
+2024-11-30,AAPL,0.125,Équipondéré
+2024-11-30,MSFT,0.125,Équipondéré
+2024-11-30,NVDA,0.125,Équipondéré
+2024-11-30,GOOG,0.125,Équipondéré
+2024-11-30,META,0.125,Équipondéré
+2024-11-30,SAP,0.125,Équipondéré
+2024-11-30,TSM,0.125,Équipondéré
+2024-11-30,NFLX,0.125,Équipondéré
+2024-12-31,AAPL,0.125,Équipondéré
+2024-12-31,MSFT,0.125,Équipondéré
+2024-12-31,NVDA,0.125,Équipondéré
+2024-12-31,GOOG,0.125,Équipondéré
+2024-12-31,META,0.125,Équipondéré
+2024-12-31,SAP,0.125,Équipondéré
+2024-12-31,TSM,0.125,Équipondéré
+2024-12-31,NFLX,0.125,Équipondéré
+2025-01-31,AAPL,0.125,Équipondéré
+2025-01-31,MSFT,0.125,Équipondéré
+2025-01-31,NVDA,0.125,Équipondéré
+2025-01-31,GOOG,0.125,Équipondéré
+2025-01-31,META,0.125,Équipondéré
+2025-01-31,SAP,0.125,Équipondéré
+2025-01-31,TSM,0.125,Équipondéré
+2025-01-31,NFLX,0.125,Équipondéré
+2025-02-28,AAPL,0.125,Équipondéré
+2025-02-28,MSFT,0.125,Équipondéré
+2025-02-28,NVDA,0.125,Équipondéré
+2025-02-28,GOOG,0.125,Équipondéré
+2025-02-28,META,0.125,Équipondéré
+2025-02-28,SAP,0.125,Équipondéré
+2025-02-28,TSM,0.125,Équipondéré
+2025-02-28,NFLX,0.125,Équipondéré
+2025-03-31,AAPL,0.125,Équipondéré
+2025-03-31,MSFT,0.125,Équipondéré
+2025-03-31,NVDA,0.125,Équipondéré
+2025-03-31,GOOG,0.125,Équipondéré
+2025-03-31,META,0.125,Équipondéré
+2025-03-31,SAP,0.125,Équipondéré
+2025-03-31,TSM,0.125,Équipondéré
+2025-03-31,NFLX,0.125,Équipondéré
+2025-04-30,AAPL,0.125,Équipondéré
+2025-04-30,MSFT,0.125,Équipondéré
+2025-04-30,NVDA,0.125,Équipondéré
+2025-04-30,GOOG,0.125,Équipondéré
+2025-04-30,META,0.125,Équipondéré
+2025-04-30,SAP,0.125,Équipondéré
+2025-04-30,TSM,0.125,Équipondéré
+2025-04-30,NFLX,0.125,Équipondéré
+2025-05-31,AAPL,0.125,Équipondéré
+2025-05-31,MSFT,0.125,Équipondéré
+2025-05-31,NVDA,0.125,Équipondéré
+2025-05-31,GOOG,0.125,Équipondéré
+2025-05-31,META,0.125,Équipondéré
+2025-05-31,SAP,0.125,Équipondéré
+2025-05-31,TSM,0.125,Équipondéré
+2025-05-31,NFLX,0.125,Équipondéré
+2025-06-30,AAPL,0.125,Équipondéré
+2025-06-30,MSFT,0.125,Équipondéré
+2025-06-30,NVDA,0.125,Équipondéré
+2025-06-30,GOOG,0.125,Équipondéré
+2025-06-30,META,0.125,Équipondéré
+2025-06-30,SAP,0.125,Équipondéré
+2025-06-30,TSM,0.125,Équipondéré
+2025-06-30,NFLX,0.125,Équipondéré
+2025-07-31,AAPL,0.125,Équipondéré
+2025-07-31,MSFT,0.125,Équipondéré
+2025-07-31,NVDA,0.125,Équipondéré
+2025-07-31,GOOG,0.125,Équipondéré
+2025-07-31,META,0.125,Équipondéré
+2025-07-31,SAP,0.125,Équipondéré
+2025-07-31,TSM,0.125,Équipondéré
+2025-07-31,NFLX,0.125,Équipondéré
+2025-08-31,AAPL,0.125,Équipondéré
+2025-08-31,MSFT,0.125,Équipondéré
+2025-08-31,NVDA,0.125,Équipondéré
+2025-08-31,GOOG,0.125,Équipondéré
+2025-08-31,META,0.125,Équipondéré
+2025-08-31,SAP,0.125,Équipondéré
+2025-08-31,TSM,0.125,Équipondéré
+2025-08-31,NFLX,0.125,Équipondéré
+2025-09-30,AAPL,0.125,Équipondéré
+2025-09-30,MSFT,0.125,Équipondéré
+2025-09-30,NVDA,0.125,Équipondéré
+2025-09-30,GOOG,0.125,Équipondéré
+2025-09-30,META,0.125,Équipondéré
+2025-09-30,SAP,0.125,Équipondéré
+2025-09-30,TSM,0.125,Équipondéré
+2025-09-30,NFLX,0.125,Équipondéré
+2025-10-31,AAPL,0.125,Équipondéré
+2025-10-31,MSFT,0.125,Équipondéré
+2025-10-31,NVDA,0.125,Équipondéré
+2025-10-31,GOOG,0.125,Équipondéré
+2025-10-31,META,0.125,Équipondéré
+2025-10-31,SAP,0.125,Équipondéré
+2025-10-31,TSM,0.125,Équipondéré
+2025-10-31,NFLX,0.125,Équipondéré
+2025-11-30,AAPL,0.125,Équipondéré
+2025-11-30,MSFT,0.125,Équipondéré
+2025-11-30,NVDA,0.125,Équipondéré
+2025-11-30,GOOG,0.125,Équipondéré
+2025-11-30,META,0.125,Équipondéré
+2025-11-30,SAP,0.125,Équipondéré
+2025-11-30,TSM,0.125,Équipondéré
+2025-11-30,NFLX,0.125,Équipondéré
+2025-12-31,AAPL,0.125,Équipondéré
+2025-12-31,MSFT,0.125,Équipondéré
+2025-12-31,NVDA,0.125,Équipondéré
+2025-12-31,GOOG,0.125,Équipondéré
+2025-12-31,META,0.125,Équipondéré
+2025-12-31,SAP,0.125,Équipondéré
+2025-12-31,TSM,0.125,Équipondéré
+2025-12-31,NFLX,0.125,Équipondéré
+2026-01-31,AAPL,0.125,Équipondéré
+2026-01-31,MSFT,0.125,Équipondéré
+2026-01-31,NVDA,0.125,Équipondéré
+2026-01-31,GOOG,0.125,Équipondéré
+2026-01-31,META,0.125,Équipondéré
+2026-01-31,SAP,0.125,Équipondéré
+2026-01-31,TSM,0.125,Équipondéré
+2026-01-31,NFLX,0.125,Équipondéré
+2026-02-28,AAPL,0.125,Équipondéré
+2026-02-28,MSFT,0.125,Équipondéré
+2026-02-28,NVDA,0.125,Équipondéré
+2026-02-28,GOOG,0.125,Équipondéré
+2026-02-28,META,0.125,Équipondéré
+2026-02-28,SAP,0.125,Équipondéré
+2026-02-28,TSM,0.125,Équipondéré
+2026-02-28,NFLX,0.125,Équipondéré
+2026-03-31,AAPL,0.125,Équipondéré
+2026-03-31,MSFT,0.125,Équipondéré
+2026-03-31,NVDA,0.125,Équipondéré
+2026-03-31,GOOG,0.125,Équipondéré
+2026-03-31,META,0.125,Équipondéré
+2026-03-31,SAP,0.125,Équipondéré
+2026-03-31,TSM,0.125,Équipondéré
+2026-03-31,NFLX,0.125,Équipondéré
+2026-04-30,AAPL,0.125,Équipondéré
+2026-04-30,MSFT,0.125,Équipondéré
+2026-04-30,NVDA,0.125,Équipondéré
+2026-04-30,GOOG,0.125,Équipondéré
+2026-04-30,META,0.125,Équipondéré
+2026-04-30,SAP,0.125,Équipondéré
+2026-04-30,TSM,0.125,Équipondéré
+2026-04-30,NFLX,0.125,Équipondéré
+2026-05-31,AAPL,0.125,Équipondéré
+2026-05-31,MSFT,0.125,Équipondéré
+2026-05-31,NVDA,0.125,Équipondéré
+2026-05-31,GOOG,0.125,Équipondéré
+2026-05-31,META,0.125,Équipondéré
+2026-05-31,SAP,0.125,Équipondéré
+2026-05-31,TSM,0.125,Équipondéré
+2026-05-31,NFLX,0.125,Équipondéré
+2026-06-30,AAPL,0.125,Équipondéré
+2026-06-30,MSFT,0.125,Équipondéré
+2026-06-30,NVDA,0.125,Équipondéré
+2026-06-30,GOOG,0.125,Équipondéré
+2026-06-30,META,0.125,Équipondéré
+2026-06-30,SAP,0.125,Équipondéré
+2026-06-30,TSM,0.125,Équipondéré
+2026-06-30,NFLX,0.125,Équipondéré
+2026-07-31,AAPL,0.125,Équipondéré
+2026-07-31,MSFT,0.125,Équipondéré
+2026-07-31,NVDA,0.125,Équipondéré
+2026-07-31,GOOG,0.125,Équipondéré
+2026-07-31,META,0.125,Équipondéré
+2026-07-31,SAP,0.125,Équipondéré
+2026-07-31,TSM,0.125,Équipondéré
+2026-07-31,NFLX,0.125,Équipondéré
+2026-08-31,AAPL,0.125,Équipondéré
+2026-08-31,MSFT,0.125,Équipondéré
+2026-08-31,NVDA,0.125,Équipondéré
+2026-08-31,GOOG,0.125,Équipondéré
+2026-08-31,META,0.125,Équipondéré
+2026-08-31,SAP,0.125,Équipondéré
+2026-08-31,TSM,0.125,Équipondéré
+2026-08-31,NFLX,0.125,Équipondéré
+2026-09-30,AAPL,0.125,Équipondéré
+2026-09-30,MSFT,0.125,Équipondéré
+2026-09-30,NVDA,0.125,Équipondéré
+2026-09-30,GOOG,0.125,Équipondéré
+2026-09-30,META,0.125,Équipondéré
+2026-09-30,SAP,0.125,Équipondéré
+2026-09-30,TSM,0.125,Équipondéré
+2026-09-30,NFLX,0.125,Équipondéré
+2026-10-31,AAPL,0.125,Équipondéré
+2026-10-31,MSFT,0.125,Équipondéré
+2026-10-31,NVDA,0.125,Équipondéré
+2026-10-31,GOOG,0.125,Équipondéré
+2026-10-31,META,0.125,Équipondéré
+2026-10-31,SAP,0.125,Équipondéré
+2026-10-31,TSM,0.125,Équipondéré
+2026-10-31,NFLX,0.125,Équipondéré
+2020-01-31,AAPL,5.763617493496268e-18,Variance minimale
+2020-01-31,MSFT,0.35,Variance minimale
+2020-01-31,NVDA,1.3812790056255019e-17,Variance minimale
+2020-01-31,GOOG,0.12400946211070113,Variance minimale
+2020-01-31,META,0.10268802792897114,Variance minimale
+2020-01-31,SAP,0.19993071758163838,Variance minimale
+2020-01-31,TSM,0.19964364918423524,Variance minimale
+2020-01-31,NFLX,0.023728143194454168,Variance minimale
+2020-02-29,AAPL,6.147718559097165e-17,Variance minimale
+2020-02-29,MSFT,0.21826057535647816,Variance minimale
+2020-02-29,NVDA,2.960164171989782e-17,Variance minimale
+2020-02-29,GOOG,0.1525386788905777,Variance minimale
+2020-02-29,META,0.12532328601562123,Variance minimale
+2020-02-29,SAP,0.23573609596043138,Variance minimale
+2020-02-29,TSM,0.21198199894768288,Variance minimale
+2020-02-29,NFLX,0.056159364829208594,Variance minimale
+2020-03-31,AAPL,0.0,Variance minimale
+2020-03-31,MSFT,4.235761246702543e-17,Variance minimale
+2020-03-31,NVDA,5.641458738521024e-17,Variance minimale
+2020-03-31,GOOG,0.2908643628258848,Variance minimale
+2020-03-31,META,0.05591352299341533,Variance minimale
+2020-03-31,SAP,0.2563421624127016,Variance minimale
+2020-03-31,TSM,0.22679452104810574,Variance minimale
+2020-03-31,NFLX,0.17008543071989254,Variance minimale
+2020-04-30,AAPL,0.0,Variance minimale
+2020-04-30,MSFT,1.1701086872189377e-16,Variance minimale
+2020-04-30,NVDA,0.0,Variance minimale
+2020-04-30,GOOG,0.21872111539212022,Variance minimale
+2020-04-30,META,0.01612824824113363,Variance minimale
+2020-04-30,SAP,0.34999999999999987,Variance minimale
+2020-04-30,TSM,0.2139053325584461,Variance minimale
+2020-04-30,NFLX,0.20124530380829997,Variance minimale
+2020-05-31,AAPL,0.0,Variance minimale
+2020-05-31,MSFT,0.0,Variance minimale
+2020-05-31,NVDA,0.0,Variance minimale
+2020-05-31,GOOG,0.22052889696100397,Variance minimale
+2020-05-31,META,0.03342970688708528,Variance minimale
+2020-05-31,SAP,0.32147586258387245,Variance minimale
+2020-05-31,TSM,0.19985827449113416,Variance minimale
+2020-05-31,NFLX,0.22470725907690425,Variance minimale
+2020-06-30,AAPL,8.277260307655991e-18,Variance minimale
+2020-06-30,MSFT,6.230828707089602e-18,Variance minimale
+2020-06-30,NVDA,5.272375814155368e-17,Variance minimale
+2020-06-30,GOOG,0.2270051168105622,Variance minimale
+2020-06-30,META,0.0,Variance minimale
+2020-06-30,SAP,0.30218631373310756,Variance minimale
+2020-06-30,TSM,0.2343126497287143,Variance minimale
+2020-06-30,NFLX,0.23649591972761583,Variance minimale
+2020-07-31,AAPL,0.0,Variance minimale
+2020-07-31,MSFT,4.4210705137209136e-18,Variance minimale
+2020-07-31,NVDA,2.252724679422884e-17,Variance minimale
+2020-07-31,GOOG,0.3363148389189497,Variance minimale
+2020-07-31,META,4.637910948218013e-18,Variance minimale
+2020-07-31,SAP,0.33452054486393823,Variance minimale
+2020-07-31,TSM,0.08261793530571526,Variance minimale
+2020-07-31,NFLX,0.24654668091139678,Variance minimale
+2020-08-31,AAPL,0.0,Variance minimale
+2020-08-31,MSFT,7.306750376247599e-18,Variance minimale
+2020-08-31,NVDA,0.0,Variance minimale
+2020-08-31,GOOG,0.35,Variance minimale
+2020-08-31,META,2.6605549046489578e-17,Variance minimale
+2020-08-31,SAP,0.3318224095573793,Variance minimale
+2020-08-31,TSM,0.1060812208293686,Variance minimale
+2020-08-31,NFLX,0.21209636961325226,Variance minimale
+2020-09-30,AAPL,4.5549614352373094e-17,Variance minimale
+2020-09-30,MSFT,7.785883909244113e-17,Variance minimale
+2020-09-30,NVDA,0.0,Variance minimale
+2020-09-30,GOOG,0.32516463258138695,Variance minimale
+2020-09-30,META,1.7360357867749985e-17,Variance minimale
+2020-09-30,SAP,0.3316191213688045,Variance minimale
+2020-09-30,TSM,0.11793128975338202,Variance minimale
+2020-09-30,NFLX,0.2252849562964264,Variance minimale
+2020-10-31,AAPL,0.0,Variance minimale
+2020-10-31,MSFT,0.0,Variance minimale
+2020-10-31,NVDA,0.0,Variance minimale
+2020-10-31,GOOG,0.35,Variance minimale
+2020-10-31,META,0.007730804668786388,Variance minimale
+2020-10-31,SAP,0.21524210046285835,Variance minimale
+2020-10-31,TSM,0.17002118356153262,Variance minimale
+2020-10-31,NFLX,0.2570059113068228,Variance minimale
+2020-11-30,AAPL,1.0065453032058541e-16,Variance minimale
+2020-11-30,MSFT,2.996597438119282e-17,Variance minimale
+2020-11-30,NVDA,6.902358714476794e-17,Variance minimale
+2020-11-30,GOOG,0.35000000000000003,Variance minimale
+2020-11-30,META,1.52374362079933e-16,Variance minimale
+2020-11-30,SAP,0.218896664613884,Variance minimale
+2020-11-30,TSM,0.16907465396586935,Variance minimale
+2020-11-30,NFLX,0.2620286814202464,Variance minimale
+2020-12-31,AAPL,0.0,Variance minimale
+2020-12-31,MSFT,0.0,Variance minimale
+2020-12-31,NVDA,3.1635497638999095e-17,Variance minimale
+2020-12-31,GOOG,0.3499999999999999,Variance minimale
+2020-12-31,META,2.3612401562606363e-17,Variance minimale
+2020-12-31,SAP,0.2209977643132508,Variance minimale
+2020-12-31,TSM,0.1693103968586595,Variance minimale
+2020-12-31,NFLX,0.25969183882808966,Variance minimale
+2021-01-31,AAPL,0.0,Variance minimale
+2021-01-31,MSFT,0.0,Variance minimale
+2021-01-31,NVDA,1.8824111740329345e-17,Variance minimale
+2021-01-31,GOOG,0.35,Variance minimale
+2021-01-31,META,1.524123408428066e-17,Variance minimale
+2021-01-31,SAP,0.24288823341294147,Variance minimale
+2021-01-31,TSM,0.19483805823767814,Variance minimale
+2021-01-31,NFLX,0.21227370834938053,Variance minimale
+2021-02-28,AAPL,0.006313319360438034,Variance minimale
+2021-02-28,MSFT,0.0,Variance minimale
+2021-02-28,NVDA,0.0,Variance minimale
+2021-02-28,GOOG,0.35,Variance minimale
+2021-02-28,META,1.8214596497756474e-17,Variance minimale
+2021-02-28,SAP,0.23283697555019361,Variance minimale
+2021-02-28,TSM,0.1909265345795224,Variance minimale
+2021-02-28,NFLX,0.21992317050984586,Variance minimale
+2021-03-31,AAPL,0.03975486676059033,Variance minimale
+2021-03-31,MSFT,0.24351547484728633,Variance minimale
+2021-03-31,NVDA,0.0,Variance minimale
+2021-03-31,GOOG,0.2600154094321704,Variance minimale
+2021-03-31,META,0.0,Variance minimale
+2021-03-31,SAP,0.2106179194178322,Variance minimale
+2021-03-31,TSM,0.12241828753802507,Variance minimale
+2021-03-31,NFLX,0.12367804200409575,Variance minimale
+2021-04-30,AAPL,0.0606985038677071,Variance minimale
+2021-04-30,MSFT,0.26773894517511415,Variance minimale
+2021-04-30,NVDA,2.4059016917796054e-18,Variance minimale
+2021-04-30,GOOG,0.33013589087418477,Variance minimale
+2021-04-30,META,0.0,Variance minimale
+2021-04-30,SAP,0.15989514898126833,Variance minimale
+2021-04-30,TSM,0.10832825669885746,Variance minimale
+2021-04-30,NFLX,0.0732032544028682,Variance minimale
+2021-05-31,AAPL,0.048894769028233996,Variance minimale
+2021-05-31,MSFT,0.2768841087711474,Variance minimale
+2021-05-31,NVDA,8.19680273863295e-18,Variance minimale
+2021-05-31,GOOG,0.3207111194080231,Variance minimale
+2021-05-31,META,5.358188647781603e-18,Variance minimale
+2021-05-31,SAP,0.16711689852328837,Variance minimale
+2021-05-31,TSM,0.11307018406848297,Variance minimale
+2021-05-31,NFLX,0.07332292020082416,Variance minimale
+2021-06-30,AAPL,0.062060543188322055,Variance minimale
+2021-06-30,MSFT,0.28836393605627486,Variance minimale
+2021-06-30,NVDA,1.972667890849813e-17,Variance minimale
+2021-06-30,GOOG,0.33752657224071264,Variance minimale
+2021-06-30,META,0.0,Variance minimale
+2021-06-30,SAP,0.15362130360796364,Variance minimale
+2021-06-30,TSM,0.09340793251993212,Variance minimale
+2021-06-30,NFLX,0.0650197123867947,Variance minimale
+2021-07-31,AAPL,0.029803877702934342,Variance minimale
+2021-07-31,MSFT,0.3037354084618106,Variance minimale
+2021-07-31,NVDA,0.0,Variance minimale
+2021-07-31,GOOG,0.28153655024540536,Variance minimale
+2021-07-31,META,4.084282942576194e-18,Variance minimale
+2021-07-31,SAP,0.16558151951385255,Variance minimale
+2021-07-31,TSM,0.14190935112071196,Variance minimale
+2021-07-31,NFLX,0.07743329295528528,Variance minimale
+2021-08-31,AAPL,2.829946244111898e-17,Variance minimale
+2021-08-31,MSFT,0.35,Variance minimale
+2021-08-31,NVDA,0.0,Variance minimale
+2021-08-31,GOOG,0.2567977425079516,Variance minimale
+2021-08-31,META,0.0,Variance minimale
+2021-08-31,SAP,0.1620116611850831,Variance minimale
+2021-08-31,TSM,0.12334867589470219,Variance minimale
+2021-08-31,NFLX,0.10784192041226319,Variance minimale
+2021-09-30,AAPL,0.05549264171704584,Variance minimale
+2021-09-30,MSFT,0.35,Variance minimale
+2021-09-30,NVDA,2.4031957313406867e-17,Variance minimale
+2021-09-30,GOOG,0.2588197790735306,Variance minimale
+2021-09-30,META,0.0,Variance minimale
+2021-09-30,SAP,0.13377043127536287,Variance minimale
+2021-09-30,TSM,0.09812279160780367,Variance minimale
+2021-09-30,NFLX,0.10379435632625703,Variance minimale
+2021-10-31,AAPL,0.0,Variance minimale
+2021-10-31,MSFT,0.32646833046476736,Variance minimale
+2021-10-31,NVDA,0.0,Variance minimale
+2021-10-31,GOOG,0.1759030274744855,Variance minimale
+2021-10-31,META,1.2129898697569469e-18,Variance minimale
+2021-10-31,SAP,0.35,Variance minimale
+2021-10-31,TSM,0.06350469278747825,Variance minimale
+2021-10-31,NFLX,0.0841239492732691,Variance minimale
+2021-11-30,AAPL,0.04706699700749584,Variance minimale
+2021-11-30,MSFT,0.35,Variance minimale
+2021-11-30,NVDA,0.0,Variance minimale
+2021-11-30,GOOG,0.0939315835603858,Variance minimale
+2021-11-30,META,0.048256421735793545,Variance minimale
+2021-11-30,SAP,0.32231796635764126,Variance minimale
+2021-11-30,TSM,0.058634707138860764,Variance minimale
+2021-11-30,NFLX,0.07979232419982285,Variance minimale
+2021-12-31,AAPL,0.041136600317810974,Variance minimale
+2021-12-31,MSFT,0.29393349471137364,Variance minimale
+2021-12-31,NVDA,0.0,Variance minimale
+2021-12-31,GOOG,0.11516800701626577,Variance minimale
+2021-12-31,META,0.050938157248952294,Variance minimale
+2021-12-31,SAP,0.35,Variance minimale
+2021-12-31,TSM,0.05419048966869597,Variance minimale
+2021-12-31,NFLX,0.09463325103690143,Variance minimale
+2022-01-31,AAPL,0.07802556660386503,Variance minimale
+2022-01-31,MSFT,0.286977666078766,Variance minimale
+2022-01-31,NVDA,0.0,Variance minimale
+2022-01-31,GOOG,0.1701118381392332,Variance minimale
+2022-01-31,META,0.05041961382874468,Variance minimale
+2022-01-31,SAP,0.34502849663731455,Variance minimale
+2022-01-31,TSM,0.008112649183239659,Variance minimale
+2022-01-31,NFLX,0.06132416952883684,Variance minimale
+2022-02-28,AAPL,0.18006987046343456,Variance minimale
+2022-02-28,MSFT,0.20876614693795567,Variance minimale
+2022-02-28,NVDA,0.0,Variance minimale
+2022-02-28,GOOG,0.16926162853454957,Variance minimale
+2022-02-28,META,5.273746191428305e-18,Variance minimale
+2022-02-28,SAP,0.35,Variance minimale
+2022-02-28,TSM,0.04118779323760593,Variance minimale
+2022-02-28,NFLX,0.0507145608264544,Variance minimale
+2022-03-31,AAPL,0.21926106606220064,Variance minimale
+2022-03-31,MSFT,0.20915967212095146,Variance minimale
+2022-03-31,NVDA,1.1079253461437913e-17,Variance minimale
+2022-03-31,GOOG,0.13994220437436908,Variance minimale
+2022-03-31,META,5.604032490386116e-18,Variance minimale
+2022-03-31,SAP,0.28553204407867405,Variance minimale
+2022-03-31,TSM,0.09936392006865756,Variance minimale
+2022-03-31,NFLX,0.046741093295147175,Variance minimale
+2022-04-30,AAPL,0.24001072401757306,Variance minimale
+2022-04-30,MSFT,0.1919710927398047,Variance minimale
+2022-04-30,NVDA,0.0,Variance minimale
+2022-04-30,GOOG,0.12763166776391527,Variance minimale
+2022-04-30,META,0.0,Variance minimale
+2022-04-30,SAP,0.3499999999999999,Variance minimale
+2022-04-30,TSM,0.07841596535526708,Variance minimale
+2022-04-30,NFLX,0.011970550123439937,Variance minimale
+2022-05-31,AAPL,0.15905741266315354,Variance minimale
+2022-05-31,MSFT,0.21670955180369808,Variance minimale
+2022-05-31,NVDA,0.0,Variance minimale
+2022-05-31,GOOG,0.15743188105771844,Variance minimale
+2022-05-31,META,0.0,Variance minimale
+2022-05-31,SAP,0.35,Variance minimale
+2022-05-31,TSM,0.11680115447542999,Variance minimale
+2022-05-31,NFLX,4.402576579969044e-17,Variance minimale
+2022-06-30,AAPL,0.12539819954267378,Variance minimale
+2022-06-30,MSFT,0.2903054200784932,Variance minimale
+2022-06-30,NVDA,0.0,Variance minimale
+2022-06-30,GOOG,0.06767812664994123,Variance minimale
+2022-06-30,META,0.0,Variance minimale
+2022-06-30,SAP,0.3499999999999998,Variance minimale
+2022-06-30,TSM,0.16661825372889197,Variance minimale
+2022-06-30,NFLX,9.237418082970581e-18,Variance minimale
+2022-07-31,AAPL,0.22543613611327598,Variance minimale
+2022-07-31,MSFT,0.25779390344500275,Variance minimale
+2022-07-31,NVDA,4.973465723198332e-17,Variance minimale
+2022-07-31,GOOG,0.011638807724330038,Variance minimale
+2022-07-31,META,7.551617443213174e-19,Variance minimale
+2022-07-31,SAP,0.35,Variance minimale
+2022-07-31,TSM,0.1551311527173913,Variance minimale
+2022-07-31,NFLX,2.839430167062775e-17,Variance minimale
+2022-08-31,AAPL,0.24030752003319494,Variance minimale
+2022-08-31,MSFT,0.26031092011909623,Variance minimale
+2022-08-31,NVDA,0.0,Variance minimale
+2022-08-31,GOOG,2.347473326326238e-16,Variance minimale
+2022-08-31,META,1.742548820326282e-18,Variance minimale
+2022-08-31,SAP,0.35,Variance minimale
+2022-08-31,TSM,0.14938155984770857,Variance minimale
+2022-08-31,NFLX,6.092556732557284e-18,Variance minimale
+2022-09-30,AAPL,0.1880112567154314,Variance minimale
+2022-09-30,MSFT,0.2891488158796334,Variance minimale
+2022-09-30,NVDA,0.0,Variance minimale
+2022-09-30,GOOG,8.217477198543204e-17,Variance minimale
+2022-09-30,META,0.0,Variance minimale
+2022-09-30,SAP,0.3499999999999999,Variance minimale
+2022-09-30,TSM,0.17283992740493517,Variance minimale
+2022-09-30,NFLX,1.3933499761309435e-17,Variance minimale
+2022-10-31,AAPL,0.20274148746853193,Variance minimale
+2022-10-31,MSFT,0.23390987899349985,Variance minimale
+2022-10-31,NVDA,0.0,Variance minimale
+2022-10-31,GOOG,0.024830854306852276,Variance minimale
+2022-10-31,META,0.0,Variance minimale
+2022-10-31,SAP,0.3499999999999999,Variance minimale
+2022-10-31,TSM,0.18851777923111585,Variance minimale
+2022-10-31,NFLX,5.899452617936772e-17,Variance minimale
+2022-11-30,AAPL,0.22950350533052558,Variance minimale
+2022-11-30,MSFT,0.2350891511930707,Variance minimale
+2022-11-30,NVDA,0.0,Variance minimale
+2022-11-30,GOOG,0.013837720243174027,Variance minimale
+2022-11-30,META,0.0,Variance minimale
+2022-11-30,SAP,0.35,Variance minimale
+2022-11-30,TSM,0.17156962323322972,Variance minimale
+2022-11-30,NFLX,4.680607155841163e-17,Variance minimale
+2022-12-31,AAPL,0.21439446312991392,Variance minimale
+2022-12-31,MSFT,0.26135230036910506,Variance minimale
+2022-12-31,NVDA,0.0,Variance minimale
+2022-12-31,GOOG,0.0,Variance minimale
+2022-12-31,META,5.996138785678278e-17,Variance minimale
+2022-12-31,SAP,0.3499999999999999,Variance minimale
+2022-12-31,TSM,0.1742532365009811,Variance minimale
+2022-12-31,NFLX,0.0,Variance minimale
+2023-01-31,AAPL,0.22705354995458743,Variance minimale
+2023-01-31,MSFT,0.24129483492102047,Variance minimale
+2023-01-31,NVDA,3.101524489073231e-17,Variance minimale
+2023-01-31,GOOG,3.770839589874875e-18,Variance minimale
+2023-01-31,META,0.0,Variance minimale
+2023-01-31,SAP,0.3499999999999999,Variance minimale
+2023-01-31,TSM,0.18165161512439212,Variance minimale
+2023-01-31,NFLX,1.4675255117338387e-18,Variance minimale
+2023-02-28,AAPL,0.24727256886766066,Variance minimale
+2023-02-28,MSFT,0.22831704960080346,Variance minimale
+2023-02-28,NVDA,4.9362925429420754e-17,Variance minimale
+2023-02-28,GOOG,0.0,Variance minimale
+2023-02-28,META,1.2702055548235095e-17,Variance minimale
+2023-02-28,SAP,0.35,Variance minimale
+2023-02-28,TSM,0.1744103815315359,Variance minimale
+2023-02-28,NFLX,0.0,Variance minimale
+2023-03-31,AAPL,0.22363131776681408,Variance minimale
+2023-03-31,MSFT,0.23250172405370215,Variance minimale
+2023-03-31,NVDA,3.3479952338088898e-18,Variance minimale
+2023-03-31,GOOG,0.0,Variance minimale
+2023-03-31,META,2.3346588512514738e-17,Variance minimale
+2023-03-31,SAP,0.35,Variance minimale
+2023-03-31,TSM,0.1938669581794838,Variance minimale
+2023-03-31,NFLX,2.6554219299835964e-17,Variance minimale
+2023-04-30,AAPL,0.22621682918775207,Variance minimale
+2023-04-30,MSFT,0.21788836018739074,Variance minimale
+2023-04-30,NVDA,2.4679960793176448e-17,Variance minimale
+2023-04-30,GOOG,1.0912936659891705e-17,Variance minimale
+2023-04-30,META,0.0,Variance minimale
+2023-04-30,SAP,0.35,Variance minimale
+2023-04-30,TSM,0.20589481062485726,Variance minimale
+2023-04-30,NFLX,0.0,Variance minimale
+2023-05-31,AAPL,0.3402620965677314,Variance minimale
+2023-05-31,MSFT,0.1712602972374838,Variance minimale
+2023-05-31,NVDA,0.0,Variance minimale
+2023-05-31,GOOG,0.0,Variance minimale
+2023-05-31,META,0.0,Variance minimale
+2023-05-31,SAP,0.3499999999999999,Variance minimale
+2023-05-31,TSM,0.138477606194785,Variance minimale
+2023-05-31,NFLX,0.0,Variance minimale
+2023-06-30,AAPL,0.35,Variance minimale
+2023-06-30,MSFT,0.16849236843300347,Variance minimale
+2023-06-30,NVDA,1.0523334107449653e-17,Variance minimale
+2023-06-30,GOOG,0.0,Variance minimale
+2023-06-30,META,0.0,Variance minimale
+2023-06-30,SAP,0.35,Variance minimale
+2023-06-30,TSM,0.13150763156699663,Variance minimale
+2023-06-30,NFLX,1.5239762517125912e-16,Variance minimale
+2023-07-31,AAPL,0.35,Variance minimale
+2023-07-31,MSFT,0.1572638798674211,Variance minimale
+2023-07-31,NVDA,0.0,Variance minimale
+2023-07-31,GOOG,0.0037464000138790823,Variance minimale
+2023-07-31,META,0.0,Variance minimale
+2023-07-31,SAP,0.3499999999999999,Variance minimale
+2023-07-31,TSM,0.1389897201186999,Variance minimale
+2023-07-31,NFLX,1.6436285898551098e-17,Variance minimale
+2023-08-31,AAPL,0.35,Variance minimale
+2023-08-31,MSFT,0.15273593872124933,Variance minimale
+2023-08-31,NVDA,0.0,Variance minimale
+2023-08-31,GOOG,0.013781722649372302,Variance minimale
+2023-08-31,META,0.0,Variance minimale
+2023-08-31,SAP,0.35,Variance minimale
+2023-08-31,TSM,0.13348233862937853,Variance minimale
+2023-08-31,NFLX,0.0,Variance minimale
+2023-09-30,AAPL,0.35000000000000003,Variance minimale
+2023-09-30,MSFT,0.16031061067036356,Variance minimale
+2023-09-30,NVDA,4.67686648845699e-18,Variance minimale
+2023-09-30,GOOG,0.019929819604645554,Variance minimale
+2023-09-30,META,1.7109279948947593e-17,Variance minimale
+2023-09-30,SAP,0.35000000000000003,Variance minimale
+2023-09-30,TSM,0.11975956972499084,Variance minimale
+2023-09-30,NFLX,0.0,Variance minimale
+2023-10-31,AAPL,0.35,Variance minimale
+2023-10-31,MSFT,0.20875162185769391,Variance minimale
+2023-10-31,NVDA,0.0,Variance minimale
+2023-10-31,GOOG,1.214306433183765e-17,Variance minimale
+2023-10-31,META,3.155258261108392e-17,Variance minimale
+2023-10-31,SAP,0.35,Variance minimale
+2023-10-31,TSM,0.09124837814230603,Variance minimale
+2023-10-31,NFLX,5.656393701806061e-17,Variance minimale
+2023-11-30,AAPL,0.35,Variance minimale
+2023-11-30,MSFT,0.19721688359621242,Variance minimale
+2023-11-30,NVDA,0.0,Variance minimale
+2023-11-30,GOOG,0.003653319041912899,Variance minimale
+2023-11-30,META,1.56234982506898e-17,Variance minimale
+2023-11-30,SAP,0.35,Variance minimale
+2023-11-30,TSM,0.09912979736187484,Variance minimale
+2023-11-30,NFLX,1.6476970641924476e-17,Variance minimale
+2023-12-31,AAPL,0.35,Variance minimale
+2023-12-31,MSFT,0.20591243539496257,Variance minimale
+2023-12-31,NVDA,1.876696002167069e-17,Variance minimale
+2023-12-31,GOOG,0.01492696781960461,Variance minimale
+2023-12-31,META,1.063566117672931e-17,Variance minimale
+2023-12-31,SAP,0.35,Variance minimale
+2023-12-31,TSM,0.079160596785433,Variance minimale
+2023-12-31,NFLX,0.0,Variance minimale
+2024-01-31,AAPL,0.35,Variance minimale
+2024-01-31,MSFT,0.22159232211578297,Variance minimale
+2024-01-31,NVDA,2.7456965548482274e-17,Variance minimale
+2024-01-31,GOOG,0.009216087884797008,Variance minimale
+2024-01-31,META,3.0926412500435886e-17,Variance minimale
+2024-01-31,SAP,0.34999999999999987,Variance minimale
+2024-01-31,TSM,0.06919158999942028,Variance minimale
+2024-01-31,NFLX,0.0,Variance minimale
+2024-02-29,AAPL,0.3499999999999999,Variance minimale
+2024-02-29,MSFT,0.2446978880605846,Variance minimale
+2024-02-29,NVDA,2.822992770533179e-17,Variance minimale
+2024-02-29,GOOG,0.05429061320039248,Variance minimale
+2024-02-29,META,0.0,Variance minimale
+2024-02-29,SAP,0.31447790175585905,Variance minimale
+2024-02-29,TSM,0.03653359698316386,Variance minimale
+2024-02-29,NFLX,0.0,Variance minimale
+2024-03-31,AAPL,0.35,Variance minimale
+2024-03-31,MSFT,0.22331059326728192,Variance minimale
+2024-03-31,NVDA,0.0,Variance minimale
+2024-03-31,GOOG,0.08527315509888779,Variance minimale
+2024-03-31,META,0.0,Variance minimale
+2024-03-31,SAP,0.3231946064807138,Variance minimale
+2024-03-31,TSM,0.018221645153116407,Variance minimale
+2024-03-31,NFLX,2.4560550643681482e-17,Variance minimale
+2024-04-30,AAPL,0.35,Variance minimale
+2024-04-30,MSFT,0.27899067655101484,Variance minimale
+2024-04-30,NVDA,0.0,Variance minimale
+2024-04-30,GOOG,0.07105112925608453,Variance minimale
+2024-04-30,META,3.92695226019289e-18,Variance minimale
+2024-04-30,SAP,0.29995819419290065,Variance minimale
+2024-04-30,TSM,3.695729199067336e-17,Variance minimale
+2024-04-30,NFLX,6.734021014322268e-18,Variance minimale
+2024-05-31,AAPL,0.35,Variance minimale
+2024-05-31,MSFT,0.28341295662948884,Variance minimale
+2024-05-31,NVDA,1.4297722357739933e-17,Variance minimale
+2024-05-31,GOOG,0.08539085990336695,Variance minimale
+2024-05-31,META,2.276551423333155e-17,Variance minimale
+2024-05-31,SAP,0.2572563199529261,Variance minimale
+2024-05-31,TSM,0.0239398635142181,Variance minimale
+2024-05-31,NFLX,3.52206126483203e-17,Variance minimale
+2024-06-30,AAPL,0.3426554477612854,Variance minimale
+2024-06-30,MSFT,0.3339792550772772,Variance minimale
+2024-06-30,NVDA,8.345769013892326e-18,Variance minimale
+2024-06-30,GOOG,0.09497555914872903,Variance minimale
+2024-06-30,META,0.0,Variance minimale
+2024-06-30,SAP,0.21667782745097344,Variance minimale
+2024-06-30,TSM,0.011711910561734908,Variance minimale
+2024-06-30,NFLX,0.0,Variance minimale
+2024-07-31,AAPL,0.3193652725324237,Variance minimale
+2024-07-31,MSFT,0.3499999999999999,Variance minimale
+2024-07-31,NVDA,0.0,Variance minimale
+2024-07-31,GOOG,0.08163513542982954,Variance minimale
+2024-07-31,META,2.3875172351640138e-18,Variance minimale
+2024-07-31,SAP,0.23121588358309092,Variance minimale
+2024-07-31,TSM,0.0,Variance minimale
+2024-07-31,NFLX,0.017783708454655864,Variance minimale
+2024-08-31,AAPL,0.3226871879685361,Variance minimale
+2024-08-31,MSFT,0.35,Variance minimale
+2024-08-31,NVDA,7.271306402709372e-18,Variance minimale
+2024-08-31,GOOG,0.07214159926778312,Variance minimale
+2024-08-31,META,3.4223886903858316e-18,Variance minimale
+2024-08-31,SAP,0.2155360236242106,Variance minimale
+2024-08-31,TSM,0.0,Variance minimale
+2024-08-31,NFLX,0.03963518913947019,Variance minimale
+2024-09-30,AAPL,0.3306967863516299,Variance minimale
+2024-09-30,MSFT,0.3499999999999999,Variance minimale
+2024-09-30,NVDA,0.0,Variance minimale
+2024-09-30,GOOG,0.06064789419477501,Variance minimale
+2024-09-30,META,1.3540798564034381e-17,Variance minimale
+2024-09-30,SAP,0.22157056980816123,Variance minimale
+2024-09-30,TSM,2.1468490508716094e-18,Variance minimale
+2024-09-30,NFLX,0.037084749645433866,Variance minimale
+2024-10-31,AAPL,0.2887209482291118,Variance minimale
+2024-10-31,MSFT,0.3450837912970984,Variance minimale
+2024-10-31,NVDA,2.329265804541459e-17,Variance minimale
+2024-10-31,GOOG,0.10310342171879475,Variance minimale
+2024-10-31,META,0.0,Variance minimale
+2024-10-31,SAP,0.1896834044726269,Variance minimale
+2024-10-31,TSM,0.0,Variance minimale
+2024-10-31,NFLX,0.0734084342823681,Variance minimale
+2024-11-30,AAPL,0.29746207449244294,Variance minimale
+2024-11-30,MSFT,0.35,Variance minimale
+2024-11-30,NVDA,0.0,Variance minimale
+2024-11-30,GOOG,0.09516118764626928,Variance minimale
+2024-11-30,META,8.591691704487214e-19,Variance minimale
+2024-11-30,SAP,0.17856050963293774,Variance minimale
+2024-11-30,TSM,0.0,Variance minimale
+2024-11-30,NFLX,0.07881622822835015,Variance minimale
+2024-12-31,AAPL,0.3064037285860206,Variance minimale
+2024-12-31,MSFT,0.35,Variance minimale
+2024-12-31,NVDA,5.2622276161507296e-18,Variance minimale
+2024-12-31,GOOG,0.08332216416880119,Variance minimale
+2024-12-31,META,0.0,Variance minimale
+2024-12-31,SAP,0.1747385865686137,Variance minimale
+2024-12-31,TSM,0.0,Variance minimale
+2024-12-31,NFLX,0.08553552067656449,Variance minimale
+2025-01-31,AAPL,0.301976337114143,Variance minimale
+2025-01-31,MSFT,0.22703420403039687,Variance minimale
+2025-01-31,NVDA,0.0,Variance minimale
+2025-01-31,GOOG,0.11870436918378027,Variance minimale
+2025-01-31,META,1.7457266047562995e-17,Variance minimale
+2025-01-31,SAP,0.25705590659473404,Variance minimale
+2025-01-31,TSM,1.0369294344939012e-17,Variance minimale
+2025-01-31,NFLX,0.09522918307694564,Variance minimale
+2025-02-28,AAPL,0.26566645591907906,Variance minimale
+2025-02-28,MSFT,0.27770627242491497,Variance minimale
+2025-02-28,NVDA,3.3815682304191026e-19,Variance minimale
+2025-02-28,GOOG,0.11688447026449407,Variance minimale
+2025-02-28,META,0.00666557991036923,Variance minimale
+2025-02-28,SAP,0.24705354125320245,Variance minimale
+2025-02-28,TSM,1.1442255798304356e-17,Variance minimale
+2025-02-28,NFLX,0.0860236802279403,Variance minimale
+2025-03-31,AAPL,0.27569705804105105,Variance minimale
+2025-03-31,MSFT,0.35,Variance minimale
+2025-03-31,NVDA,0.0,Variance minimale
+2025-03-31,GOOG,0.09443821305666235,Variance minimale
+2025-03-31,META,0.0,Variance minimale
+2025-03-31,SAP,0.22275998109023676,Variance minimale
+2025-03-31,TSM,0.0,Variance minimale
+2025-03-31,NFLX,0.057104747812049945,Variance minimale
+2025-04-30,AAPL,0.041634473962314886,Variance minimale
+2025-04-30,MSFT,0.35,Variance minimale
+2025-04-30,NVDA,2.0774809491376578e-17,Variance minimale
+2025-04-30,GOOG,0.18052695274771777,Variance minimale
+2025-04-30,META,2.3318029441530676e-17,Variance minimale
+2025-04-30,SAP,0.2899745560556502,Variance minimale
+2025-04-30,TSM,0.0,Variance minimale
+2025-04-30,NFLX,0.1378640172343172,Variance minimale
+2025-05-31,AAPL,0.06424423891045818,Variance minimale
+2025-05-31,MSFT,0.35,Variance minimale
+2025-05-31,NVDA,0.0,Variance minimale
+2025-05-31,GOOG,0.15026857997123522,Variance minimale
+2025-05-31,META,0.0,Variance minimale
+2025-05-31,SAP,0.27743539417782065,Variance minimale
+2025-05-31,TSM,3.824368745307095e-17,Variance minimale
+2025-05-31,NFLX,0.15805178694048605,Variance minimale
+2025-06-30,AAPL,0.05274231472518426,Variance minimale
+2025-06-30,MSFT,0.3499999999999999,Variance minimale
+2025-06-30,NVDA,3.297845745761454e-17,Variance minimale
+2025-06-30,GOOG,0.14144087812915096,Variance minimale
+2025-06-30,META,0.0,Variance minimale
+2025-06-30,SAP,0.31336740790234907,Variance minimale
+2025-06-30,TSM,0.0,Variance minimale
+2025-06-30,NFLX,0.1424493992433158,Variance minimale
+2025-07-31,AAPL,0.07481486926740273,Variance minimale
+2025-07-31,MSFT,0.3499999999999998,Variance minimale
+2025-07-31,NVDA,0.0,Variance minimale
+2025-07-31,GOOG,0.16566458560161842,Variance minimale
+2025-07-31,META,4.107804315518424e-17,Variance minimale
+2025-07-31,SAP,0.30311469389336765,Variance minimale
+2025-07-31,TSM,0.0,Variance minimale
+2025-07-31,NFLX,0.10640585123761116,Variance minimale
+2025-08-31,AAPL,0.054628055215963096,Variance minimale
+2025-08-31,MSFT,0.3499999999999999,Variance minimale
+2025-08-31,NVDA,0.0,Variance minimale
+2025-08-31,GOOG,0.171629639460676,Variance minimale
+2025-08-31,META,0.0,Variance minimale
+2025-08-31,SAP,0.3202742624681653,Variance minimale
+2025-08-31,TSM,1.530421424645368e-17,Variance minimale
+2025-08-31,NFLX,0.10346804285519563,Variance minimale
+2025-09-30,AAPL,0.06013161688415163,Variance minimale
+2025-09-30,MSFT,0.3499999999999999,Variance minimale
+2025-09-30,NVDA,2.4912093231768632e-17,Variance minimale
+2025-09-30,GOOG,0.16355999120223452,Variance minimale
+2025-09-30,META,0.0,Variance minimale
+2025-09-30,SAP,0.305283442910319,Variance minimale
+2025-09-30,TSM,0.0,Variance minimale
+2025-09-30,NFLX,0.12102494900329487,Variance minimale
+2025-10-31,AAPL,0.057754065566980615,Variance minimale
+2025-10-31,MSFT,0.35,Variance minimale
+2025-10-31,NVDA,1.7411695597337334e-17,Variance minimale
+2025-10-31,GOOG,0.16447533038212814,Variance minimale
+2025-10-31,META,2.2724286242516306e-17,Variance minimale
+2025-10-31,SAP,0.29539443246874003,Variance minimale
+2025-10-31,TSM,0.0,Variance minimale
+2025-10-31,NFLX,0.1323761715821513,Variance minimale
+2025-11-30,AAPL,0.06659039247251547,Variance minimale
+2025-11-30,MSFT,0.3499999999999999,Variance minimale
+2025-11-30,NVDA,2.1873930838012976e-17,Variance minimale
+2025-11-30,GOOG,0.16510105826380744,Variance minimale
+2025-11-30,META,2.3608654313989783e-17,Variance minimale
+2025-11-30,SAP,0.29561270927751226,Variance minimale
+2025-11-30,TSM,4.465196884602482e-18,Variance minimale
+2025-11-30,NFLX,0.12269583998616487,Variance minimale
+2025-12-31,AAPL,0.051063615965795256,Variance minimale
+2025-12-31,MSFT,0.35,Variance minimale
+2025-12-31,NVDA,5.032060062589376e-18,Variance minimale
+2025-12-31,GOOG,0.17753205556652704,Variance minimale
+2025-12-31,META,0.0,Variance minimale
+2025-12-31,SAP,0.3054993704601124,Variance minimale
+2025-12-31,TSM,0.0,Variance minimale
+2025-12-31,NFLX,0.11590495800756535,Variance minimale
+2026-01-31,AAPL,0.09609570428700731,Variance minimale
+2026-01-31,MSFT,0.35,Variance minimale
+2026-01-31,NVDA,9.67924906274098e-18,Variance minimale
+2026-01-31,GOOG,0.23081259023338074,Variance minimale
+2026-01-31,META,0.0,Variance minimale
+2026-01-31,SAP,0.12206573573928142,Variance minimale
+2026-01-31,TSM,0.0,Variance minimale
+2026-01-31,NFLX,0.20102596974033068,Variance minimale
+2026-02-28,AAPL,0.13011675906862816,Variance minimale
+2026-02-28,MSFT,0.35,Variance minimale
+2026-02-28,NVDA,1.3822089500370823e-17,Variance minimale
+2026-02-28,GOOG,0.2587411140864667,Variance minimale
+2026-02-28,META,0.0,Variance minimale
+2026-02-28,SAP,0.10205567613798645,Variance minimale
+2026-02-28,TSM,0.0,Variance minimale
+2026-02-28,NFLX,0.15908645070691868,Variance minimale
+2026-03-31,AAPL,0.11838860487477151,Variance minimale
+2026-03-31,MSFT,0.33604541843857727,Variance minimale
+2026-03-31,NVDA,0.0,Variance minimale
+2026-03-31,GOOG,0.2599481174042545,Variance minimale
+2026-03-31,META,4.705824789950052e-18,Variance minimale
+2026-03-31,SAP,0.08473415102500663,Variance minimale
+2026-03-31,TSM,0.0,Variance minimale
+2026-03-31,NFLX,0.20088370825739008,Variance minimale
+2026-04-30,AAPL,0.32429964030482555,Variance minimale
+2026-04-30,MSFT,0.23535800464231033,Variance minimale
+2026-04-30,NVDA,0.03345293850801468,Variance minimale
+2026-04-30,GOOG,0.14913379888244266,Variance minimale
+2026-04-30,META,0.031888841779112526,Variance minimale
+2026-04-30,SAP,0.06739739778557675,Variance minimale
+2026-04-30,TSM,0.0,Variance minimale
+2026-04-30,NFLX,0.15846937809771747,Variance minimale
+2026-05-31,AAPL,0.33827023723850486,Variance minimale
+2026-05-31,MSFT,0.24307072542861408,Variance minimale
+2026-05-31,NVDA,0.03839077604940525,Variance minimale
+2026-05-31,GOOG,0.14901690960958144,Variance minimale
+2026-05-31,META,0.043133218525524535,Variance minimale
+2026-05-31,SAP,0.04102675221206607,Variance minimale
+2026-05-31,TSM,0.004566901055546815,Variance minimale
+2026-05-31,NFLX,0.14252447988075698,Variance minimale
+2026-06-30,AAPL,0.33238550197003625,Variance minimale
+2026-06-30,MSFT,0.17662372458541417,Variance minimale
+2026-06-30,NVDA,0.05226394824070193,Variance minimale
+2026-06-30,GOOG,0.15237599069708122,Variance minimale
+2026-06-30,META,0.06053267343016943,Variance minimale
+2026-06-30,SAP,0.05875008511424833,Variance minimale
+2026-06-30,TSM,0.011888929395092852,Variance minimale
+2026-06-30,NFLX,0.15517914656725587,Variance minimale
+2026-07-31,AAPL,0.31231000011358767,Variance minimale
+2026-07-31,MSFT,0.1370736156188233,Variance minimale
+2026-07-31,NVDA,0.08182752133692697,Variance minimale
+2026-07-31,GOOG,0.1411652423187454,Variance minimale
+2026-07-31,META,0.06400175925084428,Variance minimale
+2026-07-31,SAP,0.061429947203963706,Variance minimale
+2026-07-31,TSM,0.03999935731058902,Variance minimale
+2026-07-31,NFLX,0.16219255684651976,Variance minimale
+2026-08-31,AAPL,0.3463450099960051,Variance minimale
+2026-08-31,MSFT,0.1230985997659698,Variance minimale
+2026-08-31,NVDA,0.08218110515032534,Variance minimale
+2026-08-31,GOOG,0.1351012506271503,Variance minimale
+2026-08-31,META,0.05949853787983851,Variance minimale
+2026-08-31,SAP,0.04914674559789413,Variance minimale
+2026-08-31,TSM,0.05051690041945538,Variance minimale
+2026-08-31,NFLX,0.15411185056336155,Variance minimale
+2026-09-30,AAPL,0.35,Variance minimale
+2026-09-30,MSFT,0.11076372541545247,Variance minimale
+2026-09-30,NVDA,0.09366106131637535,Variance minimale
+2026-09-30,GOOG,0.15538495331873511,Variance minimale
+2026-09-30,META,0.04373632994711506,Variance minimale
+2026-09-30,SAP,0.05121745072121923,Variance minimale
+2026-09-30,TSM,0.04916887042082566,Variance minimale
+2026-09-30,NFLX,0.1460676088602772,Variance minimale
+2026-10-31,AAPL,0.35,Variance minimale
+2026-10-31,MSFT,0.08621968069745628,Variance minimale
+2026-10-31,NVDA,0.09224573870216729,Variance minimale
+2026-10-31,GOOG,0.12437598988640576,Variance minimale
+2026-10-31,META,0.0420254185069205,Variance minimale
+2026-10-31,SAP,0.07035150179567225,Variance minimale
+2026-10-31,TSM,0.07473077751213243,Variance minimale
+2026-10-31,NFLX,0.1600508928992456,Variance minimale
+2020-01-31,AAPL,0.12041171108314198,Parité de risque
+2020-01-31,MSFT,0.14474272610595865,Parité de risque
+2020-01-31,NVDA,0.08045240087149752,Parité de risque
+2020-01-31,GOOG,0.13272931158476098,Parité de risque
+2020-01-31,META,0.1285224257693576,Parité de risque
+2020-01-31,SAP,0.14932135769562224,Parité de risque
+2020-01-31,TSM,0.1382876324431722,Parité de risque
+2020-01-31,NFLX,0.10553243444648872,Parité de risque
+2020-02-29,AAPL,0.11732948189806337,Parité de risque
+2020-02-29,MSFT,0.13664418409494422,Parité de risque
+2020-02-29,NVDA,0.0773432329427279,Parité de risque
+2020-02-29,GOOG,0.13436050096328453,Parité de risque
+2020-02-29,META,0.13079973887965937,Parité de risque
+2020-02-29,SAP,0.15176104262403936,Parité de risque
+2020-02-29,TSM,0.13790005730442156,Parité de risque
+2020-02-29,NFLX,0.11386176129285973,Parité de risque
+2020-03-31,AAPL,0.11647957266911532,Parité de risque
+2020-03-31,MSFT,0.11495632592240694,Parité de risque
+2020-03-31,NVDA,0.08649159143932834,Parité de risque
+2020-03-31,GOOG,0.13712599582194282,Parité de risque
+2020-03-31,META,0.12792856481297787,Parité de risque
+2020-03-31,SAP,0.14282258446165827,Parité de risque
+2020-03-31,TSM,0.1363064185978966,Parité de risque
+2020-03-31,NFLX,0.13788894627467396,Parité de risque
+2020-04-30,AAPL,0.11572896081609604,Parité de risque
+2020-04-30,MSFT,0.11459690509817294,Parité de risque
+2020-04-30,NVDA,0.08581065941709377,Parité de risque
+2020-04-30,GOOG,0.13323847449165346,Parité de risque
+2020-04-30,META,0.1261455372198814,Parité de risque
+2020-04-30,SAP,0.14594287212900495,Parité de risque
+2020-04-30,TSM,0.1366319348036146,Parité de risque
+2020-04-30,NFLX,0.14190465602448285,Parité de risque
+2020-05-31,AAPL,0.11730875853182013,Parité de risque
+2020-05-31,MSFT,0.11382018271760767,Parité de risque
+2020-05-31,NVDA,0.08531788680261168,Parité de risque
+2020-05-31,GOOG,0.1328832968119403,Parité de risque
+2020-05-31,META,0.1257629435282777,Parité de risque
+2020-05-31,SAP,0.14517426372387626,Parité de risque
+2020-05-31,TSM,0.13632102888904624,Parité de risque
+2020-05-31,NFLX,0.14341163899481998,Parité de risque
+2020-06-30,AAPL,0.11656399510780488,Parité de risque
+2020-06-30,MSFT,0.11386242109640742,Parité de risque
+2020-06-30,NVDA,0.0862255749545094,Parité de risque
+2020-06-30,GOOG,0.13253209418081968,Parité de risque
+2020-06-30,META,0.12392803836562055,Parité de risque
+2020-06-30,SAP,0.14491068780707142,Parité de risque
+2020-06-30,TSM,0.13778732249431133,Parité de risque
+2020-06-30,NFLX,0.14418986599345537,Parité de risque
+2020-07-31,AAPL,0.11616366639588274,Parité de risque
+2020-07-31,MSFT,0.11471292748383398,Parité de risque
+2020-07-31,NVDA,0.08794028690677455,Parité de risque
+2020-07-31,GOOG,0.1358840494921652,Parité de risque
+2020-07-31,META,0.12444205150677856,Parité de risque
+2020-07-31,SAP,0.1453836289430924,Parité de risque
+2020-07-31,TSM,0.13098832596564486,Parité de risque
+2020-07-31,NFLX,0.14448506330582775,Parité de risque
+2020-08-31,AAPL,0.11769416306915019,Parité de risque
+2020-08-31,MSFT,0.11459236964085244,Parité de risque
+2020-08-31,NVDA,0.09017756733421947,Parité de risque
+2020-08-31,GOOG,0.1367519681452096,Parité de risque
+2020-08-31,META,0.12213246191627934,Parité de risque
+2020-08-31,SAP,0.1454134407342869,Parité de risque
+2020-08-31,TSM,0.1324428360407745,Parité de risque
+2020-08-31,NFLX,0.1407951931192276,Parité de risque
+2020-09-30,AAPL,0.11425467105044627,Parité de risque
+2020-09-30,MSFT,0.11398058969293572,Parité de risque
+2020-09-30,NVDA,0.08947886671340906,Parité de risque
+2020-09-30,GOOG,0.13628413164385325,Parité de risque
+2020-09-30,META,0.12378788252327494,Parité de risque
+2020-09-30,SAP,0.1458648325163706,Parité de risque
+2020-09-30,TSM,0.13457664118650695,Parité de risque
+2020-09-30,NFLX,0.14177238467320322,Parité de risque
+2020-10-31,AAPL,0.11451575090163363,Parité de risque
+2020-10-31,MSFT,0.11593911259342367,Parité de risque
+2020-10-31,NVDA,0.09133752031483343,Parité de risque
+2020-10-31,GOOG,0.13762267913084142,Parité de risque
+2020-10-31,META,0.12353679745203477,Parité de risque
+2020-10-31,SAP,0.13932893191015774,Parité de risque
+2020-10-31,TSM,0.13501885150776083,Parité de risque
+2020-10-31,NFLX,0.14270035618931454,Parité de risque
+2020-11-30,AAPL,0.11521060939713884,Parité de risque
+2020-11-30,MSFT,0.11562214570021503,Parité de risque
+2020-11-30,NVDA,0.09099220232067669,Parité de risque
+2020-11-30,GOOG,0.13830130440919336,Parité de risque
+2020-11-30,META,0.12156548216128552,Parité de risque
+2020-11-30,SAP,0.14028539221134526,Parité de risque
+2020-11-30,TSM,0.13515971031804094,Parité de risque
+2020-11-30,NFLX,0.14286315348210435,Parité de risque
+2020-12-31,AAPL,0.11468842252796863,Parité de risque
+2020-12-31,MSFT,0.11597826051673196,Parité de risque
+2020-12-31,NVDA,0.09167555535840602,Parité de risque
+2020-12-31,GOOG,0.1384788918509975,Parité de risque
+2020-12-31,META,0.12099840866182655,Parité de risque
+2020-12-31,SAP,0.1401471272095611,Parité de risque
+2020-12-31,TSM,0.13534968882544407,Parité de risque
+2020-12-31,NFLX,0.14268364504906414,Parité de risque
+2021-01-31,AAPL,0.11559112949557368,Parité de risque
+2021-01-31,MSFT,0.1167304560852526,Parité de risque
+2021-01-31,NVDA,0.09255472461428492,Parité de risque
+2021-01-31,GOOG,0.13718007565905693,Parité de risque
+2021-01-31,META,0.12104459876991534,Parité de risque
+2021-01-31,SAP,0.14173936365765566,Parité de risque
+2021-01-31,TSM,0.13791049574526498,Parité de risque
+2021-01-31,NFLX,0.13724915597299586,Parité de risque
+2021-02-28,AAPL,0.11719269579448832,Parité de risque
+2021-02-28,MSFT,0.11803375365455457,Parité de risque
+2021-02-28,NVDA,0.09267858980453207,Parité de risque
+2021-02-28,GOOG,0.13680596241242743,Parité de risque
+2021-02-28,META,0.12122118464165624,Parité de risque
+2021-02-28,SAP,0.1400729675412573,Parité de risque
+2021-02-28,TSM,0.1364293853608363,Parité de risque
+2021-02-28,NFLX,0.13756546079024776,Parité de risque
+2021-03-31,AAPL,0.11812000010065092,Parité de risque
+2021-03-31,MSFT,0.13408829356521973,Parité de risque
+2021-03-31,NVDA,0.09108878272353332,Parité de risque
+2021-03-31,GOOG,0.13822938562134895,Parité de risque
+2021-03-31,META,0.11743677256418578,Parité de risque
+2021-03-31,SAP,0.14645926024043696,Parité de risque
+2021-03-31,TSM,0.12978833422542138,Parité de risque
+2021-03-31,NFLX,0.124789170959203,Parité de risque
+2021-04-30,AAPL,0.1190868711830194,Parité de risque
+2021-04-30,MSFT,0.13756128795770822,Parité de risque
+2021-04-30,NVDA,0.09339152278007022,Parité de risque
+2021-04-30,GOOG,0.14524636004087974,Parité de risque
+2021-04-30,META,0.11618642433255152,Parité de risque
+2021-04-30,SAP,0.14441772646178783,Parité de risque
+2021-04-30,TSM,0.12678276295213411,Parité de risque
+2021-04-30,NFLX,0.11732704429184902,Parité de risque
+2021-05-31,AAPL,0.11876952421970191,Parité de risque
+2021-05-31,MSFT,0.13759753868842733,Parité de risque
+2021-05-31,NVDA,0.09295239092669201,Parité de risque
+2021-05-31,GOOG,0.14372067198996383,Parité de risque
+2021-05-31,META,0.11713092712335389,Parité de risque
+2021-05-31,SAP,0.14454865703854328,Parité de risque
+2021-05-31,TSM,0.1275890209643838,Parité de risque
+2021-05-31,NFLX,0.11769126904893396,Parité de risque
+2021-06-30,AAPL,0.11916417576593873,Parité de risque
+2021-06-30,MSFT,0.13950443750856864,Parité de risque
+2021-06-30,NVDA,0.0923029849076815,Parité de risque
+2021-06-30,GOOG,0.14767950876525887,Parité de risque
+2021-06-30,META,0.11855676506686522,Parité de risque
+2021-06-30,SAP,0.14430266296999755,Parité de risque
+2021-06-30,TSM,0.12251996574623235,Parité de risque
+2021-06-30,NFLX,0.11596949926945714,Parité de risque
+2021-07-31,AAPL,0.11612260457295219,Parité de risque
+2021-07-31,MSFT,0.13888656022468876,Parité de risque
+2021-07-31,NVDA,0.08946997129803733,Parité de risque
+2021-07-31,GOOG,0.14538121413834515,Parité de risque
+2021-07-31,META,0.11379880423167431,Parité de risque
+2021-07-31,SAP,0.14642772038075846,Parité de risque
+2021-07-31,TSM,0.13194001087776344,Parité de risque
+2021-07-31,NFLX,0.11797311427578037,Parité de risque
+2021-08-31,AAPL,0.11802782762078921,Parité de risque
+2021-08-31,MSFT,0.13876330165846737,Parité de risque
+2021-08-31,NVDA,0.08546067305230805,Parité de risque
+2021-08-31,GOOG,0.1424013650623895,Parité de risque
+2021-08-31,META,0.1188868135382381,Parité de risque
+2021-08-31,SAP,0.1441566341994062,Parité de risque
+2021-08-31,TSM,0.12796193675574044,Parité de risque
+2021-08-31,NFLX,0.12434144811266114,Parité de risque
+2021-09-30,AAPL,0.12515069045675212,Parité de risque
+2021-09-30,MSFT,0.1445637395598047,Parité de risque
+2021-09-30,NVDA,0.08873431234707499,Parité de risque
+2021-09-30,GOOG,0.14376772444892846,Parité de risque
+2021-09-30,META,0.11366021044020279,Parité de risque
+2021-09-30,SAP,0.13940539727668916,Parité de risque
+2021-09-30,TSM,0.12150194223302592,Parité de risque
+2021-09-30,NFLX,0.12321598323752186,Parité de risque
+2021-10-31,AAPL,0.12347201326315226,Parité de risque
+2021-10-31,MSFT,0.1440046445069768,Parité de risque
+2021-10-31,NVDA,0.08325988571944921,Parité de risque
+2021-10-31,GOOG,0.14376198632750098,Parité de risque
+2021-10-31,META,0.1077256823962166,Parité de risque
+2021-10-31,SAP,0.16703975369721924,Parité de risque
+2021-10-31,TSM,0.11568764479476971,Parité de risque
+2021-10-31,NFLX,0.11504838929471511,Parité de risque
+2021-11-30,AAPL,0.12945593023784913,Parité de risque
+2021-11-30,MSFT,0.1468836039998026,Parité de risque
+2021-11-30,NVDA,0.0795821958693202,Parité de risque
+2021-11-30,GOOG,0.13385899153577446,Parité de risque
+2021-11-30,META,0.11501725332862917,Parité de risque
+2021-11-30,SAP,0.16456289882689745,Parité de risque
+2021-11-30,TSM,0.11180306802295936,Parité de risque
+2021-11-30,NFLX,0.11883605817876765,Parité de risque
+2021-12-31,AAPL,0.12878938086260946,Parité de risque
+2021-12-31,MSFT,0.14286840656911687,Parité de risque
+2021-12-31,NVDA,0.07346697905853668,Parité de risque
+2021-12-31,GOOG,0.13486739318307675,Parité de risque
+2021-12-31,META,0.11676529373338145,Parité de risque
+2021-12-31,SAP,0.16954574272102704,Parité de risque
+2021-12-31,TSM,0.11182878459442577,Parité de risque
+2021-12-31,NFLX,0.12186801927782605,Parité de risque
+2022-01-31,AAPL,0.13447200912359034,Parité de risque
+2022-01-31,MSFT,0.14677682820897128,Parité de risque
+2022-01-31,NVDA,0.0709790793220019,Parité de risque
+2022-01-31,GOOG,0.14197933174999836,Parité de risque
+2022-01-31,META,0.11960303086709462,Parité de risque
+2022-01-31,SAP,0.16843364975324238,Parité de risque
+2022-01-31,TSM,0.1072264813911422,Parité de risque
+2022-01-31,NFLX,0.11052958958395899,Parité de risque
+2022-02-28,AAPL,0.14392433084810438,Parité de risque
+2022-02-28,MSFT,0.14402849897694558,Parité de risque
+2022-02-28,NVDA,0.07259158141205825,Parité de risque
+2022-02-28,GOOG,0.14034868101567702,Parité de risque
+2022-02-28,META,0.09574646473400451,Parité de risque
+2022-02-28,SAP,0.17427432414963523,Parité de risque
+2022-02-28,TSM,0.11869127143251787,Parité de risque
+2022-02-28,NFLX,0.11039484743105722,Parité de risque
+2022-03-31,AAPL,0.147726340879273,Parité de risque
+2022-03-31,MSFT,0.14273147789082083,Parité de risque
+2022-03-31,NVDA,0.07204961684490266,Parité de risque
+2022-03-31,GOOG,0.13966261391487064,Parité de risque
+2022-03-31,META,0.09170589066066723,Parité de risque
+2022-03-31,SAP,0.15965133976268042,Parité de risque
+2022-03-31,TSM,0.13413284656369345,Parité de risque
+2022-03-31,NFLX,0.11233987348309181,Parité de risque
+2022-04-30,AAPL,0.15190514031427177,Parité de risque
+2022-04-30,MSFT,0.14748090464061753,Parité de risque
+2022-04-30,NVDA,0.07286767354015948,Parité de risque
+2022-04-30,GOOG,0.13787216302733105,Parité de risque
+2022-04-30,META,0.08725492182340708,Parité de risque
+2022-04-30,SAP,0.17632183739535398,Parité de risque
+2022-04-30,TSM,0.1321681164250407,Parité de risque
+2022-04-30,NFLX,0.09412924283381838,Parité de risque
+2022-05-31,AAPL,0.14518784621820854,Parité de risque
+2022-05-31,MSFT,0.1475830888194214,Parité de risque
+2022-05-31,NVDA,0.07192088561729984,Parité de risque
+2022-05-31,GOOG,0.13889939508452903,Parité de risque
+2022-05-31,META,0.08741641513957821,Parité de risque
+2022-05-31,SAP,0.1800796479716441,Parité de risque
+2022-05-31,TSM,0.13705065750980955,Parité de risque
+2022-05-31,NFLX,0.09186206363950947,Parité de risque
+2022-06-30,AAPL,0.14383498264677377,Parité de risque
+2022-06-30,MSFT,0.14789687208344546,Parité de risque
+2022-06-30,NVDA,0.07264711238037658,Parité de risque
+2022-06-30,GOOG,0.13526515611306797,Parité de risque
+2022-06-30,META,0.08840319693576558,Parité de risque
+2022-06-30,SAP,0.1785259078057784,Parité de risque
+2022-06-30,TSM,0.14193542128543568,Parité de risque
+2022-06-30,NFLX,0.09149135074935649,Parité de risque
+2022-07-31,AAPL,0.14799157642390537,Parité de risque
+2022-07-31,MSFT,0.14727192788065863,Parité de risque
+2022-07-31,NVDA,0.07256872466955173,Parité de risque
+2022-07-31,GOOG,0.1300682806273421,Parité de risque
+2022-07-31,META,0.08841902536472039,Parité de risque
+2022-07-31,SAP,0.18227076402094028,Parité de risque
+2022-07-31,TSM,0.14151987714729433,Parité de risque
+2022-07-31,NFLX,0.08988982386558717,Parité de risque
+2022-08-31,AAPL,0.14873601849844853,Parité de risque
+2022-08-31,MSFT,0.14806601525373783,Parité de risque
+2022-08-31,NVDA,0.07280532125291635,Parité de risque
+2022-08-31,GOOG,0.1298213973062238,Parité de risque
+2022-08-31,META,0.08893905579179036,Parité de risque
+2022-08-31,SAP,0.17991762139027487,Parité de risque
+2022-08-31,TSM,0.14172222029484213,Parité de risque
+2022-08-31,NFLX,0.0899923502117662,Parité de risque
+2022-09-30,AAPL,0.1472797631084896,Parité de risque
+2022-09-30,MSFT,0.14796559613316176,Parité de risque
+2022-09-30,NVDA,0.07371664810666016,Parité de risque
+2022-09-30,GOOG,0.12933495129085798,Parité de risque
+2022-09-30,META,0.08710963375546636,Parité de risque
+2022-09-30,SAP,0.1810289280260761,Parité de risque
+2022-09-30,TSM,0.14481061659369862,Parité de risque
+2022-09-30,NFLX,0.08875386298558942,Parité de risque
+2022-10-31,AAPL,0.144854185262452,Parité de risque
+2022-10-31,MSFT,0.1441542433651957,Parité de risque
+2022-10-31,NVDA,0.07552692345619212,Parité de risque
+2022-10-31,GOOG,0.13055607602319555,Parité de risque
+2022-10-31,META,0.0870974482394491,Parité de risque
+2022-10-31,SAP,0.18140784472417779,Parité de risque
+2022-10-31,TSM,0.14582824189424265,Parité de risque
+2022-10-31,NFLX,0.09057503703509513,Parité de risque
+2022-11-30,AAPL,0.14429172140354413,Parité de risque
+2022-11-30,MSFT,0.14393712855293053,Parité de risque
+2022-11-30,NVDA,0.07870735244000529,Parité de risque
+2022-11-30,GOOG,0.13106084906977133,Parité de risque
+2022-11-30,META,0.08993546908885282,Parité de risque
+2022-11-30,SAP,0.17668352021173803,Parité de risque
+2022-11-30,TSM,0.1426285007693755,Parité de risque
+2022-11-30,NFLX,0.0927554584637824,Parité de risque
+2022-12-31,AAPL,0.14522706887645886,Parité de risque
+2022-12-31,MSFT,0.14546102884503728,Parité de risque
+2022-12-31,NVDA,0.07997801736119929,Parité de risque
+2022-12-31,GOOG,0.1300754899596656,Parité de risque
+2022-12-31,META,0.0884311532433694,Parité de risque
+2022-12-31,SAP,0.17507924934479352,Parité de risque
+2022-12-31,TSM,0.1443812053478138,Parité de risque
+2022-12-31,NFLX,0.09136678702166222,Parité de risque
+2023-01-31,AAPL,0.14518083002699667,Parité de risque
+2023-01-31,MSFT,0.14503215124771512,Parité de risque
+2023-01-31,NVDA,0.07861921819563432,Parité de risque
+2023-01-31,GOOG,0.1294397054412677,Parité de risque
+2023-01-31,META,0.08872770145223989,Parité de risque
+2023-01-31,SAP,0.1759453400137176,Parité de risque
+2023-01-31,TSM,0.14406768344637683,Parité de risque
+2023-01-31,NFLX,0.09298737017605185,Parité de risque
+2023-02-28,AAPL,0.14432154546706968,Parité de risque
+2023-02-28,MSFT,0.1434850153474496,Parité de risque
+2023-02-28,NVDA,0.07973337636165354,Parité de risque
+2023-02-28,GOOG,0.1263054700405005,Parité de risque
+2023-02-28,META,0.08989748380364723,Parité de risque
+2023-02-28,SAP,0.17802505157294518,Parité de risque
+2023-02-28,TSM,0.14222850580020693,Parité de risque
+2023-02-28,NFLX,0.09600355160652739,Parité de risque
+2023-03-31,AAPL,0.14353211588570053,Parité de risque
+2023-03-31,MSFT,0.14326696735109554,Parité de risque
+2023-03-31,NVDA,0.08113329676134948,Parité de risque
+2023-03-31,GOOG,0.12365775382246134,Parité de risque
+2023-03-31,META,0.08935645476753716,Parité de risque
+2023-03-31,SAP,0.17947625891634203,Parité de risque
+2023-03-31,TSM,0.14423388350686636,Parité de risque
+2023-03-31,NFLX,0.09534326898864755,Parité de risque
+2023-04-30,AAPL,0.14178275934481926,Parité de risque
+2023-04-30,MSFT,0.14039301032398618,Parité de risque
+2023-04-30,NVDA,0.08299865768175178,Parité de risque
+2023-04-30,GOOG,0.1235833139289898,Parité de risque
+2023-04-30,META,0.08780900641719473,Parité de risque
+2023-04-30,SAP,0.17602264127283787,Parité de risque
+2023-04-30,TSM,0.14420517866107962,Parité de risque
+2023-04-30,NFLX,0.10320543236934074,Parité de risque
+2023-05-31,AAPL,0.14863200059884496,Parité de risque
+2023-05-31,MSFT,0.1385665179695552,Parité de risque
+2023-05-31,NVDA,0.08037726323580743,Parité de risque
+2023-05-31,GOOG,0.12141521583874336,Parité de risque
+2023-05-31,META,0.09104086468974762,Parité de risque
+2023-05-31,SAP,0.1776956978126712,Parité de risque
+2023-05-31,TSM,0.13600493352140525,Parité de risque
+2023-05-31,NFLX,0.10626750633322499,Parité de risque
+2023-06-30,AAPL,0.15001182191680093,Parité de risque
+2023-06-30,MSFT,0.13542794029274152,Parité de risque
+2023-06-30,NVDA,0.07978307160990195,Parité de risque
+2023-06-30,GOOG,0.1200576844416066,Parité de risque
+2023-06-30,META,0.09146504154932872,Parité de risque
+2023-06-30,SAP,0.18066811892871942,Parité de risque
+2023-06-30,TSM,0.13287283617107923,Parité de risque
+2023-06-30,NFLX,0.10971348508982162,Parité de risque
+2023-07-31,AAPL,0.15048100457922536,Parité de risque
+2023-07-31,MSFT,0.13582376038782967,Parité de risque
+2023-07-31,NVDA,0.08096411501292165,Parité de risque
+2023-07-31,GOOG,0.12493618457213693,Parité de risque
+2023-07-31,META,0.09177734320491449,Parité de risque
+2023-07-31,SAP,0.17174353333841313,Parité de risque
+2023-07-31,TSM,0.13380137360344765,Parité de risque
+2023-07-31,NFLX,0.11047268530111116,Parité de risque
+2023-08-31,AAPL,0.15019457002677683,Parité de risque
+2023-08-31,MSFT,0.13422953440218183,Parité de risque
+2023-08-31,NVDA,0.08102860380175526,Parité de risque
+2023-08-31,GOOG,0.12491503650812792,Parité de risque
+2023-08-31,META,0.09182912602798131,Parité de risque
+2023-08-31,SAP,0.1745238078784944,Parité de risque
+2023-08-31,TSM,0.13228503460875435,Parité de risque
+2023-08-31,NFLX,0.11099428674592826,Parité de risque
+2023-09-30,AAPL,0.14910019180269932,Parité de risque
+2023-09-30,MSFT,0.13416291157723978,Parité de risque
+2023-09-30,NVDA,0.08088832664326986,Parité de risque
+2023-09-30,GOOG,0.12499842172453773,Parité de risque
+2023-09-30,META,0.09303156771472686,Parité de risque
+2023-09-30,SAP,0.1748367377280791,Parité de risque
+2023-09-30,TSM,0.1288010035150226,Parité de risque
+2023-09-30,NFLX,0.11418083929442482,Parité de risque
+2023-10-31,AAPL,0.15750937163613268,Parité de risque
+2023-10-31,MSFT,0.1416773533897812,Parité de risque
+2023-10-31,NVDA,0.07909505452960776,Parité de risque
+2023-10-31,GOOG,0.1209239149428022,Parité de risque
+2023-10-31,META,0.09586431774178658,Parité de risque
+2023-10-31,SAP,0.1685780879592541,Parité de risque
+2023-10-31,TSM,0.12641005232052238,Parité de risque
+2023-10-31,NFLX,0.10994184748011314,Parité de risque
+2023-11-30,AAPL,0.16494250908231592,Parité de risque
+2023-11-30,MSFT,0.13944075115447174,Parité de risque
+2023-11-30,NVDA,0.07650682114289259,Parité de risque
+2023-11-30,GOOG,0.1186364011088308,Parité de risque
+2023-11-30,META,0.09223571044986388,Parité de risque
+2023-11-30,SAP,0.17849645971673686,Parité de risque
+2023-11-30,TSM,0.12529426216191933,Parité de risque
+2023-11-30,NFLX,0.10444708518296891,Parité de risque
+2023-12-31,AAPL,0.17176844299468896,Parité de risque
+2023-12-31,MSFT,0.14088654023294872,Parité de risque
+2023-12-31,NVDA,0.0761962026218009,Parité de risque
+2023-12-31,GOOG,0.11721257135532463,Parité de risque
+2023-12-31,META,0.09105957169031209,Parité de risque
+2023-12-31,SAP,0.17579319197419388,Parité de risque
+2023-12-31,TSM,0.1206143729086603,Parité de risque
+2023-12-31,NFLX,0.10646910622207048,Parité de risque
+2024-01-31,AAPL,0.17179426771750786,Parité de risque
+2024-01-31,MSFT,0.14385834974306141,Parité de risque
+2024-01-31,NVDA,0.07998630837644967,Parité de risque
+2024-01-31,GOOG,0.11804482586254296,Parité de risque
+2024-01-31,META,0.09163180989509835,Parité de risque
+2024-01-31,SAP,0.16369573794952877,Parité de risque
+2024-01-31,TSM,0.12178818905436635,Parité de risque
+2024-01-31,NFLX,0.10920051140144466,Parité de risque
+2024-02-29,AAPL,0.17616360893069954,Parité de risque
+2024-02-29,MSFT,0.14749204142439157,Parité de risque
+2024-02-29,NVDA,0.07575569269672751,Parité de risque
+2024-02-29,GOOG,0.12583082276305183,Parité de risque
+2024-02-29,META,0.09627122035502939,Parité de risque
+2024-02-29,SAP,0.15784472863998647,Parité de risque
+2024-02-29,TSM,0.11505909499114692,Parité de risque
+2024-02-29,NFLX,0.10558279019896677,Parité de risque
+2024-03-31,AAPL,0.18072582185087588,Parité de risque
+2024-03-31,MSFT,0.14616358796371898,Parité de risque
+2024-03-31,NVDA,0.07423379795568208,Parité de risque
+2024-03-31,GOOG,0.13298743809034116,Parité de risque
+2024-03-31,META,0.09604283881350209,Parité de risque
+2024-03-31,SAP,0.15723006176039006,Parité de risque
+2024-03-31,TSM,0.10714274866726216,Parité de risque
+2024-03-31,NFLX,0.10547370489822765,Parité de risque
+2024-04-30,AAPL,0.1927653827053986,Parité de risque
+2024-04-30,MSFT,0.15137444179146967,Parité de risque
+2024-04-30,NVDA,0.06871251103954672,Parité de risque
+2024-04-30,GOOG,0.1276856026356648,Parité de risque
+2024-04-30,META,0.10105274785283963,Parité de risque
+2024-04-30,SAP,0.1508380597171706,Parité de risque
+2024-04-30,TSM,0.10466135292492108,Parité de risque
+2024-04-30,NFLX,0.10290990133298883,Parité de risque
+2024-05-31,AAPL,0.18695693178730838,Parité de risque
+2024-05-31,MSFT,0.1511422530865963,Parité de risque
+2024-05-31,NVDA,0.07719084574438452,Parité de risque
+2024-05-31,GOOG,0.1311006473081018,Parité de risque
+2024-05-31,META,0.09840543113492027,Parité de risque
+2024-05-31,SAP,0.1414672676851126,Parité de risque
+2024-05-31,TSM,0.11095789815049317,Parité de risque
+2024-05-31,NFLX,0.10277872510308304,Parité de risque
+2024-06-30,AAPL,0.18187860391985008,Parité de risque
+2024-06-30,MSFT,0.15639349203055913,Parité de risque
+2024-06-30,NVDA,0.07651526443865451,Parité de risque
+2024-06-30,GOOG,0.13617410902939026,Parité de risque
+2024-06-30,META,0.0999304295368811,Parité de risque
+2024-06-30,SAP,0.13720942852667775,Parité de risque
+2024-06-30,TSM,0.10713242165019073,Parité de risque
+2024-06-30,NFLX,0.10476625086779649,Parité de risque
+2024-07-31,AAPL,0.17564459098995264,Parité de risque
+2024-07-31,MSFT,0.15874543065066934,Parité de risque
+2024-07-31,NVDA,0.07220368152196845,Parité de risque
+2024-07-31,GOOG,0.13673693773036663,Parité de risque
+2024-07-31,META,0.09835037166157044,Parité de risque
+2024-07-31,SAP,0.14428512954669012,Parité de risque
+2024-07-31,TSM,0.09927080514732618,Parité de risque
+2024-07-31,NFLX,0.11476305275145626,Parité de risque
+2024-08-31,AAPL,0.17748400608035814,Parité de risque
+2024-08-31,MSFT,0.15886451318724554,Parité de risque
+2024-08-31,NVDA,0.06979970447432553,Parité de risque
+2024-08-31,GOOG,0.1358238801090847,Parité de risque
+2024-08-31,META,0.10074421582146896,Parité de risque
+2024-08-31,SAP,0.1433577238000238,Parité de risque
+2024-08-31,TSM,0.094760945837899,Parité de risque
+2024-08-31,NFLX,0.11916501068959444,Parité de risque
+2024-09-30,AAPL,0.1799408710702456,Parité de risque
+2024-09-30,MSFT,0.1616582993784093,Parité de risque
+2024-09-30,NVDA,0.06706737930472906,Parité de risque
+2024-09-30,GOOG,0.13488565366691735,Parité de risque
+2024-09-30,META,0.1011760230688438,Parité de risque
+2024-09-30,SAP,0.1456661518011319,Parité de risque
+2024-09-30,TSM,0.090451664083607,Parité de risque
+2024-09-30,NFLX,0.11915395762611605,Parité de risque
+2024-10-31,AAPL,0.17302789943818914,Parité de risque
+2024-10-31,MSFT,0.1527213551613703,Parité de risque
+2024-10-31,NVDA,0.0661630697952195,Parité de risque
+2024-10-31,GOOG,0.1448153303795976,Parité de risque
+2024-10-31,META,0.10095656467155784,Parité de risque
+2024-10-31,SAP,0.14493000060776726,Parité de risque
+2024-10-31,TSM,0.09142466582091566,Parité de risque
+2024-10-31,NFLX,0.12596111412538272,Parité de risque
+2024-11-30,AAPL,0.1761008238172657,Parité de risque
+2024-11-30,MSFT,0.15555932784839205,Parité de risque
+2024-11-30,NVDA,0.06547332183620914,Parité de risque
+2024-11-30,GOOG,0.14316556954994258,Parité de risque
+2024-11-30,META,0.09991600513969409,Parité de risque
+2024-11-30,SAP,0.14239431452462178,Parité de risque
+2024-11-30,TSM,0.09184388802626234,Parité de risque
+2024-11-30,NFLX,0.12554674925761236,Parité de risque
+2024-12-31,AAPL,0.1775754563853132,Parité de risque
+2024-12-31,MSFT,0.1542975656829296,Parité de risque
+2024-12-31,NVDA,0.06699910786708907,Parité de risque
+2024-12-31,GOOG,0.14070357700527814,Parité de risque
+2024-12-31,META,0.10022002551810812,Parité de risque
+2024-12-31,SAP,0.14237051492167327,Parité de risque
+2024-12-31,TSM,0.09121599882652234,Parité de risque
+2024-12-31,NFLX,0.12661775379308632,Parité de risque
+2025-01-31,AAPL,0.18185000520154143,Parité de risque
+2025-01-31,MSFT,0.14695667956267444,Parité de risque
+2025-01-31,NVDA,0.06139012287992541,Parité de risque
+2025-01-31,GOOG,0.13741037691670352,Parité de risque
+2025-01-31,META,0.10048718490896978,Parité de risque
+2025-01-31,SAP,0.15393293852690196,Parité de risque
+2025-01-31,TSM,0.08777403640105766,Parité de risque
+2025-01-31,NFLX,0.13019865560222582,Parité de risque
+2025-02-28,AAPL,0.1736411163755864,Parité de risque
+2025-02-28,MSFT,0.1496834587559291,Parité de risque
+2025-02-28,NVDA,0.06314961197803359,Parité de risque
+2025-02-28,GOOG,0.13765655948427782,Parité de risque
+2025-02-28,META,0.11307102951099825,Parité de risque
+2025-02-28,SAP,0.1519770469053092,Parité de risque
+2025-02-28,TSM,0.08387107022312693,Parité de risque
+2025-02-28,NFLX,0.1269501067667388,Parité de risque
+2025-03-31,AAPL,0.1723807086210739,Parité de risque
+2025-03-31,MSFT,0.15455791117009643,Parité de risque
+2025-03-31,NVDA,0.06529132355612492,Parité de risque
+2025-03-31,GOOG,0.13403939872559206,Parité de risque
+2025-03-31,META,0.11310650989971964,Parité de risque
+2025-03-31,SAP,0.15044888522868133,Parité de risque
+2025-03-31,TSM,0.08844321792424703,Parité de risque
+2025-03-31,NFLX,0.1217320448744647,Parité de risque
+2025-04-30,AAPL,0.13518169290847212,Parité de risque
+2025-04-30,MSFT,0.15422667574640925,Parité de risque
+2025-04-30,NVDA,0.0703682088394491,Parité de risque
+2025-04-30,GOOG,0.14296172768055618,Parité de risque
+2025-04-30,META,0.10944138243053651,Parité de risque
+2025-04-30,SAP,0.1537827426658746,Parité de risque
+2025-04-30,TSM,0.0927095623906498,Parité de risque
+2025-04-30,NFLX,0.14132800733805245,Parité de risque
+2025-05-31,AAPL,0.13697928603331158,Parité de risque
+2025-05-31,MSFT,0.15169159088960274,Parité de risque
+2025-05-31,NVDA,0.07083863074585742,Parité de risque
+2025-05-31,GOOG,0.14108930404379175,Parité de risque
+2025-05-31,META,0.10710077158329187,Parité de risque
+2025-05-31,SAP,0.15468204226911236,Parité de risque
+2025-05-31,TSM,0.09065363004738762,Parité de risque
+2025-05-31,NFLX,0.14696474438764473,Parité de risque
+2025-06-30,AAPL,0.13744713460425398,Parité de risque
+2025-06-30,MSFT,0.15274108469055675,Parité de risque
+2025-06-30,NVDA,0.07161086572552694,Parité de risque
+2025-06-30,GOOG,0.13934886204034222,Parité de risque
+2025-06-30,META,0.10467156076040032,Parité de risque
+2025-06-30,SAP,0.15669436642292653,Parité de risque
+2025-06-30,TSM,0.091235497299098,Parité de risque
+2025-06-30,NFLX,0.14625062845689532,Parité de risque
+2025-07-31,AAPL,0.1379957631274929,Parité de risque
+2025-07-31,MSFT,0.15256691550438897,Parité de risque
+2025-07-31,NVDA,0.07167543054843414,Parité de risque
+2025-07-31,GOOG,0.1418492767548673,Parité de risque
+2025-07-31,META,0.10706972014592836,Parité de risque
+2025-07-31,SAP,0.1558155839192579,Parité de risque
+2025-07-31,TSM,0.09172805857585832,Parité de risque
+2025-07-31,NFLX,0.14129925142377214,Parité de risque
+2025-08-31,AAPL,0.1346096214106167,Parité de risque
+2025-08-31,MSFT,0.15157866241466664,Parité de risque
+2025-08-31,NVDA,0.07576694686963752,Parité de risque
+2025-08-31,GOOG,0.1407663994898723,Parité de risque
+2025-08-31,META,0.10429806884933683,Parité de risque
+2025-08-31,SAP,0.15912847709063802,Parité de risque
+2025-08-31,TSM,0.09387262954669605,Parité de risque
+2025-08-31,NFLX,0.13997919432853598,Parité de risque
+2025-09-30,AAPL,0.13284426994590245,Parité de risque
+2025-09-30,MSFT,0.15096167787268863,Parité de risque
+2025-09-30,NVDA,0.07797247095669216,Parité de risque
+2025-09-30,GOOG,0.13828979420619245,Parité de risque
+2025-09-30,META,0.10376376728866055,Parité de risque
+2025-09-30,SAP,0.15718089972600838,Parité de risque
+2025-09-30,TSM,0.09733701976285679,Parité de risque
+2025-09-30,NFLX,0.14165010024099858,Parité de risque
+2025-10-31,AAPL,0.13335316089080929,Parité de risque
+2025-10-31,MSFT,0.15170788154180945,Parité de risque
+2025-10-31,NVDA,0.07909134624598609,Parité de risque
+2025-10-31,GOOG,0.1387497998748161,Parité de risque
+2025-10-31,META,0.1019311248651562,Parité de risque
+2025-10-31,SAP,0.15714082253187592,Parité de risque
+2025-10-31,TSM,0.09400964066770612,Parité de risque
+2025-10-31,NFLX,0.14401622338184084,Parité de risque
+2025-11-30,AAPL,0.13281328992387872,Parité de risque
+2025-11-30,MSFT,0.15483333267116645,Parité de risque
+2025-11-30,NVDA,0.07984831828408133,Parité de risque
+2025-11-30,GOOG,0.1358493011728948,Parité de risque
+2025-11-30,META,0.1027613173801139,Parité de risque
+2025-11-30,SAP,0.15809807487978977,Parité de risque
+2025-11-30,TSM,0.09359383507530744,Parité de risque
+2025-11-30,NFLX,0.14220253061276755,Parité de risque
+2025-12-31,AAPL,0.12969540074598807,Parité de risque
+2025-12-31,MSFT,0.1563770076700259,Parité de risque
+2025-12-31,NVDA,0.07838450020743573,Parité de risque
+2025-12-31,GOOG,0.1364190558620709,Parité de risque
+2025-12-31,META,0.10316278320176935,Parité de risque
+2025-12-31,SAP,0.16045180497940933,Parité de risque
+2025-12-31,TSM,0.09391305063354399,Parité de risque
+2025-12-31,NFLX,0.14159639669975677,Parité de risque
+2026-01-31,AAPL,0.12917166025491084,Parité de risque
+2026-01-31,MSFT,0.14956431443341842,Parité de risque
+2026-01-31,NVDA,0.08395622140331564,Parité de risque
+2026-01-31,GOOG,0.13981050237327497,Parité de risque
+2026-01-31,META,0.10582481440216178,Parité de risque
+2026-01-31,SAP,0.14572728844989066,Parité de risque
+2026-01-31,TSM,0.09863208637995437,Parité de risque
+2026-01-31,NFLX,0.14731311230307334,Parité de risque
+2026-02-28,AAPL,0.13116953230688583,Parité de risque
+2026-02-28,MSFT,0.14789126117854953,Parité de risque
+2026-02-28,NVDA,0.08625296228630698,Parité de risque
+2026-02-28,GOOG,0.1424102207056084,Parité de risque
+2026-02-28,META,0.10654451626991872,Parité de risque
+2026-02-28,SAP,0.14287369103807152,Parité de risque
+2026-02-28,TSM,0.10040131642933195,Parité de risque
+2026-02-28,NFLX,0.1424564997853272,Parité de risque
+2026-03-31,AAPL,0.1278087548210515,Parité de risque
+2026-03-31,MSFT,0.14455432003148383,Parité de risque
+2026-03-31,NVDA,0.08883931613449768,Parité de risque
+2026-03-31,GOOG,0.1411506537640609,Parité de risque
+2026-03-31,META,0.10270320105093794,Parité de risque
+2026-03-31,SAP,0.14360197160574992,Parité de risque
+2026-03-31,TSM,0.09825676917386919,Parité de risque
+2026-03-31,NFLX,0.15308501341834904,Parité de risque
+2026-04-30,AAPL,0.1687067077218602,Parité de risque
+2026-04-30,MSFT,0.1343535359970682,Parité de risque
+2026-04-30,NVDA,0.09705929448619934,Parité de risque
+2026-04-30,GOOG,0.135375647871911,Parité de risque
+2026-04-30,META,0.10002574809743474,Parité de risque
+2026-04-30,SAP,0.12475494236483793,Parité de risque
+2026-04-30,TSM,0.09097629433237807,Parité de risque
+2026-04-30,NFLX,0.14874782912831055,Parité de risque
+2026-05-31,AAPL,0.17341724419572052,Parité de risque
+2026-05-31,MSFT,0.1374882862583141,Parité de risque
+2026-05-31,NVDA,0.09757338203512048,Parité de risque
+2026-05-31,GOOG,0.13595962739276307,Parité de risque
+2026-05-31,META,0.10370513787385267,Parité de risque
+2026-05-31,SAP,0.11926108306600955,Parité de risque
+2026-05-31,TSM,0.09063154006626138,Parité de risque
+2026-05-31,NFLX,0.1419636991119583,Parité de risque
+2026-06-30,AAPL,0.16948103293744304,Parité de risque
+2026-06-30,MSFT,0.12808513818259304,Parité de risque
+2026-06-30,NVDA,0.09793903017985782,Parité de risque
+2026-06-30,GOOG,0.1362099526182215,Parité de risque
+2026-06-30,META,0.11065676610074933,Parité de risque
+2026-06-30,SAP,0.11740813659661822,Parité de risque
+2026-06-30,TSM,0.09374878886671024,Parité de risque
+2026-06-30,NFLX,0.14647115451780676,Parité de risque
+2026-07-31,AAPL,0.16734099869951077,Parité de risque
+2026-07-31,MSFT,0.12127229736436514,Parité de risque
+2026-07-31,NVDA,0.1050556118658989,Parité de risque
+2026-07-31,GOOG,0.1294357316965286,Parité de risque
+2026-07-31,META,0.10943663592027017,Parité de risque
+2026-07-31,SAP,0.11566817471744845,Parité de risque
+2026-07-31,TSM,0.10089468969587377,Parité de risque
+2026-07-31,NFLX,0.15089586004010427,Parité de risque
+2026-08-31,AAPL,0.18170650108399805,Parité de risque
+2026-08-31,MSFT,0.11861359861437026,Parité de risque
+2026-08-31,NVDA,0.10543330785684743,Parité de risque
+2026-08-31,GOOG,0.12666270554857895,Parité de risque
+2026-08-31,META,0.10883867333683327,Parité de risque
+2026-08-31,SAP,0.11086098545990596,Parité de risque
+2026-08-31,TSM,0.10386945452772384,Parité de risque
+2026-08-31,NFLX,0.14401477357174222,Parité de risque
+2026-09-30,AAPL,0.18926981479626143,Parité de risque
+2026-09-30,MSFT,0.11614144396890179,Parité de risque
+2026-09-30,NVDA,0.10720269660924245,Parité de risque
+2026-09-30,GOOG,0.1296908203891573,Parité de risque
+2026-09-30,META,0.10293331560282325,Parité de risque
+2026-09-30,SAP,0.1110027687268676,Parité de risque
+2026-09-30,TSM,0.10527510674322066,Parité de risque
+2026-09-30,NFLX,0.13848403316352564,Parité de risque
+2026-10-31,AAPL,0.20083260258195162,Parité de risque
+2026-10-31,MSFT,0.11058818584656514,Parité de risque
+2026-10-31,NVDA,0.10607035932363684,Parité de risque
+2026-10-31,GOOG,0.12008754672034659,Parité de risque
+2026-10-31,META,0.09932473803852078,Parité de risque
+2026-10-31,SAP,0.11281749299150669,Parité de risque
+2026-10-31,TSM,0.10770840407800138,Parité de risque
+2026-10-31,NFLX,0.14257067041947097,Parité de risque
+2020-01-31,AAPL,0.3499999999999997,Sharpe maximal
+2020-01-31,MSFT,0.3499999999999998,Sharpe maximal
+2020-01-31,NVDA,0.0,Sharpe maximal
+2020-01-31,GOOG,0.004492886245155585,Sharpe maximal
+2020-01-31,META,1.2446777472655792e-16,Sharpe maximal
+2020-01-31,SAP,0.11269419939669434,Sharpe maximal
+2020-01-31,TSM,0.18281291435815036,Sharpe maximal
+2020-01-31,NFLX,0.0,Sharpe maximal
+2020-02-29,AAPL,0.3499999999999999,Sharpe maximal
+2020-02-29,MSFT,0.34999999999999976,Sharpe maximal
+2020-02-29,NVDA,0.17941275397742465,Sharpe maximal
+2020-02-29,GOOG,0.0,Sharpe maximal
+2020-02-29,META,2.329122641755704e-16,Sharpe maximal
+2020-02-29,SAP,3.6419871910893375e-16,Sharpe maximal
+2020-02-29,TSM,0.1205872460225752,Sharpe maximal
+2020-02-29,NFLX,0.0,Sharpe maximal
+2020-03-31,AAPL,0.346768080572723,Sharpe maximal
+2020-03-31,MSFT,0.30323191942727673,Sharpe maximal
+2020-03-31,NVDA,0.34999999999999987,Sharpe maximal
+2020-03-31,GOOG,1.1575868476064924e-16,Sharpe maximal
+2020-03-31,META,1.7694148258761205e-16,Sharpe maximal
+2020-03-31,SAP,0.0,Sharpe maximal
+2020-03-31,TSM,6.819426336810076e-17,Sharpe maximal
+2020-03-31,NFLX,0.0,Sharpe maximal
+2020-04-30,AAPL,0.2999999999999998,Sharpe maximal
+2020-04-30,MSFT,0.3499999999999999,Sharpe maximal
+2020-04-30,NVDA,0.3499999999999999,Sharpe maximal
+2020-04-30,GOOG,0.0,Sharpe maximal
+2020-04-30,META,3.435964542138048e-18,Sharpe maximal
+2020-04-30,SAP,3.226237656070939e-16,Sharpe maximal
+2020-04-30,TSM,2.764328170394827e-18,Sharpe maximal
+2020-04-30,NFLX,0.0,Sharpe maximal
+2020-05-31,AAPL,0.3499999999999999,Sharpe maximal
+2020-05-31,MSFT,0.2096351144527008,Sharpe maximal
+2020-05-31,NVDA,0.3499999999999998,Sharpe maximal
+2020-05-31,GOOG,3.6034407968344753e-16,Sharpe maximal
+2020-05-31,META,1.6923041548663953e-17,Sharpe maximal
+2020-05-31,SAP,4.409802267836108e-17,Sharpe maximal
+2020-05-31,TSM,0.07521564784791743,Sharpe maximal
+2020-05-31,NFLX,0.015149237699381642,Sharpe maximal
+2020-06-30,AAPL,0.34999999999999964,Sharpe maximal
+2020-06-30,MSFT,0.18723822376864974,Sharpe maximal
+2020-06-30,NVDA,0.3499999999999997,Sharpe maximal
+2020-06-30,GOOG,3.5110365822922263e-16,Sharpe maximal
+2020-06-30,META,1.4749948451327287e-16,Sharpe maximal
+2020-06-30,SAP,2.727068063064582e-16,Sharpe maximal
+2020-06-30,TSM,0.11276177623135014,Sharpe maximal
+2020-06-30,NFLX,0.0,Sharpe maximal
+2020-07-31,AAPL,0.3499999999999998,Sharpe maximal
+2020-07-31,MSFT,0.0,Sharpe maximal
+2020-07-31,NVDA,0.3499999999999998,Sharpe maximal
+2020-07-31,GOOG,8.759225483993274e-17,Sharpe maximal
+2020-07-31,META,0.0,Sharpe maximal
+2020-07-31,SAP,0.0,Sharpe maximal
+2020-07-31,TSM,0.2827304959744209,Sharpe maximal
+2020-07-31,NFLX,0.01726950402557932,Sharpe maximal
+2020-08-31,AAPL,0.34999999999999976,Sharpe maximal
+2020-08-31,MSFT,0.0,Sharpe maximal
+2020-08-31,NVDA,0.34999999999999976,Sharpe maximal
+2020-08-31,GOOG,1.7277225116662558e-18,Sharpe maximal
+2020-08-31,META,0.0,Sharpe maximal
+2020-08-31,SAP,0.0,Sharpe maximal
+2020-08-31,TSM,0.10479479018278771,Sharpe maximal
+2020-08-31,NFLX,0.19520520981721276,Sharpe maximal
+2020-09-30,AAPL,0.29583794831445787,Sharpe maximal
+2020-09-30,MSFT,8.944345075190333e-17,Sharpe maximal
+2020-09-30,NVDA,0.34999999999999953,Sharpe maximal
+2020-09-30,GOOG,0.0,Sharpe maximal
+2020-09-30,META,0.0,Sharpe maximal
+2020-09-30,SAP,1.8331752831367415e-16,Sharpe maximal
+2020-09-30,TSM,0.05415250464783298,Sharpe maximal
+2020-09-30,NFLX,0.30000954703770943,Sharpe maximal
+2020-10-31,AAPL,0.15985693471644719,Sharpe maximal
+2020-10-31,MSFT,0.0,Sharpe maximal
+2020-10-31,NVDA,0.3499999999999998,Sharpe maximal
+2020-10-31,GOOG,0.0,Sharpe maximal
+2020-10-31,META,2.5270257569723094e-17,Sharpe maximal
+2020-10-31,SAP,0.0,Sharpe maximal
+2020-10-31,TSM,0.18346754464947285,Sharpe maximal
+2020-10-31,NFLX,0.3066755206340801,Sharpe maximal
+2020-11-30,AAPL,0.1449659039461415,Sharpe maximal
+2020-11-30,MSFT,9.550719778629277e-18,Sharpe maximal
+2020-11-30,NVDA,0.3499999999999998,Sharpe maximal
+2020-11-30,GOOG,1.6090534305760563e-16,Sharpe maximal
+2020-11-30,META,0.0,Sharpe maximal
+2020-11-30,SAP,0.0,Sharpe maximal
+2020-11-30,TSM,0.3499999999999998,Sharpe maximal
+2020-11-30,NFLX,0.15503409605385862,Sharpe maximal
+2020-12-31,AAPL,0.08464137191329503,Sharpe maximal
+2020-12-31,MSFT,0.0,Sharpe maximal
+2020-12-31,NVDA,0.3397839205493578,Sharpe maximal
+2020-12-31,GOOG,0.0,Sharpe maximal
+2020-12-31,META,0.0,Sharpe maximal
+2020-12-31,SAP,6.526534998659936e-16,Sharpe maximal
+2020-12-31,TSM,0.3499999999999998,Sharpe maximal
+2020-12-31,NFLX,0.2255747075373467,Sharpe maximal
+2021-01-31,AAPL,0.0851706412935989,Sharpe maximal
+2021-01-31,MSFT,0.0,Sharpe maximal
+2021-01-31,NVDA,0.34999999999999976,Sharpe maximal
+2021-01-31,GOOG,2.1729454518279278e-16,Sharpe maximal
+2021-01-31,META,0.0,Sharpe maximal
+2021-01-31,SAP,8.111875231861347e-17,Sharpe maximal
+2021-01-31,TSM,0.34999999999999953,Sharpe maximal
+2021-01-31,NFLX,0.2148293587064014,Sharpe maximal
+2021-02-28,AAPL,0.253472387814421,Sharpe maximal
+2021-02-28,MSFT,2.748670385318997e-16,Sharpe maximal
+2021-02-28,NVDA,0.27276426359147105,Sharpe maximal
+2021-02-28,GOOG,0.06215314046549712,Sharpe maximal
+2021-02-28,META,0.0,Sharpe maximal
+2021-02-28,SAP,0.0,Sharpe maximal
+2021-02-28,TSM,0.3499999999999996,Sharpe maximal
+2021-02-28,NFLX,0.06161020812861111,Sharpe maximal
+2021-03-31,AAPL,0.28569736499052484,Sharpe maximal
+2021-03-31,MSFT,0.0,Sharpe maximal
+2021-03-31,NVDA,1.7025803132980764e-16,Sharpe maximal
+2021-03-31,GOOG,0.35000000000000003,Sharpe maximal
+2021-03-31,META,0.014302635009474917,Sharpe maximal
+2021-03-31,SAP,0.0,Sharpe maximal
+2021-03-31,TSM,0.35,Sharpe maximal
+2021-03-31,NFLX,1.8277568108073224e-16,Sharpe maximal
+2021-04-30,AAPL,0.23588381188673627,Sharpe maximal
+2021-04-30,MSFT,0.0,Sharpe maximal
+2021-04-30,NVDA,0.0641161881132637,Sharpe maximal
+2021-04-30,GOOG,0.3499999999999999,Sharpe maximal
+2021-04-30,META,1.9379802577141603e-18,Sharpe maximal
+2021-04-30,SAP,0.0,Sharpe maximal
+2021-04-30,TSM,0.3499999999999999,Sharpe maximal
+2021-04-30,NFLX,2.165780534931899e-16,Sharpe maximal
+2021-05-31,AAPL,0.2165906468975921,Sharpe maximal
+2021-05-31,MSFT,0.0,Sharpe maximal
+2021-05-31,NVDA,0.08340935310240756,Sharpe maximal
+2021-05-31,GOOG,0.35000000000000003,Sharpe maximal
+2021-05-31,META,2.8171516223636584e-16,Sharpe maximal
+2021-05-31,SAP,0.0,Sharpe maximal
+2021-05-31,TSM,0.35000000000000003,Sharpe maximal
+2021-05-31,NFLX,0.0,Sharpe maximal
+2021-06-30,AAPL,0.0,Sharpe maximal
+2021-06-30,MSFT,8.28678713495733e-17,Sharpe maximal
+2021-06-30,NVDA,0.24332822570808849,Sharpe maximal
+2021-06-30,GOOG,0.3499999999999997,Sharpe maximal
+2021-06-30,META,0.0566717742919115,Sharpe maximal
+2021-06-30,SAP,5.872675385527421e-18,Sharpe maximal
+2021-06-30,TSM,0.3499999999999999,Sharpe maximal
+2021-06-30,NFLX,3.487611921686269e-16,Sharpe maximal
+2021-07-31,AAPL,0.16020468982649755,Sharpe maximal
+2021-07-31,MSFT,0.0,Sharpe maximal
+2021-07-31,NVDA,0.23590611883815135,Sharpe maximal
+2021-07-31,GOOG,0.35,Sharpe maximal
+2021-07-31,META,0.11005507650814327,Sharpe maximal
+2021-07-31,SAP,1.494209885216454e-16,Sharpe maximal
+2021-07-31,TSM,0.14383411482720784,Sharpe maximal
+2021-07-31,NFLX,0.0,Sharpe maximal
+2021-08-31,AAPL,0.0,Sharpe maximal
+2021-08-31,MSFT,0.21663263989977646,Sharpe maximal
+2021-08-31,NVDA,0.15577996653541445,Sharpe maximal
+2021-08-31,GOOG,0.34999999999999976,Sharpe maximal
+2021-08-31,META,3.7882640585675687e-16,Sharpe maximal
+2021-08-31,SAP,0.0,Sharpe maximal
+2021-08-31,TSM,0.2775873935648087,Sharpe maximal
+2021-08-31,NFLX,1.8951493628381548e-16,Sharpe maximal
+2021-09-30,AAPL,2.9930877191552452e-16,Sharpe maximal
+2021-09-30,MSFT,0.35000000000000003,Sharpe maximal
+2021-09-30,NVDA,0.10192684628296603,Sharpe maximal
+2021-09-30,GOOG,0.34999999999999903,Sharpe maximal
+2021-09-30,META,1.3883532966114113e-16,Sharpe maximal
+2021-09-30,SAP,4.586275366993188e-16,Sharpe maximal
+2021-09-30,TSM,0.16622620449393866,Sharpe maximal
+2021-09-30,NFLX,0.03184694922309543,Sharpe maximal
+2021-10-31,AAPL,0.0,Sharpe maximal
+2021-10-31,MSFT,0.3499999999999999,Sharpe maximal
+2021-10-31,NVDA,0.15616136843457767,Sharpe maximal
+2021-10-31,GOOG,0.3499999999999999,Sharpe maximal
+2021-10-31,META,0.0,Sharpe maximal
+2021-10-31,SAP,0.14383863156542226,Sharpe maximal
+2021-10-31,TSM,0.0,Sharpe maximal
+2021-10-31,NFLX,2.1750071432441671e-16,Sharpe maximal
+2021-11-30,AAPL,0.0,Sharpe maximal
+2021-11-30,MSFT,0.3117566270917283,Sharpe maximal
+2021-11-30,NVDA,0.3382433729082713,Sharpe maximal
+2021-11-30,GOOG,0.3499999999999989,Sharpe maximal
+2021-11-30,META,9.951529925302235e-16,Sharpe maximal
+2021-11-30,SAP,0.0,Sharpe maximal
+2021-11-30,TSM,4.91972209551094e-16,Sharpe maximal
+2021-11-30,NFLX,0.0,Sharpe maximal
+2021-12-31,AAPL,0.0,Sharpe maximal
+2021-12-31,MSFT,0.350000000130385,Sharpe maximal
+2021-12-31,NVDA,0.29999999973922964,Sharpe maximal
+2021-12-31,GOOG,0.350000000130385,Sharpe maximal
+2021-12-31,META,0.0,Sharpe maximal
+2021-12-31,SAP,0.0,Sharpe maximal
+2021-12-31,TSM,2.6652412151176016e-16,Sharpe maximal
+2021-12-31,NFLX,4.164575445723848e-17,Sharpe maximal
+2022-01-31,AAPL,0.13252934487983006,Sharpe maximal
+2022-01-31,MSFT,0.16747065512016904,Sharpe maximal
+2022-01-31,NVDA,0.3499999999999994,Sharpe maximal
+2022-01-31,GOOG,0.34999999999999937,Sharpe maximal
+2022-01-31,META,1.1639364093735738e-15,Sharpe maximal
+2022-01-31,SAP,0.0,Sharpe maximal
+2022-01-31,TSM,7.672236537778897e-16,Sharpe maximal
+2022-01-31,NFLX,0.0,Sharpe maximal
+2022-02-28,AAPL,0.30476637350848573,Sharpe maximal
+2022-02-28,MSFT,0.0,Sharpe maximal
+2022-02-28,NVDA,0.34999999999999903,Sharpe maximal
+2022-02-28,GOOG,0.3452336264915139,Sharpe maximal
+2022-02-28,META,1.0772165152192712e-15,Sharpe maximal
+2022-02-28,SAP,0.0,Sharpe maximal
+2022-02-28,TSM,4.563729697354451e-16,Sharpe maximal
+2022-02-28,NFLX,0.0,Sharpe maximal
+2022-03-31,AAPL,0.34999999999999964,Sharpe maximal
+2022-03-31,MSFT,0.0,Sharpe maximal
+2022-03-31,NVDA,0.34999999999999964,Sharpe maximal
+2022-03-31,GOOG,0.29999999999999866,Sharpe maximal
+2022-03-31,META,5.327031488067174e-17,Sharpe maximal
+2022-03-31,SAP,0.0,Sharpe maximal
+2022-03-31,TSM,9.2783091536603e-16,Sharpe maximal
+2022-03-31,NFLX,9.435057206520845e-16,Sharpe maximal
+2022-04-30,AAPL,0.34999999999999803,Sharpe maximal
+2022-04-30,MSFT,0.2999999999999992,Sharpe maximal
+2022-04-30,NVDA,0.3499999999999947,Sharpe maximal
+2022-04-30,GOOG,0.0,Sharpe maximal
+2022-04-30,META,1.6792123247455467e-15,Sharpe maximal
+2022-04-30,SAP,1.6792123247455467e-15,Sharpe maximal
+2022-04-30,TSM,6.800116025829073e-16,Sharpe maximal
+2022-04-30,NFLX,3.969047313034928e-15,Sharpe maximal
+2022-05-31,AAPL,0.3499999999999869,Sharpe maximal
+2022-05-31,MSFT,0.34999999999989734,Sharpe maximal
+2022-05-31,NVDA,0.30000000000009264,Sharpe maximal
+2022-05-31,GOOG,1.6409260279379789e-15,Sharpe maximal
+2022-05-31,META,8.405741130406671e-15,Sharpe maximal
+2022-05-31,SAP,4.524929976696284e-16,Sharpe maximal
+2022-05-31,TSM,2.6470645551512184e-15,Sharpe maximal
+2022-05-31,NFLX,9.977989341753989e-15,Sharpe maximal
+2022-06-30,AAPL,0.34999999999999487,Sharpe maximal
+2022-06-30,MSFT,0.34999999999999487,Sharpe maximal
+2022-06-30,NVDA,0.3000000000000103,Sharpe maximal
+2022-06-30,GOOG,0.0,Sharpe maximal
+2022-06-30,META,0.0,Sharpe maximal
+2022-06-30,SAP,0.0,Sharpe maximal
+2022-06-30,TSM,0.0,Sharpe maximal
+2022-06-30,NFLX,0.0,Sharpe maximal
+2022-07-31,AAPL,0.35000000000000003,Sharpe maximal
+2022-07-31,MSFT,0.2999999999999991,Sharpe maximal
+2022-07-31,NVDA,0.35000000000000003,Sharpe maximal
+2022-07-31,GOOG,0.0,Sharpe maximal
+2022-07-31,META,1.6653345369377353e-16,Sharpe maximal
+2022-07-31,SAP,3.6082248300317597e-16,Sharpe maximal
+2022-07-31,TSM,3.053113317719181e-16,Sharpe maximal
+2022-07-31,NFLX,0.0,Sharpe maximal
+2022-08-31,AAPL,0.3500000000000088,Sharpe maximal
+2022-08-31,MSFT,0.3500000000000088,Sharpe maximal
+2022-08-31,NVDA,0.2999999999999824,Sharpe maximal
+2022-08-31,GOOG,0.0,Sharpe maximal
+2022-08-31,META,0.0,Sharpe maximal
+2022-08-31,SAP,0.0,Sharpe maximal
+2022-08-31,TSM,0.0,Sharpe maximal
+2022-08-31,NFLX,0.0,Sharpe maximal
+2022-09-30,AAPL,0.34999999999953424,Sharpe maximal
+2022-09-30,MSFT,0.34999999999920944,Sharpe maximal
+2022-09-30,NVDA,0.2999999999997596,Sharpe maximal
+2022-09-30,GOOG,5.188629632615661e-13,Sharpe maximal
+2022-09-30,META,2.8253878637890065e-13,Sharpe maximal
+2022-09-30,SAP,1.859115219200067e-13,Sharpe maximal
+2022-09-30,TSM,2.0089064955132105e-13,Sharpe maximal
+2022-09-30,NFLX,3.0853146477459657e-13,Sharpe maximal
+2022-10-31,AAPL,0.34999999999998926,Sharpe maximal
+2022-10-31,MSFT,0.3000000000000213,Sharpe maximal
+2022-10-31,NVDA,0.34999999999998926,Sharpe maximal
+2022-10-31,GOOG,0.0,Sharpe maximal
+2022-10-31,META,0.0,Sharpe maximal
+2022-10-31,SAP,0.0,Sharpe maximal
+2022-10-31,TSM,0.0,Sharpe maximal
+2022-10-31,NFLX,0.0,Sharpe maximal
+2022-11-30,AAPL,0.3499999999999689,Sharpe maximal
+2022-11-30,MSFT,0.2999999999999964,Sharpe maximal
+2022-11-30,NVDA,4.3021142204224816e-15,Sharpe maximal
+2022-11-30,GOOG,3.837208328860697e-15,Sharpe maximal
+2022-11-30,META,1.9962423565094868e-14,Sharpe maximal
+2022-11-30,SAP,0.34999999999997883,Sharpe maximal
+2022-11-30,TSM,8.535490023109382e-15,Sharpe maximal
+2022-11-30,NFLX,1.9271180013508484e-14,Sharpe maximal
+2022-12-31,AAPL,0.34999999999999193,Sharpe maximal
+2022-12-31,MSFT,2.9842571645214736e-15,Sharpe maximal
+2022-12-31,NVDA,0.3000000000000053,Sharpe maximal
+2022-12-31,GOOG,0.0,Sharpe maximal
+2022-12-31,META,3.1801643836565473e-16,Sharpe maximal
+2022-12-31,SAP,1.1477735750339077e-16,Sharpe maximal
+2022-12-31,TSM,8.593515501923444e-16,Sharpe maximal
+2022-12-31,NFLX,0.3499999999999985,Sharpe maximal
+2023-01-31,AAPL,1.551636653346346e-15,Sharpe maximal
+2023-01-31,MSFT,0.0,Sharpe maximal
+2023-01-31,NVDA,0.30000000000000576,Sharpe maximal
+2023-01-31,GOOG,3.6496166242771186e-16,Sharpe maximal
+2023-01-31,META,4.710054671827007e-16,Sharpe maximal
+2023-01-31,SAP,0.34999999999999204,Sharpe maximal
+2023-01-31,TSM,3.2125566286196243e-16,Sharpe maximal
+2023-01-31,NFLX,0.3499999999999996,Sharpe maximal
+2023-02-28,AAPL,3.1543397550780044e-17,Sharpe maximal
+2023-02-28,MSFT,0.0,Sharpe maximal
+2023-02-28,NVDA,0.3499999999999998,Sharpe maximal
+2023-02-28,GOOG,0.0,Sharpe maximal
+2023-02-28,META,0.0,Sharpe maximal
+2023-02-28,SAP,0.3499999999999998,Sharpe maximal
+2023-02-28,TSM,0.0,Sharpe maximal
+2023-02-28,NFLX,0.3000000000000003,Sharpe maximal
+2023-03-31,AAPL,5.611985099596779e-16,Sharpe maximal
+2023-03-31,MSFT,1.648141956989777e-16,Sharpe maximal
+2023-03-31,NVDA,0.3499999999999998,Sharpe maximal
+2023-03-31,GOOG,0.0,Sharpe maximal
+2023-03-31,META,0.14314938332093874,Sharpe maximal
+2023-03-31,SAP,0.3499999999999998,Sharpe maximal
+2023-03-31,TSM,1.5700794005708206e-16,Sharpe maximal
+2023-03-31,NFLX,0.1568506166790607,Sharpe maximal
+2023-04-30,AAPL,2.3673833971813165e-16,Sharpe maximal
+2023-04-30,MSFT,0.0,Sharpe maximal
+2023-04-30,NVDA,0.2109688079103304,Sharpe maximal
+2023-04-30,GOOG,0.0,Sharpe maximal
+2023-04-30,META,0.08903119208966971,Sharpe maximal
+2023-04-30,SAP,0.34999999999999976,Sharpe maximal
+2023-04-30,TSM,4.5870069125872827e-17,Sharpe maximal
+2023-04-30,NFLX,0.34999999999999987,Sharpe maximal
+2023-05-31,AAPL,2.824993914306339e-17,Sharpe maximal
+2023-05-31,MSFT,4.8743870808220985e-17,Sharpe maximal
+2023-05-31,NVDA,0.35,Sharpe maximal
+2023-05-31,GOOG,1.004533724791967e-16,Sharpe maximal
+2023-05-31,META,8.673617379884035e-18,Sharpe maximal
+2023-05-31,SAP,0.2999999999999998,Sharpe maximal
+2023-05-31,TSM,1.2093498222563614e-16,Sharpe maximal
+2023-05-31,NFLX,0.34999999999999987,Sharpe maximal
+2023-06-30,AAPL,0.0,Sharpe maximal
+2023-06-30,MSFT,3.4217780147929896e-16,Sharpe maximal
+2023-06-30,NVDA,0.34999999999999987,Sharpe maximal
+2023-06-30,GOOG,2.1417156928715321e-16,Sharpe maximal
+2023-06-30,META,0.036436944146474304,Sharpe maximal
+2023-06-30,SAP,0.2635630558535254,Sharpe maximal
+2023-06-30,TSM,1.3845982232004739e-16,Sharpe maximal
+2023-06-30,NFLX,0.34999999999999976,Sharpe maximal
+2023-07-31,AAPL,3.151440352911669e-17,Sharpe maximal
+2023-07-31,MSFT,0.0,Sharpe maximal
+2023-07-31,NVDA,0.34999999999999987,Sharpe maximal
+2023-07-31,GOOG,1.8657388739014605e-16,Sharpe maximal
+2023-07-31,META,0.18550361710830232,Sharpe maximal
+2023-07-31,SAP,0.1965198866535256,Sharpe maximal
+2023-07-31,TSM,0.0,Sharpe maximal
+2023-07-31,NFLX,0.26797649623817194,Sharpe maximal
+2023-08-31,AAPL,4.995583000149815e-16,Sharpe maximal
+2023-08-31,MSFT,4.967203133596727e-16,Sharpe maximal
+2023-08-31,NVDA,0.35,Sharpe maximal
+2023-08-31,GOOG,0.0,Sharpe maximal
+2023-08-31,META,0.08617599593603481,Sharpe maximal
+2023-08-31,SAP,0.3499999999999999,Sharpe maximal
+2023-08-31,TSM,0.0,Sharpe maximal
+2023-08-31,NFLX,0.21382400406396426,Sharpe maximal
+2023-09-30,AAPL,4.1249063250803156e-17,Sharpe maximal
+2023-09-30,MSFT,0.0,Sharpe maximal
+2023-09-30,NVDA,0.3499999999999995,Sharpe maximal
+2023-09-30,GOOG,2.3634553251588603e-16,Sharpe maximal
+2023-09-30,META,0.2532004482228086,Sharpe maximal
+2023-09-30,SAP,0.3499999999999993,Sharpe maximal
+2023-09-30,TSM,3.164816235062283e-17,Sharpe maximal
+2023-09-30,NFLX,0.046799551777192215,Sharpe maximal
+2023-10-31,AAPL,0.0,Sharpe maximal
+2023-10-31,MSFT,0.0,Sharpe maximal
+2023-10-31,NVDA,0.3499999999999998,Sharpe maximal
+2023-10-31,GOOG,1.8605646220818857e-16,Sharpe maximal
+2023-10-31,META,0.3499999999999997,Sharpe maximal
+2023-10-31,SAP,0.3000000000000002,Sharpe maximal
+2023-10-31,TSM,1.2423712587321767e-16,Sharpe maximal
+2023-10-31,NFLX,1.1627625473759358e-16,Sharpe maximal
+2023-11-30,AAPL,0.0,Sharpe maximal
+2023-11-30,MSFT,0.0,Sharpe maximal
+2023-11-30,NVDA,0.28658856760187246,Sharpe maximal
+2023-11-30,GOOG,2.938881807247792e-17,Sharpe maximal
+2023-11-30,META,0.3499999999999996,Sharpe maximal
+2023-11-30,SAP,0.34222031881596077,Sharpe maximal
+2023-11-30,TSM,4.0163280241538695e-16,Sharpe maximal
+2023-11-30,NFLX,0.02119111358216676,Sharpe maximal
+2023-12-31,AAPL,0.07205699463682258,Sharpe maximal
+2023-12-31,MSFT,2.950160762431331e-17,Sharpe maximal
+2023-12-31,NVDA,0.30789745433785753,Sharpe maximal
+2023-12-31,GOOG,6.213242185381443e-17,Sharpe maximal
+2023-12-31,META,0.3499999999999998,Sharpe maximal
+2023-12-31,SAP,0.2230976870357611,Sharpe maximal
+2023-12-31,TSM,0.0,Sharpe maximal
+2023-12-31,NFLX,0.046947863989558865,Sharpe maximal
+2024-01-31,AAPL,0.0,Sharpe maximal
+2024-01-31,MSFT,0.04706085003824069,Sharpe maximal
+2024-01-31,NVDA,0.3499999999999996,Sharpe maximal
+2024-01-31,GOOG,1.869970096919666e-16,Sharpe maximal
+2024-01-31,META,0.34999999999999976,Sharpe maximal
+2024-01-31,SAP,0.1991497227208022,Sharpe maximal
+2024-01-31,TSM,0.0,Sharpe maximal
+2024-01-31,NFLX,0.05378942724095772,Sharpe maximal
+2024-02-29,AAPL,0.0,Sharpe maximal
+2024-02-29,MSFT,0.01589134307005074,Sharpe maximal
+2024-02-29,NVDA,0.2852426834667412,Sharpe maximal
+2024-02-29,GOOG,8.916197734369789e-17,Sharpe maximal
+2024-02-29,META,0.3499999999999998,Sharpe maximal
+2024-02-29,SAP,0.2514637006890838,Sharpe maximal
+2024-02-29,TSM,1.155213018760916e-16,Sharpe maximal
+2024-02-29,NFLX,0.09740227277412426,Sharpe maximal
+2024-03-31,AAPL,1.0173753853441691e-16,Sharpe maximal
+2024-03-31,MSFT,0.0,Sharpe maximal
+2024-03-31,NVDA,0.3285544922890603,Sharpe maximal
+2024-03-31,GOOG,0.0,Sharpe maximal
+2024-03-31,META,0.31168826239141934,Sharpe maximal
+2024-03-31,SAP,0.18513906375993622,Sharpe maximal
+2024-03-31,TSM,2.7266485560845235e-16,Sharpe maximal
+2024-03-31,NFLX,0.17461818155958386,Sharpe maximal
+2024-04-30,AAPL,1.0221713578940424e-16,Sharpe maximal
+2024-04-30,MSFT,1.0476921674781313e-16,Sharpe maximal
+2024-04-30,NVDA,0.3499999999999999,Sharpe maximal
+2024-04-30,GOOG,0.22455100596018318,Sharpe maximal
+2024-04-30,META,0.2099229601062778,Sharpe maximal
+2024-04-30,SAP,2.2260657037921544e-17,Sharpe maximal
+2024-04-30,TSM,0.004501138527848483,Sharpe maximal
+2024-04-30,NFLX,0.21102489540569053,Sharpe maximal
+2024-05-31,AAPL,0.0,Sharpe maximal
+2024-05-31,MSFT,1.6261345821718987e-16,Sharpe maximal
+2024-05-31,NVDA,0.35,Sharpe maximal
+2024-05-31,GOOG,0.14033755706854506,Sharpe maximal
+2024-05-31,META,0.19638198279594163,Sharpe maximal
+2024-05-31,SAP,0.0919337285327062,Sharpe maximal
+2024-05-31,TSM,0.048933026817837205,Sharpe maximal
+2024-05-31,NFLX,0.17241370478496984,Sharpe maximal
+2024-06-30,AAPL,0.0,Sharpe maximal
+2024-06-30,MSFT,0.0,Sharpe maximal
+2024-06-30,NVDA,0.3499999999999999,Sharpe maximal
+2024-06-30,GOOG,0.2074480451327852,Sharpe maximal
+2024-06-30,META,0.11983592286748286,Sharpe maximal
+2024-06-30,SAP,0.18872519262743326,Sharpe maximal
+2024-06-30,TSM,0.08118170084393157,Sharpe maximal
+2024-06-30,NFLX,0.05280913852836717,Sharpe maximal
+2024-07-31,AAPL,0.0,Sharpe maximal
+2024-07-31,MSFT,0.0,Sharpe maximal
+2024-07-31,NVDA,0.3499999999999999,Sharpe maximal
+2024-07-31,GOOG,0.08613915512964038,Sharpe maximal
+2024-07-31,META,0.04701902756186327,Sharpe maximal
+2024-07-31,SAP,0.35,Sharpe maximal
+2024-07-31,TSM,0.08434812776294322,Sharpe maximal
+2024-07-31,NFLX,0.08249368954555325,Sharpe maximal
+2024-08-31,AAPL,0.0,Sharpe maximal
+2024-08-31,MSFT,3.036019066715012e-17,Sharpe maximal
+2024-08-31,NVDA,0.20098934396297138,Sharpe maximal
+2024-08-31,GOOG,0.0,Sharpe maximal
+2024-08-31,META,0.21540322218557595,Sharpe maximal
+2024-08-31,SAP,0.33159897025535034,Sharpe maximal
+2024-08-31,TSM,0.06877177235198309,Sharpe maximal
+2024-08-31,NFLX,0.18323669124411932,Sharpe maximal
+2024-09-30,AAPL,0.14795451888718125,Sharpe maximal
+2024-09-30,MSFT,5.339131023391372e-17,Sharpe maximal
+2024-09-30,NVDA,0.1431746137198084,Sharpe maximal
+2024-09-30,GOOG,5.153273297473183e-17,Sharpe maximal
+2024-09-30,META,0.15123066448344868,Sharpe maximal
+2024-09-30,SAP,0.3499999999999999,Sharpe maximal
+2024-09-30,TSM,0.0,Sharpe maximal
+2024-09-30,NFLX,0.20764020290956173,Sharpe maximal
+2024-10-31,AAPL,0.025961844748411084,Sharpe maximal
+2024-10-31,MSFT,2.1434968988107005e-16,Sharpe maximal
+2024-10-31,NVDA,0.18340971513433144,Sharpe maximal
+2024-10-31,GOOG,5.599860455287565e-17,Sharpe maximal
+2024-10-31,META,0.1330101882757985,Sharpe maximal
+2024-10-31,SAP,0.3327707652029466,Sharpe maximal
+2024-10-31,TSM,0.08974339066983883,Sharpe maximal
+2024-10-31,NFLX,0.2351040959686733,Sharpe maximal
+2024-11-30,AAPL,0.049090632903464944,Sharpe maximal
+2024-11-30,MSFT,0.0,Sharpe maximal
+2024-11-30,NVDA,0.23066327374445722,Sharpe maximal
+2024-11-30,GOOG,0.0,Sharpe maximal
+2024-11-30,META,0.16039473089716533,Sharpe maximal
+2024-11-30,SAP,0.1556664048848244,Sharpe maximal
+2024-11-30,TSM,0.05418495757008823,Sharpe maximal
+2024-11-30,NFLX,0.3499999999999999,Sharpe maximal
+2024-12-31,AAPL,0.08219164600456638,Sharpe maximal
+2024-12-31,MSFT,2.329584130877879e-16,Sharpe maximal
+2024-12-31,NVDA,0.16956618595892392,Sharpe maximal
+2024-12-31,GOOG,0.015881115937920926,Sharpe maximal
+2024-12-31,META,0.08327141772405482,Sharpe maximal
+2024-12-31,SAP,0.24234830557767778,Sharpe maximal
+2024-12-31,TSM,0.05930914593476654,Sharpe maximal
+2024-12-31,NFLX,0.3474321828620894,Sharpe maximal
+2025-01-31,AAPL,0.04549174380821774,Sharpe maximal
+2025-01-31,MSFT,0.0,Sharpe maximal
+2025-01-31,NVDA,4.965174883084628e-17,Sharpe maximal
+2025-01-31,GOOG,0.02447254589821334,Sharpe maximal
+2025-01-31,META,0.14571873126361312,Sharpe maximal
+2025-01-31,SAP,0.3363761272101552,Sharpe maximal
+2025-01-31,TSM,0.09794085181980096,Sharpe maximal
+2025-01-31,NFLX,0.34999999999999964,Sharpe maximal
+2025-02-28,AAPL,0.2341025257747262,Sharpe maximal
+2025-02-28,MSFT,5.2641102311244224e-18,Sharpe maximal
+2025-02-28,NVDA,1.563346276703898e-16,Sharpe maximal
+2025-02-28,GOOG,3.3907463170638814e-17,Sharpe maximal
+2025-02-28,META,0.05224318578252679,Sharpe maximal
+2025-02-28,SAP,0.35,Sharpe maximal
+2025-02-28,TSM,0.013654288442747499,Sharpe maximal
+2025-02-28,NFLX,0.34999999999999937,Sharpe maximal
+2025-03-31,AAPL,0.30000000000000054,Sharpe maximal
+2025-03-31,MSFT,3.3306690738754667e-16,Sharpe maximal
+2025-03-31,NVDA,0.0,Sharpe maximal
+2025-03-31,GOOG,0.0,Sharpe maximal
+2025-03-31,META,0.0,Sharpe maximal
+2025-03-31,SAP,0.3499999999999994,Sharpe maximal
+2025-03-31,TSM,0.0,Sharpe maximal
+2025-03-31,NFLX,0.34999999999999964,Sharpe maximal
+2025-04-30,AAPL,0.257742907286964,Sharpe maximal
+2025-04-30,MSFT,2.3794757838964953e-15,Sharpe maximal
+2025-04-30,NVDA,3.851271920874359e-15,Sharpe maximal
+2025-04-30,GOOG,2.4241331016624944e-15,Sharpe maximal
+2025-04-30,META,0.04225709271303843,Sharpe maximal
+2025-04-30,SAP,0.3499999999999954,Sharpe maximal
+2025-04-30,TSM,3.25505806121963e-17,Sharpe maximal
+2025-04-30,NFLX,0.34999999999999337,Sharpe maximal
+2025-05-31,AAPL,0.0,Sharpe maximal
+2025-05-31,MSFT,6.800116025829079e-16,Sharpe maximal
+2025-05-31,NVDA,1.3877787807814448e-17,Sharpe maximal
+2025-05-31,GOOG,3.747002708109901e-16,Sharpe maximal
+2025-05-31,META,0.3,Sharpe maximal
+2025-05-31,SAP,0.34999999999999953,Sharpe maximal
+2025-05-31,TSM,0.0,Sharpe maximal
+2025-05-31,NFLX,0.3499999999999994,Sharpe maximal
+2025-06-30,AAPL,0.0,Sharpe maximal
+2025-06-30,MSFT,0.0,Sharpe maximal
+2025-06-30,NVDA,0.0,Sharpe maximal
+2025-06-30,GOOG,2.4205942581692334e-16,Sharpe maximal
+2025-06-30,META,0.2891374872647941,Sharpe maximal
+2025-06-30,SAP,0.3500000000000001,Sharpe maximal
+2025-06-30,TSM,0.010862512735205554,Sharpe maximal
+2025-06-30,NFLX,0.3500000000000001,Sharpe maximal
+2025-07-31,AAPL,1.9385883830976737e-16,Sharpe maximal
+2025-07-31,MSFT,1.9385883830976737e-16,Sharpe maximal
+2025-07-31,NVDA,0.0,Sharpe maximal
+2025-07-31,GOOG,6.079300904193423e-17,Sharpe maximal
+2025-07-31,META,0.34999999999999987,Sharpe maximal
+2025-07-31,SAP,0.24686859117544327,Sharpe maximal
+2025-07-31,TSM,0.053131408824556886,Sharpe maximal
+2025-07-31,NFLX,0.3499999999999996,Sharpe maximal
+2025-08-31,AAPL,7.018365624627265e-17,Sharpe maximal
+2025-08-31,MSFT,0.0,Sharpe maximal
+2025-08-31,NVDA,3.8431847435671675e-17,Sharpe maximal
+2025-08-31,GOOG,0.19878100352336558,Sharpe maximal
+2025-08-31,META,0.19774286093836577,Sharpe maximal
+2025-08-31,SAP,0.19886992468193537,Sharpe maximal
+2025-08-31,TSM,0.05460621085633323,Sharpe maximal
+2025-08-31,NFLX,0.35,Sharpe maximal
+2025-09-30,AAPL,3.964359879902352e-16,Sharpe maximal
+2025-09-30,MSFT,0.02354051239759823,Sharpe maximal
+2025-09-30,NVDA,1.9516818462579797e-16,Sharpe maximal
+2025-09-30,GOOG,0.35,Sharpe maximal
+2025-09-30,META,2.657740226831873e-17,Sharpe maximal
+2025-09-30,SAP,0.031930315791074235,Sharpe maximal
+2025-09-30,TSM,0.24452917181132766,Sharpe maximal
+2025-09-30,NFLX,0.34999999999999926,Sharpe maximal
+2025-10-31,AAPL,0.0,Sharpe maximal
+2025-10-31,MSFT,0.04243685796501737,Sharpe maximal
+2025-10-31,NVDA,0.0,Sharpe maximal
+2025-10-31,GOOG,0.35000000000000003,Sharpe maximal
+2025-10-31,META,0.0,Sharpe maximal
+2025-10-31,SAP,0.0,Sharpe maximal
+2025-10-31,TSM,0.2575631420349825,Sharpe maximal
+2025-10-31,NFLX,0.35000000000000003,Sharpe maximal
+2025-11-30,AAPL,0.020651084084689155,Sharpe maximal
+2025-11-30,MSFT,0.055709461221102013,Sharpe maximal
+2025-11-30,NVDA,6.111897656190998e-16,Sharpe maximal
+2025-11-30,GOOG,0.34999999999999887,Sharpe maximal
+2025-11-30,META,3.326886439410648e-16,Sharpe maximal
+2025-11-30,SAP,1.2594149786289466e-16,Sharpe maximal
+2025-11-30,TSM,0.3344745187325579,Sharpe maximal
+2025-11-30,NFLX,0.23916493596165103,Sharpe maximal
+2025-12-31,AAPL,0.0,Sharpe maximal
+2025-12-31,MSFT,0.2789521921235903,Sharpe maximal
+2025-12-31,NVDA,0.0,Sharpe maximal
+2025-12-31,GOOG,0.35,Sharpe maximal
+2025-12-31,META,2.1533128429622117e-17,Sharpe maximal
+2025-12-31,SAP,0.0,Sharpe maximal
+2025-12-31,TSM,0.35,Sharpe maximal
+2025-12-31,NFLX,0.02104780787640964,Sharpe maximal
+2026-01-31,AAPL,1.4849232954361455e-15,Sharpe maximal
+2026-01-31,MSFT,0.0,Sharpe maximal
+2026-01-31,NVDA,0.2999999999999992,Sharpe maximal
+2026-01-31,GOOG,0.34999999999999964,Sharpe maximal
+2026-01-31,META,0.0,Sharpe maximal
+2026-01-31,SAP,0.0,Sharpe maximal
+2026-01-31,TSM,0.34999999999999964,Sharpe maximal
+2026-01-31,NFLX,0.0,Sharpe maximal
+2026-02-28,AAPL,0.10605874572395099,Sharpe maximal
+2026-02-28,MSFT,2.1177102430899855e-16,Sharpe maximal
+2026-02-28,NVDA,0.09668532303119931,Sharpe maximal
+2026-02-28,GOOG,0.3499999999999982,Sharpe maximal
+2026-02-28,META,5.792163677956063e-16,Sharpe maximal
+2026-02-28,SAP,0.0,Sharpe maximal
+2026-02-28,TSM,0.3499999999999996,Sharpe maximal
+2026-02-28,NFLX,0.09725593124485112,Sharpe maximal
+2026-03-31,AAPL,0.0,Sharpe maximal
+2026-03-31,MSFT,0.0,Sharpe maximal
+2026-03-31,NVDA,0.18951849429842263,Sharpe maximal
+2026-03-31,GOOG,0.35,Sharpe maximal
+2026-03-31,META,0.0,Sharpe maximal
+2026-03-31,SAP,0.0,Sharpe maximal
+2026-03-31,TSM,0.35,Sharpe maximal
+2026-03-31,NFLX,0.11048150570157741,Sharpe maximal
+2026-04-30,AAPL,0.15265659315905053,Sharpe maximal
+2026-04-30,MSFT,0.0,Sharpe maximal
+2026-04-30,NVDA,0.14734340684094963,Sharpe maximal
+2026-04-30,GOOG,0.34999999999999937,Sharpe maximal
+2026-04-30,META,0.0,Sharpe maximal
+2026-04-30,SAP,5.402507327914313e-16,Sharpe maximal
+2026-04-30,TSM,0.3499999999999998,Sharpe maximal
+2026-04-30,NFLX,0.0,Sharpe maximal
+2026-05-31,AAPL,0.34999999999999976,Sharpe maximal
+2026-05-31,MSFT,0.0,Sharpe maximal
+2026-05-31,NVDA,0.016837982986216325,Sharpe maximal
+2026-05-31,GOOG,0.34999999999999976,Sharpe maximal
+2026-05-31,META,4.0581665734179495e-16,Sharpe maximal
+2026-05-31,SAP,0.0,Sharpe maximal
+2026-05-31,TSM,0.2831620170137837,Sharpe maximal
+2026-05-31,NFLX,1.6484948584962777e-16,Sharpe maximal
+2026-06-30,AAPL,0.3499999998696151,Sharpe maximal
+2026-06-30,MSFT,0.0,Sharpe maximal
+2026-06-30,NVDA,0.0,Sharpe maximal
+2026-06-30,GOOG,0.3499999998696151,Sharpe maximal
+2026-06-30,META,0.0,Sharpe maximal
+2026-06-30,SAP,0.0,Sharpe maximal
+2026-06-30,TSM,0.30000000026076845,Sharpe maximal
+2026-06-30,NFLX,1.4494680304215202e-15,Sharpe maximal
+2026-07-31,AAPL,0.35000000013038457,Sharpe maximal
+2026-07-31,MSFT,0.0,Sharpe maximal
+2026-07-31,NVDA,1.2668307854431657e-15,Sharpe maximal
+2026-07-31,GOOG,0.3500000001303842,Sharpe maximal
+2026-07-31,META,4.807209183225173e-16,Sharpe maximal
+2026-07-31,SAP,4.3668228514506197e-16,Sharpe maximal
+2026-07-31,TSM,0.2999999997392291,Sharpe maximal
+2026-07-31,NFLX,0.0,Sharpe maximal
+2026-08-31,AAPL,0.3499999999999997,Sharpe maximal
+2026-08-31,MSFT,5.380131447566812e-16,Sharpe maximal
+2026-08-31,NVDA,3.165879799512044e-17,Sharpe maximal
+2026-08-31,GOOG,0.3499999999999998,Sharpe maximal
+2026-08-31,META,0.0,Sharpe maximal
+2026-08-31,SAP,1.359682013475251e-16,Sharpe maximal
+2026-08-31,TSM,0.2999999999999995,Sharpe maximal
+2026-08-31,NFLX,3.3165474685776857e-16,Sharpe maximal
+2026-09-30,AAPL,0.35000000013038524,Sharpe maximal
+2026-09-30,MSFT,2.7773020939956763e-16,Sharpe maximal
+2026-09-30,NVDA,0.0,Sharpe maximal
+2026-09-30,GOOG,0.299999999739229,Sharpe maximal
+2026-09-30,META,2.855087657056237e-16,Sharpe maximal
+2026-09-30,SAP,2.0957163755633618e-16,Sharpe maximal
+2026-09-30,TSM,0.350000000130385,Sharpe maximal
+2026-09-30,NFLX,0.0,Sharpe maximal
+2026-10-31,AAPL,0.3499999999999994,Sharpe maximal
+2026-10-31,MSFT,0.08898262356396827,Sharpe maximal
+2026-10-31,NVDA,0.0,Sharpe maximal
+2026-10-31,GOOG,0.15582481307869192,Sharpe maximal
+2026-10-31,META,0.0,Sharpe maximal
+2026-10-31,SAP,0.05519256335734095,Sharpe maximal
+2026-10-31,TSM,0.3499999999999994,Sharpe maximal
+2026-10-31,NFLX,0.0,Sharpe maximal
+2020-01-31,AAPL,0.25,Momentum 12 moins 1
+2020-01-31,MSFT,0.25,Momentum 12 moins 1
+2020-01-31,NVDA,0.25,Momentum 12 moins 1
+2020-01-31,GOOG,0.0,Momentum 12 moins 1
+2020-01-31,META,0.0,Momentum 12 moins 1
+2020-01-31,SAP,0.0,Momentum 12 moins 1
+2020-01-31,TSM,0.25,Momentum 12 moins 1
+2020-01-31,NFLX,0.0,Momentum 12 moins 1
+2020-02-29,AAPL,0.25,Momentum 12 moins 1
+2020-02-29,MSFT,0.25,Momentum 12 moins 1
+2020-02-29,NVDA,0.25,Momentum 12 moins 1
+2020-02-29,GOOG,0.0,Momentum 12 moins 1
+2020-02-29,META,0.0,Momentum 12 moins 1
+2020-02-29,SAP,0.0,Momentum 12 moins 1
+2020-02-29,TSM,0.25,Momentum 12 moins 1
+2020-02-29,NFLX,0.0,Momentum 12 moins 1
+2020-03-31,AAPL,0.25,Momentum 12 moins 1
+2020-03-31,MSFT,0.25,Momentum 12 moins 1
+2020-03-31,NVDA,0.25,Momentum 12 moins 1
+2020-03-31,GOOG,0.0,Momentum 12 moins 1
+2020-03-31,META,0.0,Momentum 12 moins 1
+2020-03-31,SAP,0.0,Momentum 12 moins 1
+2020-03-31,TSM,0.25,Momentum 12 moins 1
+2020-03-31,NFLX,0.0,Momentum 12 moins 1
+2020-04-30,AAPL,0.25,Momentum 12 moins 1
+2020-04-30,MSFT,0.25,Momentum 12 moins 1
+2020-04-30,NVDA,0.25,Momentum 12 moins 1
+2020-04-30,GOOG,0.0,Momentum 12 moins 1
+2020-04-30,META,0.0,Momentum 12 moins 1
+2020-04-30,SAP,0.0,Momentum 12 moins 1
+2020-04-30,TSM,0.25,Momentum 12 moins 1
+2020-04-30,NFLX,0.0,Momentum 12 moins 1
+2020-05-31,AAPL,0.25,Momentum 12 moins 1
+2020-05-31,MSFT,0.25,Momentum 12 moins 1
+2020-05-31,NVDA,0.25,Momentum 12 moins 1
+2020-05-31,GOOG,0.0,Momentum 12 moins 1
+2020-05-31,META,0.0,Momentum 12 moins 1
+2020-05-31,SAP,0.0,Momentum 12 moins 1
+2020-05-31,TSM,0.25,Momentum 12 moins 1
+2020-05-31,NFLX,0.0,Momentum 12 moins 1
+2020-06-30,AAPL,0.25,Momentum 12 moins 1
+2020-06-30,MSFT,0.25,Momentum 12 moins 1
+2020-06-30,NVDA,0.25,Momentum 12 moins 1
+2020-06-30,GOOG,0.25,Momentum 12 moins 1
+2020-06-30,META,0.0,Momentum 12 moins 1
+2020-06-30,SAP,0.0,Momentum 12 moins 1
+2020-06-30,TSM,0.0,Momentum 12 moins 1
+2020-06-30,NFLX,0.0,Momentum 12 moins 1
+2020-07-31,AAPL,0.25,Momentum 12 moins 1
+2020-07-31,MSFT,0.25,Momentum 12 moins 1
+2020-07-31,NVDA,0.25,Momentum 12 moins 1
+2020-07-31,GOOG,0.0,Momentum 12 moins 1
+2020-07-31,META,0.0,Momentum 12 moins 1
+2020-07-31,SAP,0.0,Momentum 12 moins 1
+2020-07-31,TSM,0.0,Momentum 12 moins 1
+2020-07-31,NFLX,0.25,Momentum 12 moins 1
+2020-08-31,AAPL,0.25,Momentum 12 moins 1
+2020-08-31,MSFT,0.0,Momentum 12 moins 1
+2020-08-31,NVDA,0.25,Momentum 12 moins 1
+2020-08-31,GOOG,0.0,Momentum 12 moins 1
+2020-08-31,META,0.0,Momentum 12 moins 1
+2020-08-31,SAP,0.0,Momentum 12 moins 1
+2020-08-31,TSM,0.25,Momentum 12 moins 1
+2020-08-31,NFLX,0.25,Momentum 12 moins 1
+2020-09-30,AAPL,0.25,Momentum 12 moins 1
+2020-09-30,MSFT,0.0,Momentum 12 moins 1
+2020-09-30,NVDA,0.25,Momentum 12 moins 1
+2020-09-30,GOOG,0.0,Momentum 12 moins 1
+2020-09-30,META,0.0,Momentum 12 moins 1
+2020-09-30,SAP,0.0,Momentum 12 moins 1
+2020-09-30,TSM,0.25,Momentum 12 moins 1
+2020-09-30,NFLX,0.25,Momentum 12 moins 1
+2020-10-31,AAPL,0.25,Momentum 12 moins 1
+2020-10-31,MSFT,0.0,Momentum 12 moins 1
+2020-10-31,NVDA,0.25,Momentum 12 moins 1
+2020-10-31,GOOG,0.0,Momentum 12 moins 1
+2020-10-31,META,0.0,Momentum 12 moins 1
+2020-10-31,SAP,0.0,Momentum 12 moins 1
+2020-10-31,TSM,0.25,Momentum 12 moins 1
+2020-10-31,NFLX,0.25,Momentum 12 moins 1
+2020-11-30,AAPL,0.25,Momentum 12 moins 1
+2020-11-30,MSFT,0.0,Momentum 12 moins 1
+2020-11-30,NVDA,0.25,Momentum 12 moins 1
+2020-11-30,GOOG,0.0,Momentum 12 moins 1
+2020-11-30,META,0.0,Momentum 12 moins 1
+2020-11-30,SAP,0.0,Momentum 12 moins 1
+2020-11-30,TSM,0.25,Momentum 12 moins 1
+2020-11-30,NFLX,0.25,Momentum 12 moins 1
+2020-12-31,AAPL,0.25,Momentum 12 moins 1
+2020-12-31,MSFT,0.0,Momentum 12 moins 1
+2020-12-31,NVDA,0.25,Momentum 12 moins 1
+2020-12-31,GOOG,0.0,Momentum 12 moins 1
+2020-12-31,META,0.0,Momentum 12 moins 1
+2020-12-31,SAP,0.0,Momentum 12 moins 1
+2020-12-31,TSM,0.25,Momentum 12 moins 1
+2020-12-31,NFLX,0.25,Momentum 12 moins 1
+2021-01-31,AAPL,0.25,Momentum 12 moins 1
+2021-01-31,MSFT,0.0,Momentum 12 moins 1
+2021-01-31,NVDA,0.25,Momentum 12 moins 1
+2021-01-31,GOOG,0.0,Momentum 12 moins 1
+2021-01-31,META,0.0,Momentum 12 moins 1
+2021-01-31,SAP,0.0,Momentum 12 moins 1
+2021-01-31,TSM,0.25,Momentum 12 moins 1
+2021-01-31,NFLX,0.25,Momentum 12 moins 1
+2021-02-28,AAPL,0.25,Momentum 12 moins 1
+2021-02-28,MSFT,0.25,Momentum 12 moins 1
+2021-02-28,NVDA,0.25,Momentum 12 moins 1
+2021-02-28,GOOG,0.0,Momentum 12 moins 1
+2021-02-28,META,0.0,Momentum 12 moins 1
+2021-02-28,SAP,0.0,Momentum 12 moins 1
+2021-02-28,TSM,0.25,Momentum 12 moins 1
+2021-02-28,NFLX,0.0,Momentum 12 moins 1
+2021-03-31,AAPL,0.25,Momentum 12 moins 1
+2021-03-31,MSFT,0.0,Momentum 12 moins 1
+2021-03-31,NVDA,0.25,Momentum 12 moins 1
+2021-03-31,GOOG,0.25,Momentum 12 moins 1
+2021-03-31,META,0.0,Momentum 12 moins 1
+2021-03-31,SAP,0.0,Momentum 12 moins 1
+2021-03-31,TSM,0.25,Momentum 12 moins 1
+2021-03-31,NFLX,0.0,Momentum 12 moins 1
+2021-04-30,AAPL,0.25,Momentum 12 moins 1
+2021-04-30,MSFT,0.0,Momentum 12 moins 1
+2021-04-30,NVDA,0.25,Momentum 12 moins 1
+2021-04-30,GOOG,0.25,Momentum 12 moins 1
+2021-04-30,META,0.0,Momentum 12 moins 1
+2021-04-30,SAP,0.0,Momentum 12 moins 1
+2021-04-30,TSM,0.25,Momentum 12 moins 1
+2021-04-30,NFLX,0.0,Momentum 12 moins 1
+2021-05-31,AAPL,0.25,Momentum 12 moins 1
+2021-05-31,MSFT,0.0,Momentum 12 moins 1
+2021-05-31,NVDA,0.25,Momentum 12 moins 1
+2021-05-31,GOOG,0.25,Momentum 12 moins 1
+2021-05-31,META,0.0,Momentum 12 moins 1
+2021-05-31,SAP,0.0,Momentum 12 moins 1
+2021-05-31,TSM,0.25,Momentum 12 moins 1
+2021-05-31,NFLX,0.0,Momentum 12 moins 1
+2021-06-30,AAPL,0.0,Momentum 12 moins 1
+2021-06-30,MSFT,0.0,Momentum 12 moins 1
+2021-06-30,NVDA,0.25,Momentum 12 moins 1
+2021-06-30,GOOG,0.25,Momentum 12 moins 1
+2021-06-30,META,0.25,Momentum 12 moins 1
+2021-06-30,SAP,0.0,Momentum 12 moins 1
+2021-06-30,TSM,0.25,Momentum 12 moins 1
+2021-06-30,NFLX,0.0,Momentum 12 moins 1
+2021-07-31,AAPL,0.0,Momentum 12 moins 1
+2021-07-31,MSFT,0.0,Momentum 12 moins 1
+2021-07-31,NVDA,0.25,Momentum 12 moins 1
+2021-07-31,GOOG,0.25,Momentum 12 moins 1
+2021-07-31,META,0.25,Momentum 12 moins 1
+2021-07-31,SAP,0.0,Momentum 12 moins 1
+2021-07-31,TSM,0.25,Momentum 12 moins 1
+2021-07-31,NFLX,0.0,Momentum 12 moins 1
+2021-08-31,AAPL,0.0,Momentum 12 moins 1
+2021-08-31,MSFT,0.25,Momentum 12 moins 1
+2021-08-31,NVDA,0.25,Momentum 12 moins 1
+2021-08-31,GOOG,0.25,Momentum 12 moins 1
+2021-08-31,META,0.0,Momentum 12 moins 1
+2021-08-31,SAP,0.0,Momentum 12 moins 1
+2021-08-31,TSM,0.25,Momentum 12 moins 1
+2021-08-31,NFLX,0.0,Momentum 12 moins 1
+2021-09-30,AAPL,0.0,Momentum 12 moins 1
+2021-09-30,MSFT,0.0,Momentum 12 moins 1
+2021-09-30,NVDA,0.25,Momentum 12 moins 1
+2021-09-30,GOOG,0.25,Momentum 12 moins 1
+2021-09-30,META,0.25,Momentum 12 moins 1
+2021-09-30,SAP,0.0,Momentum 12 moins 1
+2021-09-30,TSM,0.25,Momentum 12 moins 1
+2021-09-30,NFLX,0.0,Momentum 12 moins 1
+2021-10-31,AAPL,0.0,Momentum 12 moins 1
+2021-10-31,MSFT,0.25,Momentum 12 moins 1
+2021-10-31,NVDA,0.25,Momentum 12 moins 1
+2021-10-31,GOOG,0.25,Momentum 12 moins 1
+2021-10-31,META,0.0,Momentum 12 moins 1
+2021-10-31,SAP,0.0,Momentum 12 moins 1
+2021-10-31,TSM,0.25,Momentum 12 moins 1
+2021-10-31,NFLX,0.0,Momentum 12 moins 1
+2021-11-30,AAPL,0.0,Momentum 12 moins 1
+2021-11-30,MSFT,0.25,Momentum 12 moins 1
+2021-11-30,NVDA,0.25,Momentum 12 moins 1
+2021-11-30,GOOG,0.25,Momentum 12 moins 1
+2021-11-30,META,0.0,Momentum 12 moins 1
+2021-11-30,SAP,0.0,Momentum 12 moins 1
+2021-11-30,TSM,0.0,Momentum 12 moins 1
+2021-11-30,NFLX,0.25,Momentum 12 moins 1
+2021-12-31,AAPL,0.25,Momentum 12 moins 1
+2021-12-31,MSFT,0.25,Momentum 12 moins 1
+2021-12-31,NVDA,0.25,Momentum 12 moins 1
+2021-12-31,GOOG,0.25,Momentum 12 moins 1
+2021-12-31,META,0.0,Momentum 12 moins 1
+2021-12-31,SAP,0.0,Momentum 12 moins 1
+2021-12-31,TSM,0.0,Momentum 12 moins 1
+2021-12-31,NFLX,0.0,Momentum 12 moins 1
+2022-01-31,AAPL,0.25,Momentum 12 moins 1
+2022-01-31,MSFT,0.25,Momentum 12 moins 1
+2022-01-31,NVDA,0.25,Momentum 12 moins 1
+2022-01-31,GOOG,0.25,Momentum 12 moins 1
+2022-01-31,META,0.0,Momentum 12 moins 1
+2022-01-31,SAP,0.0,Momentum 12 moins 1
+2022-01-31,TSM,0.0,Momentum 12 moins 1
+2022-01-31,NFLX,0.0,Momentum 12 moins 1
+2022-02-28,AAPL,0.25,Momentum 12 moins 1
+2022-02-28,MSFT,0.25,Momentum 12 moins 1
+2022-02-28,NVDA,0.25,Momentum 12 moins 1
+2022-02-28,GOOG,0.25,Momentum 12 moins 1
+2022-02-28,META,0.0,Momentum 12 moins 1
+2022-02-28,SAP,0.0,Momentum 12 moins 1
+2022-02-28,TSM,0.0,Momentum 12 moins 1
+2022-02-28,NFLX,0.0,Momentum 12 moins 1
+2022-03-31,AAPL,0.25,Momentum 12 moins 1
+2022-03-31,MSFT,0.25,Momentum 12 moins 1
+2022-03-31,NVDA,0.25,Momentum 12 moins 1
+2022-03-31,GOOG,0.25,Momentum 12 moins 1
+2022-03-31,META,0.0,Momentum 12 moins 1
+2022-03-31,SAP,0.0,Momentum 12 moins 1
+2022-03-31,TSM,0.0,Momentum 12 moins 1
+2022-03-31,NFLX,0.0,Momentum 12 moins 1
+2022-04-30,AAPL,0.25,Momentum 12 moins 1
+2022-04-30,MSFT,0.25,Momentum 12 moins 1
+2022-04-30,NVDA,0.25,Momentum 12 moins 1
+2022-04-30,GOOG,0.25,Momentum 12 moins 1
+2022-04-30,META,0.0,Momentum 12 moins 1
+2022-04-30,SAP,0.0,Momentum 12 moins 1
+2022-04-30,TSM,0.0,Momentum 12 moins 1
+2022-04-30,NFLX,0.0,Momentum 12 moins 1
+2022-05-31,AAPL,0.25,Momentum 12 moins 1
+2022-05-31,MSFT,0.25,Momentum 12 moins 1
+2022-05-31,NVDA,0.25,Momentum 12 moins 1
+2022-05-31,GOOG,0.25,Momentum 12 moins 1
+2022-05-31,META,0.0,Momentum 12 moins 1
+2022-05-31,SAP,0.0,Momentum 12 moins 1
+2022-05-31,TSM,0.0,Momentum 12 moins 1
+2022-05-31,NFLX,0.0,Momentum 12 moins 1
+2022-06-30,AAPL,0.25,Momentum 12 moins 1
+2022-06-30,MSFT,0.25,Momentum 12 moins 1
+2022-06-30,NVDA,0.25,Momentum 12 moins 1
+2022-06-30,GOOG,0.25,Momentum 12 moins 1
+2022-06-30,META,0.0,Momentum 12 moins 1
+2022-06-30,SAP,0.0,Momentum 12 moins 1
+2022-06-30,TSM,0.0,Momentum 12 moins 1
+2022-06-30,NFLX,0.0,Momentum 12 moins 1
+2022-07-31,AAPL,0.25,Momentum 12 moins 1
+2022-07-31,MSFT,0.25,Momentum 12 moins 1
+2022-07-31,NVDA,0.25,Momentum 12 moins 1
+2022-07-31,GOOG,0.25,Momentum 12 moins 1
+2022-07-31,META,0.0,Momentum 12 moins 1
+2022-07-31,SAP,0.0,Momentum 12 moins 1
+2022-07-31,TSM,0.0,Momentum 12 moins 1
+2022-07-31,NFLX,0.0,Momentum 12 moins 1
+2022-08-31,AAPL,0.25,Momentum 12 moins 1
+2022-08-31,MSFT,0.25,Momentum 12 moins 1
+2022-08-31,NVDA,0.25,Momentum 12 moins 1
+2022-08-31,GOOG,0.25,Momentum 12 moins 1
+2022-08-31,META,0.0,Momentum 12 moins 1
+2022-08-31,SAP,0.0,Momentum 12 moins 1
+2022-08-31,TSM,0.0,Momentum 12 moins 1
+2022-08-31,NFLX,0.0,Momentum 12 moins 1
+2022-09-30,AAPL,0.25,Momentum 12 moins 1
+2022-09-30,MSFT,0.25,Momentum 12 moins 1
+2022-09-30,NVDA,0.0,Momentum 12 moins 1
+2022-09-30,GOOG,0.25,Momentum 12 moins 1
+2022-09-30,META,0.0,Momentum 12 moins 1
+2022-09-30,SAP,0.0,Momentum 12 moins 1
+2022-09-30,TSM,0.25,Momentum 12 moins 1
+2022-09-30,NFLX,0.0,Momentum 12 moins 1
+2022-10-31,AAPL,0.25,Momentum 12 moins 1
+2022-10-31,MSFT,0.25,Momentum 12 moins 1
+2022-10-31,NVDA,0.0,Momentum 12 moins 1
+2022-10-31,GOOG,0.25,Momentum 12 moins 1
+2022-10-31,META,0.0,Momentum 12 moins 1
+2022-10-31,SAP,0.0,Momentum 12 moins 1
+2022-10-31,TSM,0.25,Momentum 12 moins 1
+2022-10-31,NFLX,0.0,Momentum 12 moins 1
+2022-11-30,AAPL,0.25,Momentum 12 moins 1
+2022-11-30,MSFT,0.25,Momentum 12 moins 1
+2022-11-30,NVDA,0.0,Momentum 12 moins 1
+2022-11-30,GOOG,0.25,Momentum 12 moins 1
+2022-11-30,META,0.0,Momentum 12 moins 1
+2022-11-30,SAP,0.25,Momentum 12 moins 1
+2022-11-30,TSM,0.0,Momentum 12 moins 1
+2022-11-30,NFLX,0.0,Momentum 12 moins 1
+2022-12-31,AAPL,0.25,Momentum 12 moins 1
+2022-12-31,MSFT,0.25,Momentum 12 moins 1
+2022-12-31,NVDA,0.0,Momentum 12 moins 1
+2022-12-31,GOOG,0.25,Momentum 12 moins 1
+2022-12-31,META,0.0,Momentum 12 moins 1
+2022-12-31,SAP,0.25,Momentum 12 moins 1
+2022-12-31,TSM,0.0,Momentum 12 moins 1
+2022-12-31,NFLX,0.0,Momentum 12 moins 1
+2023-01-31,AAPL,0.25,Momentum 12 moins 1
+2023-01-31,MSFT,0.25,Momentum 12 moins 1
+2023-01-31,NVDA,0.0,Momentum 12 moins 1
+2023-01-31,GOOG,0.0,Momentum 12 moins 1
+2023-01-31,META,0.0,Momentum 12 moins 1
+2023-01-31,SAP,0.25,Momentum 12 moins 1
+2023-01-31,TSM,0.0,Momentum 12 moins 1
+2023-01-31,NFLX,0.25,Momentum 12 moins 1
+2023-02-28,AAPL,0.25,Momentum 12 moins 1
+2023-02-28,MSFT,0.0,Momentum 12 moins 1
+2023-02-28,NVDA,0.25,Momentum 12 moins 1
+2023-02-28,GOOG,0.0,Momentum 12 moins 1
+2023-02-28,META,0.0,Momentum 12 moins 1
+2023-02-28,SAP,0.25,Momentum 12 moins 1
+2023-02-28,TSM,0.0,Momentum 12 moins 1
+2023-02-28,NFLX,0.25,Momentum 12 moins 1
+2023-03-31,AAPL,0.25,Momentum 12 moins 1
+2023-03-31,MSFT,0.0,Momentum 12 moins 1
+2023-03-31,NVDA,0.25,Momentum 12 moins 1
+2023-03-31,GOOG,0.0,Momentum 12 moins 1
+2023-03-31,META,0.0,Momentum 12 moins 1
+2023-03-31,SAP,0.25,Momentum 12 moins 1
+2023-03-31,TSM,0.25,Momentum 12 moins 1
+2023-03-31,NFLX,0.0,Momentum 12 moins 1
+2023-04-30,AAPL,0.0,Momentum 12 moins 1
+2023-04-30,MSFT,0.0,Momentum 12 moins 1
+2023-04-30,NVDA,0.25,Momentum 12 moins 1
+2023-04-30,GOOG,0.0,Momentum 12 moins 1
+2023-04-30,META,0.25,Momentum 12 moins 1
+2023-04-30,SAP,0.25,Momentum 12 moins 1
+2023-04-30,TSM,0.0,Momentum 12 moins 1
+2023-04-30,NFLX,0.25,Momentum 12 moins 1
+2023-05-31,AAPL,0.0,Momentum 12 moins 1
+2023-05-31,MSFT,0.0,Momentum 12 moins 1
+2023-05-31,NVDA,0.25,Momentum 12 moins 1
+2023-05-31,GOOG,0.0,Momentum 12 moins 1
+2023-05-31,META,0.25,Momentum 12 moins 1
+2023-05-31,SAP,0.25,Momentum 12 moins 1
+2023-05-31,TSM,0.0,Momentum 12 moins 1
+2023-05-31,NFLX,0.25,Momentum 12 moins 1
+2023-06-30,AAPL,0.0,Momentum 12 moins 1
+2023-06-30,MSFT,0.0,Momentum 12 moins 1
+2023-06-30,NVDA,0.25,Momentum 12 moins 1
+2023-06-30,GOOG,0.0,Momentum 12 moins 1
+2023-06-30,META,0.25,Momentum 12 moins 1
+2023-06-30,SAP,0.25,Momentum 12 moins 1
+2023-06-30,TSM,0.0,Momentum 12 moins 1
+2023-06-30,NFLX,0.25,Momentum 12 moins 1
+2023-07-31,AAPL,0.0,Momentum 12 moins 1
+2023-07-31,MSFT,0.0,Momentum 12 moins 1
+2023-07-31,NVDA,0.25,Momentum 12 moins 1
+2023-07-31,GOOG,0.0,Momentum 12 moins 1
+2023-07-31,META,0.25,Momentum 12 moins 1
+2023-07-31,SAP,0.25,Momentum 12 moins 1
+2023-07-31,TSM,0.0,Momentum 12 moins 1
+2023-07-31,NFLX,0.25,Momentum 12 moins 1
+2023-08-31,AAPL,0.0,Momentum 12 moins 1
+2023-08-31,MSFT,0.0,Momentum 12 moins 1
+2023-08-31,NVDA,0.25,Momentum 12 moins 1
+2023-08-31,GOOG,0.0,Momentum 12 moins 1
+2023-08-31,META,0.25,Momentum 12 moins 1
+2023-08-31,SAP,0.25,Momentum 12 moins 1
+2023-08-31,TSM,0.0,Momentum 12 moins 1
+2023-08-31,NFLX,0.25,Momentum 12 moins 1
+2023-09-30,AAPL,0.0,Momentum 12 moins 1
+2023-09-30,MSFT,0.0,Momentum 12 moins 1
+2023-09-30,NVDA,0.25,Momentum 12 moins 1
+2023-09-30,GOOG,0.0,Momentum 12 moins 1
+2023-09-30,META,0.25,Momentum 12 moins 1
+2023-09-30,SAP,0.25,Momentum 12 moins 1
+2023-09-30,TSM,0.0,Momentum 12 moins 1
+2023-09-30,NFLX,0.25,Momentum 12 moins 1
+2023-10-31,AAPL,0.0,Momentum 12 moins 1
+2023-10-31,MSFT,0.0,Momentum 12 moins 1
+2023-10-31,NVDA,0.25,Momentum 12 moins 1
+2023-10-31,GOOG,0.25,Momentum 12 moins 1
+2023-10-31,META,0.25,Momentum 12 moins 1
+2023-10-31,SAP,0.0,Momentum 12 moins 1
+2023-10-31,TSM,0.25,Momentum 12 moins 1
+2023-10-31,NFLX,0.0,Momentum 12 moins 1
+2023-11-30,AAPL,0.0,Momentum 12 moins 1
+2023-11-30,MSFT,0.25,Momentum 12 moins 1
+2023-11-30,NVDA,0.25,Momentum 12 moins 1
+2023-11-30,GOOG,0.0,Momentum 12 moins 1
+2023-11-30,META,0.25,Momentum 12 moins 1
+2023-11-30,SAP,0.0,Momentum 12 moins 1
+2023-11-30,TSM,0.0,Momentum 12 moins 1
+2023-11-30,NFLX,0.25,Momentum 12 moins 1
+2023-12-31,AAPL,0.0,Momentum 12 moins 1
+2023-12-31,MSFT,0.25,Momentum 12 moins 1
+2023-12-31,NVDA,0.25,Momentum 12 moins 1
+2023-12-31,GOOG,0.0,Momentum 12 moins 1
+2023-12-31,META,0.25,Momentum 12 moins 1
+2023-12-31,SAP,0.0,Momentum 12 moins 1
+2023-12-31,TSM,0.0,Momentum 12 moins 1
+2023-12-31,NFLX,0.25,Momentum 12 moins 1
+2024-01-31,AAPL,0.0,Momentum 12 moins 1
+2024-01-31,MSFT,0.25,Momentum 12 moins 1
+2024-01-31,NVDA,0.25,Momentum 12 moins 1
+2024-01-31,GOOG,0.25,Momentum 12 moins 1
+2024-01-31,META,0.25,Momentum 12 moins 1
+2024-01-31,SAP,0.0,Momentum 12 moins 1
+2024-01-31,TSM,0.0,Momentum 12 moins 1
+2024-01-31,NFLX,0.0,Momentum 12 moins 1
+2024-02-29,AAPL,0.0,Momentum 12 moins 1
+2024-02-29,MSFT,0.0,Momentum 12 moins 1
+2024-02-29,NVDA,0.25,Momentum 12 moins 1
+2024-02-29,GOOG,0.25,Momentum 12 moins 1
+2024-02-29,META,0.25,Momentum 12 moins 1
+2024-02-29,SAP,0.0,Momentum 12 moins 1
+2024-02-29,TSM,0.0,Momentum 12 moins 1
+2024-02-29,NFLX,0.25,Momentum 12 moins 1
+2024-03-31,AAPL,0.0,Momentum 12 moins 1
+2024-03-31,MSFT,0.0,Momentum 12 moins 1
+2024-03-31,NVDA,0.25,Momentum 12 moins 1
+2024-03-31,GOOG,0.0,Momentum 12 moins 1
+2024-03-31,META,0.25,Momentum 12 moins 1
+2024-03-31,SAP,0.25,Momentum 12 moins 1
+2024-03-31,TSM,0.0,Momentum 12 moins 1
+2024-03-31,NFLX,0.25,Momentum 12 moins 1
+2024-04-30,AAPL,0.0,Momentum 12 moins 1
+2024-04-30,MSFT,0.0,Momentum 12 moins 1
+2024-04-30,NVDA,0.25,Momentum 12 moins 1
+2024-04-30,GOOG,0.0,Momentum 12 moins 1
+2024-04-30,META,0.25,Momentum 12 moins 1
+2024-04-30,SAP,0.0,Momentum 12 moins 1
+2024-04-30,TSM,0.25,Momentum 12 moins 1
+2024-04-30,NFLX,0.25,Momentum 12 moins 1
+2024-05-31,AAPL,0.0,Momentum 12 moins 1
+2024-05-31,MSFT,0.0,Momentum 12 moins 1
+2024-05-31,NVDA,0.25,Momentum 12 moins 1
+2024-05-31,GOOG,0.0,Momentum 12 moins 1
+2024-05-31,META,0.25,Momentum 12 moins 1
+2024-05-31,SAP,0.25,Momentum 12 moins 1
+2024-05-31,TSM,0.0,Momentum 12 moins 1
+2024-05-31,NFLX,0.25,Momentum 12 moins 1
+2024-06-30,AAPL,0.0,Momentum 12 moins 1
+2024-06-30,MSFT,0.0,Momentum 12 moins 1
+2024-06-30,NVDA,0.25,Momentum 12 moins 1
+2024-06-30,GOOG,0.0,Momentum 12 moins 1
+2024-06-30,META,0.25,Momentum 12 moins 1
+2024-06-30,SAP,0.0,Momentum 12 moins 1
+2024-06-30,TSM,0.25,Momentum 12 moins 1
+2024-06-30,NFLX,0.25,Momentum 12 moins 1
+2024-07-31,AAPL,0.0,Momentum 12 moins 1
+2024-07-31,MSFT,0.0,Momentum 12 moins 1
+2024-07-31,NVDA,0.25,Momentum 12 moins 1
+2024-07-31,GOOG,0.0,Momentum 12 moins 1
+2024-07-31,META,0.25,Momentum 12 moins 1
+2024-07-31,SAP,0.0,Momentum 12 moins 1
+2024-07-31,TSM,0.25,Momentum 12 moins 1
+2024-07-31,NFLX,0.25,Momentum 12 moins 1
+2024-08-31,AAPL,0.0,Momentum 12 moins 1
+2024-08-31,MSFT,0.0,Momentum 12 moins 1
+2024-08-31,NVDA,0.25,Momentum 12 moins 1
+2024-08-31,GOOG,0.0,Momentum 12 moins 1
+2024-08-31,META,0.25,Momentum 12 moins 1
+2024-08-31,SAP,0.25,Momentum 12 moins 1
+2024-08-31,TSM,0.25,Momentum 12 moins 1
+2024-08-31,NFLX,0.0,Momentum 12 moins 1
+2024-09-30,AAPL,0.0,Momentum 12 moins 1
+2024-09-30,MSFT,0.0,Momentum 12 moins 1
+2024-09-30,NVDA,0.25,Momentum 12 moins 1
+2024-09-30,GOOG,0.0,Momentum 12 moins 1
+2024-09-30,META,0.0,Momentum 12 moins 1
+2024-09-30,SAP,0.25,Momentum 12 moins 1
+2024-09-30,TSM,0.25,Momentum 12 moins 1
+2024-09-30,NFLX,0.25,Momentum 12 moins 1
+2024-10-31,AAPL,0.0,Momentum 12 moins 1
+2024-10-31,MSFT,0.0,Momentum 12 moins 1
+2024-10-31,NVDA,0.25,Momentum 12 moins 1
+2024-10-31,GOOG,0.0,Momentum 12 moins 1
+2024-10-31,META,0.25,Momentum 12 moins 1
+2024-10-31,SAP,0.0,Momentum 12 moins 1
+2024-10-31,TSM,0.25,Momentum 12 moins 1
+2024-10-31,NFLX,0.25,Momentum 12 moins 1
+2024-11-30,AAPL,0.0,Momentum 12 moins 1
+2024-11-30,MSFT,0.0,Momentum 12 moins 1
+2024-11-30,NVDA,0.25,Momentum 12 moins 1
+2024-11-30,GOOG,0.0,Momentum 12 moins 1
+2024-11-30,META,0.25,Momentum 12 moins 1
+2024-11-30,SAP,0.0,Momentum 12 moins 1
+2024-11-30,TSM,0.25,Momentum 12 moins 1
+2024-11-30,NFLX,0.25,Momentum 12 moins 1
+2024-12-31,AAPL,0.0,Momentum 12 moins 1
+2024-12-31,MSFT,0.0,Momentum 12 moins 1
+2024-12-31,NVDA,0.25,Momentum 12 moins 1
+2024-12-31,GOOG,0.0,Momentum 12 moins 1
+2024-12-31,META,0.25,Momentum 12 moins 1
+2024-12-31,SAP,0.0,Momentum 12 moins 1
+2024-12-31,TSM,0.25,Momentum 12 moins 1
+2024-12-31,NFLX,0.25,Momentum 12 moins 1
+2025-01-31,AAPL,0.0,Momentum 12 moins 1
+2025-01-31,MSFT,0.0,Momentum 12 moins 1
+2025-01-31,NVDA,0.25,Momentum 12 moins 1
+2025-01-31,GOOG,0.0,Momentum 12 moins 1
+2025-01-31,META,0.25,Momentum 12 moins 1
+2025-01-31,SAP,0.0,Momentum 12 moins 1
+2025-01-31,TSM,0.25,Momentum 12 moins 1
+2025-01-31,NFLX,0.25,Momentum 12 moins 1
+2025-02-28,AAPL,0.0,Momentum 12 moins 1
+2025-02-28,MSFT,0.0,Momentum 12 moins 1
+2025-02-28,NVDA,0.25,Momentum 12 moins 1
+2025-02-28,GOOG,0.0,Momentum 12 moins 1
+2025-02-28,META,0.0,Momentum 12 moins 1
+2025-02-28,SAP,0.25,Momentum 12 moins 1
+2025-02-28,TSM,0.25,Momentum 12 moins 1
+2025-02-28,NFLX,0.25,Momentum 12 moins 1
+2025-03-31,AAPL,0.25,Momentum 12 moins 1
+2025-03-31,MSFT,0.0,Momentum 12 moins 1
+2025-03-31,NVDA,0.25,Momentum 12 moins 1
+2025-03-31,GOOG,0.0,Momentum 12 moins 1
+2025-03-31,META,0.0,Momentum 12 moins 1
+2025-03-31,SAP,0.25,Momentum 12 moins 1
+2025-03-31,TSM,0.0,Momentum 12 moins 1
+2025-03-31,NFLX,0.25,Momentum 12 moins 1
+2025-04-30,AAPL,0.25,Momentum 12 moins 1
+2025-04-30,MSFT,0.0,Momentum 12 moins 1
+2025-04-30,NVDA,0.0,Momentum 12 moins 1
+2025-04-30,GOOG,0.0,Momentum 12 moins 1
+2025-04-30,META,0.25,Momentum 12 moins 1
+2025-04-30,SAP,0.25,Momentum 12 moins 1
+2025-04-30,TSM,0.0,Momentum 12 moins 1
+2025-04-30,NFLX,0.25,Momentum 12 moins 1
+2025-05-31,AAPL,0.25,Momentum 12 moins 1
+2025-05-31,MSFT,0.0,Momentum 12 moins 1
+2025-05-31,NVDA,0.0,Momentum 12 moins 1
+2025-05-31,GOOG,0.0,Momentum 12 moins 1
+2025-05-31,META,0.25,Momentum 12 moins 1
+2025-05-31,SAP,0.25,Momentum 12 moins 1
+2025-05-31,TSM,0.0,Momentum 12 moins 1
+2025-05-31,NFLX,0.25,Momentum 12 moins 1
+2025-06-30,AAPL,0.0,Momentum 12 moins 1
+2025-06-30,MSFT,0.0,Momentum 12 moins 1
+2025-06-30,NVDA,0.0,Momentum 12 moins 1
+2025-06-30,GOOG,0.0,Momentum 12 moins 1
+2025-06-30,META,0.25,Momentum 12 moins 1
+2025-06-30,SAP,0.25,Momentum 12 moins 1
+2025-06-30,TSM,0.25,Momentum 12 moins 1
+2025-06-30,NFLX,0.25,Momentum 12 moins 1
+2025-07-31,AAPL,0.0,Momentum 12 moins 1
+2025-07-31,MSFT,0.0,Momentum 12 moins 1
+2025-07-31,NVDA,0.0,Momentum 12 moins 1
+2025-07-31,GOOG,0.0,Momentum 12 moins 1
+2025-07-31,META,0.25,Momentum 12 moins 1
+2025-07-31,SAP,0.25,Momentum 12 moins 1
+2025-07-31,TSM,0.25,Momentum 12 moins 1
+2025-07-31,NFLX,0.25,Momentum 12 moins 1
+2025-08-31,AAPL,0.0,Momentum 12 moins 1
+2025-08-31,MSFT,0.0,Momentum 12 moins 1
+2025-08-31,NVDA,0.25,Momentum 12 moins 1
+2025-08-31,GOOG,0.0,Momentum 12 moins 1
+2025-08-31,META,0.25,Momentum 12 moins 1
+2025-08-31,SAP,0.0,Momentum 12 moins 1
+2025-08-31,TSM,0.25,Momentum 12 moins 1
+2025-08-31,NFLX,0.25,Momentum 12 moins 1
+2025-09-30,AAPL,0.0,Momentum 12 moins 1
+2025-09-30,MSFT,0.0,Momentum 12 moins 1
+2025-09-30,NVDA,0.25,Momentum 12 moins 1
+2025-09-30,GOOG,0.25,Momentum 12 moins 1
+2025-09-30,META,0.25,Momentum 12 moins 1
+2025-09-30,SAP,0.0,Momentum 12 moins 1
+2025-09-30,TSM,0.0,Momentum 12 moins 1
+2025-09-30,NFLX,0.25,Momentum 12 moins 1
+2025-10-31,AAPL,0.0,Momentum 12 moins 1
+2025-10-31,MSFT,0.0,Momentum 12 moins 1
+2025-10-31,NVDA,0.25,Momentum 12 moins 1
+2025-10-31,GOOG,0.25,Momentum 12 moins 1
+2025-10-31,META,0.0,Momentum 12 moins 1
+2025-10-31,SAP,0.0,Momentum 12 moins 1
+2025-10-31,TSM,0.25,Momentum 12 moins 1
+2025-10-31,NFLX,0.25,Momentum 12 moins 1
+2025-11-30,AAPL,0.0,Momentum 12 moins 1
+2025-11-30,MSFT,0.0,Momentum 12 moins 1
+2025-11-30,NVDA,0.25,Momentum 12 moins 1
+2025-11-30,GOOG,0.25,Momentum 12 moins 1
+2025-11-30,META,0.25,Momentum 12 moins 1
+2025-11-30,SAP,0.0,Momentum 12 moins 1
+2025-11-30,TSM,0.25,Momentum 12 moins 1
+2025-11-30,NFLX,0.0,Momentum 12 moins 1
+2025-12-31,AAPL,0.0,Momentum 12 moins 1
+2025-12-31,MSFT,0.0,Momentum 12 moins 1
+2025-12-31,NVDA,0.25,Momentum 12 moins 1
+2025-12-31,GOOG,0.25,Momentum 12 moins 1
+2025-12-31,META,0.0,Momentum 12 moins 1
+2025-12-31,SAP,0.0,Momentum 12 moins 1
+2025-12-31,TSM,0.25,Momentum 12 moins 1
+2025-12-31,NFLX,0.25,Momentum 12 moins 1
+2026-01-31,AAPL,0.25,Momentum 12 moins 1
+2026-01-31,MSFT,0.0,Momentum 12 moins 1
+2026-01-31,NVDA,0.25,Momentum 12 moins 1
+2026-01-31,GOOG,0.25,Momentum 12 moins 1
+2026-01-31,META,0.0,Momentum 12 moins 1
+2026-01-31,SAP,0.0,Momentum 12 moins 1
+2026-01-31,TSM,0.25,Momentum 12 moins 1
+2026-01-31,NFLX,0.0,Momentum 12 moins 1
+2026-02-28,AAPL,0.0,Momentum 12 moins 1
+2026-02-28,MSFT,0.25,Momentum 12 moins 1
+2026-02-28,NVDA,0.25,Momentum 12 moins 1
+2026-02-28,GOOG,0.25,Momentum 12 moins 1
+2026-02-28,META,0.0,Momentum 12 moins 1
+2026-02-28,SAP,0.0,Momentum 12 moins 1
+2026-02-28,TSM,0.25,Momentum 12 moins 1
+2026-02-28,NFLX,0.0,Momentum 12 moins 1
+2026-03-31,AAPL,0.25,Momentum 12 moins 1
+2026-03-31,MSFT,0.0,Momentum 12 moins 1
+2026-03-31,NVDA,0.25,Momentum 12 moins 1
+2026-03-31,GOOG,0.25,Momentum 12 moins 1
+2026-03-31,META,0.0,Momentum 12 moins 1
+2026-03-31,SAP,0.0,Momentum 12 moins 1
+2026-03-31,TSM,0.25,Momentum 12 moins 1
+2026-03-31,NFLX,0.0,Momentum 12 moins 1
+2026-04-30,AAPL,0.25,Momentum 12 moins 1
+2026-04-30,MSFT,0.0,Momentum 12 moins 1
+2026-04-30,NVDA,0.25,Momentum 12 moins 1
+2026-04-30,GOOG,0.25,Momentum 12 moins 1
+2026-04-30,META,0.0,Momentum 12 moins 1
+2026-04-30,SAP,0.0,Momentum 12 moins 1
+2026-04-30,TSM,0.25,Momentum 12 moins 1
+2026-04-30,NFLX,0.0,Momentum 12 moins 1
+2026-05-31,AAPL,0.25,Momentum 12 moins 1
+2026-05-31,MSFT,0.0,Momentum 12 moins 1
+2026-05-31,NVDA,0.25,Momentum 12 moins 1
+2026-05-31,GOOG,0.25,Momentum 12 moins 1
+2026-05-31,META,0.0,Momentum 12 moins 1
+2026-05-31,SAP,0.0,Momentum 12 moins 1
+2026-05-31,TSM,0.25,Momentum 12 moins 1
+2026-05-31,NFLX,0.0,Momentum 12 moins 1
+2026-06-30,AAPL,0.25,Momentum 12 moins 1
+2026-06-30,MSFT,0.0,Momentum 12 moins 1
+2026-06-30,NVDA,0.25,Momentum 12 moins 1
+2026-06-30,GOOG,0.25,Momentum 12 moins 1
+2026-06-30,META,0.0,Momentum 12 moins 1
+2026-06-30,SAP,0.0,Momentum 12 moins 1
+2026-06-30,TSM,0.25,Momentum 12 moins 1
+2026-06-30,NFLX,0.0,Momentum 12 moins 1
+2026-07-31,AAPL,0.25,Momentum 12 moins 1
+2026-07-31,MSFT,0.0,Momentum 12 moins 1
+2026-07-31,NVDA,0.25,Momentum 12 moins 1
+2026-07-31,GOOG,0.25,Momentum 12 moins 1
+2026-07-31,META,0.0,Momentum 12 moins 1
+2026-07-31,SAP,0.0,Momentum 12 moins 1
+2026-07-31,TSM,0.25,Momentum 12 moins 1
+2026-07-31,NFLX,0.0,Momentum 12 moins 1
+2026-08-31,AAPL,0.25,Momentum 12 moins 1
+2026-08-31,MSFT,0.0,Momentum 12 moins 1
+2026-08-31,NVDA,0.25,Momentum 12 moins 1
+2026-08-31,GOOG,0.25,Momentum 12 moins 1
+2026-08-31,META,0.0,Momentum 12 moins 1
+2026-08-31,SAP,0.0,Momentum 12 moins 1
+2026-08-31,TSM,0.25,Momentum 12 moins 1
+2026-08-31,NFLX,0.0,Momentum 12 moins 1
+2026-09-30,AAPL,0.25,Momentum 12 moins 1
+2026-09-30,MSFT,0.0,Momentum 12 moins 1
+2026-09-30,NVDA,0.25,Momentum 12 moins 1
+2026-09-30,GOOG,0.25,Momentum 12 moins 1
+2026-09-30,META,0.0,Momentum 12 moins 1
+2026-09-30,SAP,0.0,Momentum 12 moins 1
+2026-09-30,TSM,0.25,Momentum 12 moins 1
+2026-09-30,NFLX,0.0,Momentum 12 moins 1
+2026-10-31,AAPL,0.25,Momentum 12 moins 1
+2026-10-31,MSFT,0.0,Momentum 12 moins 1
+2026-10-31,NVDA,0.25,Momentum 12 moins 1
+2026-10-31,GOOG,0.25,Momentum 12 moins 1
+2026-10-31,META,0.0,Momentum 12 moins 1
+2026-10-31,SAP,0.0,Momentum 12 moins 1
+2026-10-31,TSM,0.25,Momentum 12 moins 1
+2026-10-31,NFLX,0.0,Momentum 12 moins 1

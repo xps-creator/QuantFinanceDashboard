@@ -1,0 +1,42 @@
+// Mesures DAX du rapport Power BI
+// Modèle : dim_actif et dim_date reliées à fait_prix ; dim_date reliée à fait_portefeuille
+
+Rendement cumulé =
+    PRODUCTX ( fait_portefeuille, 1 + fait_portefeuille[rendement] ) - 1
+
+Jours de bourse =
+    COUNTROWS ( VALUES ( dim_date[date] ) )
+
+Rendement annualisé =
+    VAR croissance = [Rendement cumulé] + 1
+    RETURN POWER ( croissance, DIVIDE ( 252, [Jours de bourse] ) ) - 1
+
+Volatilité annualisée =
+    STDEV.S ( fait_portefeuille[rendement] ) * SQRT ( 252 )
+
+Ratio de Sharpe =
+    VAR taux_sans_risque = 0.02
+    RETURN DIVIDE ( [Rendement annualisé] - taux_sans_risque, [Volatilité annualisée] )
+
+VaR 95 % historique =
+    0 - PERCENTILEX.INC ( fait_portefeuille, fait_portefeuille[rendement], 0.05 )
+
+Valeur base 100 =
+    VAR date_courante = MAX ( dim_date[date] )
+    VAR historique =
+        FILTER ( ALL ( dim_date[date] ), dim_date[date] <= date_courante )
+    RETURN
+        100 * PRODUCTX (
+            CALCULATETABLE ( fait_portefeuille, historique ),
+            1 + fait_portefeuille[rendement]
+        )
+
+Drawdown =
+    VAR valeur = [Valeur base 100]
+    VAR date_courante = MAX ( dim_date[date] )
+    VAR sommet =
+        MAXX (
+            FILTER ( ALL ( dim_date[date] ), dim_date[date] <= date_courante ),
+            [Valeur base 100]
+        )
+    RETURN DIVIDE ( valeur, sommet ) - 1
